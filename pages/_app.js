@@ -1,6 +1,8 @@
 // import App from 'next/app'
 
-import '../public/css/style.css';
+// import '../public/css/style.css';
+
+import { content } from "gc-css-framework";
 
 function MyApp({ Component, pageProps }) {
     return <Component {...pageProps} />

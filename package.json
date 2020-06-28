@@ -15,11 +15,12 @@
     "author": "Gregory Cowley",
     "license": "ISC",
     "dependencies": {
-        "@zeit/next-css": "^1.0.1",
-        "next": "^9.2.1",
+        "gc-css-framework": "file:../../packages/gc-style",
+        "next": "^9.4.4",
         "raw-loader": "^4.0.0",
-        "react": "^16.12.0",
-        "react-dom": "^16.12.0",
+        "react": "^16.13.1",
+        "react-css-modules": "^4.7.11",
+        "react-dom": "^16.13.1",
         "react-markdown": "^4.3.1"
     }
 }

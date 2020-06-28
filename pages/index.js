@@ -2,6 +2,7 @@
 // import ReactMarkdown from 'react-markdown'
 
 import React from "react";
+// import CSSModules from 'react-css-modules';
 import SummaryPage from "../components/SummaryPage";
 
 class Index extends React.Component {
@@ -16,7 +17,9 @@ class Index extends React.Component {
   }
 }
 
-export default Index;
+export default CSSModules(Index, styles, {allowMultiple: true} )
+
+// export default Index;
 
 Index.getInitialProps = async function () {
     const siteConfig = await import(`../data/config.json`);
