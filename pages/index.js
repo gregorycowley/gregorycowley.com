@@ -1,44 +1,55 @@
-// import matter from 'gray-matter'
-// import ReactMarkdown from 'react-markdown'
-
 import React from "react";
-// import CSSModules from 'react-css-modules';
-import SummaryPage from "../components/SummaryPage";
+import matter from "gray-matter";
+import { Layout, Card } from "../components/";
 
 class Index extends React.Component {
   constructor(props) {
     super(props);
-    const markdownBody = props.content
-    const frontmatter = props.data
+    this.props = props;
   }
 
   render() {
-    return <SummaryPage {...this.props} />;
+    const artistLink = matter(this.props.artist.default).data.category;
+    const designerLink = matter(this.props.designer.default).data.category;
+    const educatorLink = matter(this.props.educator.default).data.category;
+    const engineerLink = matter(this.props.engineer.default).data.category;
+    const photographerLink = matter(this.props.photographer.default).data.category;
+    const entrepreneurLink = matter(this.props.entrepreneur.default).data.category;
+    return (
+      <Layout 
+       siteTitle={this.props.title}
+       siteDescription={this.props.description}
+      >
+        <div className="home-grid container">
+          <Card {...this.props.artist} link={`/${artistLink}`} style="home" />
+          <Card {...this.props.designer} link={`/${designerLink}`} style="home" />
+          <Card {...this.props.educator} link={`/${educatorLink}`} style="home" />
+          <Card {...this.props.engineer} link={`/${engineerLink}`} style="home" />
+          <Card {...this.props.photographer} link={`/${photographerLink}`} style="home" />
+          <Card {...this.props.entrepreneur} link={`/${entrepreneurLink}`} style="home" />
+        </div>
+      </Layout>
+    );
   }
 }
 
-export default CSSModules(Index, styles, {allowMultiple: true} )
+export default Index;
 
-// export default Index;
-
-Index.getInitialProps = async function () {
-    const siteConfig = await import(`../data/config.json`);
-
-    const headInfo = await import(`../content/head-info.md`);
-    const contactInfo = await import(`../content/contact-info.md`);
-    const contentOne = await import(`../content/sp-index-1.md`);
-    const contentTwo = await import(`../content/sp-index-2.md`);
-    const contentThree = await import(`../content/sp-index-3.md`);
-
-    const metadata = '';//matter(content.default);
-    return {
-        ...metadata,
-        siteConfig,
-        headInfo,
-        contactInfo,
-        contentOne,
-        contentTwo,
-        contentThree
-    };
+Index.getInitialProps = async function() {
+  const metadata = await import(`../data/config.json`)
+  const artist = await import(`../content/disciplines/artist.md`);
+  const designer = await import(`../content/disciplines/designer.md`);
+  const educator = await import(`../content/disciplines/educator.md`);
+  const engineer = await import(`../content/disciplines/engineer.md`);
+  const photographer = await import(`../content/disciplines/photographer.md`);
+  const entrepreneur = await import(`../content/disciplines/entrepreneur.md`);
+  return {
+    ...metadata,
+    artist,
+    designer,
+    educator,
+    engineer,
+    photographer,
+    entrepreneur
+  };
 };
-

@@ -1,0 +1,2273 @@
+[
+    {
+        ".Ulysses-Group": {
+            "path": "../content/.Ulysses-Group.plist"
+        }
+    },
+    {
+        ".Ulysses-Settings": {
+            "path": "../content/.Ulysses-Settings.plist"
+        }
+    },
+    {
+        "about": {
+            "path": "../content/about.md"
+        }
+    },
+    {
+        "artist": {
+            "title": "Artist",
+            "subtitle": "Electronic",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "description": "Description of an artist.",
+            "category": "artist",
+            "path": "../content/disciplines/artist.md"
+        }
+    },
+    {
+        "designer": {
+            "title": "Designer",
+            "subtitle": "Graphics, Visual, Interaction",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "description": "Description of a Designer.",
+            "category": "designer",
+            "path": "../content/disciplines/designer.md"
+        }
+    },
+    {
+        "educator": {
+            "title": "Educator",
+            "subtitle": "Adjunct Professor of Interaction Design",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "description": "Description of an educator.",
+            "category": "educator",
+            "path": "../content/disciplines/educator.md"
+        }
+    },
+    {
+        "engineer": {
+            "title": "Engineer",
+            "subtitle": "Software and Front-end",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "description": "Description of an engineer.",
+            "category": "engineer",
+            "path": "../content/disciplines/engineer.md"
+        }
+    },
+    {
+        "entrepreneur": {
+            "title": "Entrepreneur",
+            "subtitle": "Serial Startups",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "description": "Description of an Entrepreneur.",
+            "category": "entrepreneur",
+            "path": "../content/disciplines/entrepreneur.md"
+        }
+    },
+    {
+        "photographer": {
+            "title": "Photorapher",
+            "subtitle": "Editorial and Portrait",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "description": "Description of a photographer.",
+            "category": "photographer",
+            "path": "../content/disciplines/photographer.md"
+        }
+    },
+    {
+        "index": {
+            "path": "../content/index.md"
+        }
+    },
+    {
+        "project-2": {
+            "title": "Balance Table",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/mock/project-2.md"
+        }
+    },
+    {
+        ".DS_Store": {
+            "path": "../content/projects/.DS_Store"
+        }
+    },
+    {
+        ".Ulysses-Group": {
+            "path": "../content/projects/.Ulysses-Group.plist"
+        }
+    },
+    {
+        "0-selectprojects": {
+            "title": "Select Projects",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "select-projects",
+            "description": "Fermentum aliquam mi quisque aenean auctor risus interdum quam ac placerat duis penatibus, pulvinar ad mus vivamus leo at sem nullam nisl aliquet. Feugiat dis litora maecenas adipiscing cubilia vestibulum, purus nunc congue hendrerit sociosqu. Diam posuere lacus tincidunt commodo natoque lorem metus nec mollis, inceptos turpis luctus proin dapibus varius nunc nam mauris, sagittis aliquet sed nostra dignissim risus aenean volutpat.",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/0-selectprojects.md"
+        }
+    },
+    {
+        "11inc-thedoctorscompany": {
+            "title": "The Doctors Company",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "11inc-thedoctorscompany",
+            "description": "Fermentum aliquam mi quisque aenean auctor risus interdum quam ac placerat duis penatibus, pulvinar ad mus vivamus leo at sem nullam nisl aliquet. Feugiat dis litora maecenas adipiscing cubilia vestibulum, purus nunc congue hendrerit sociosqu. Diam posuere lacus tincidunt commodo natoque lorem metus nec mollis, inceptos turpis luctus proin dapibus varius nunc nam mauris, sagittis aliquet sed nostra dignissim risus aenean volutpat.",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/11inc-thedoctorscompany.md"
+        }
+    },
+    {
+        "300feetout-shantimaurice": {
+            "title": "Shanti Maurice",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "shanti-maurice",
+            "description": "Fermentum aliquam mi quisque aenean auctor risus interdum quam ac placerat duis penatibus, pulvinar ad mus vivamus leo at sem nullam nisl aliquet. Feugiat dis litora maecenas adipiscing cubilia vestibulum, purus nunc congue hendrerit sociosqu. Diam posuere lacus tincidunt commodo natoque lorem metus nec mollis, inceptos turpis luctus proin dapibus varius nunc nam mauris, sagittis aliquet sed nostra dignissim risus aenean volutpat.",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/300feetout-shantimaurice.md"
+        }
+    },
+    {
+        "3feet-openwave": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "3feet-openwave",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/3feet-openwave.md"
+        }
+    },
+    {
+        "3feetofftheground": {
+            "title": "3FeetOffTheGround",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "3FeetOffTheGround",
+            "description": "Fermentum aliquam mi quisque aenean auctor risus interdum quam ac placerat duis penatibus, pulvinar ad mus vivamus leo at sem nullam nisl aliquet. Feugiat dis litora maecenas adipiscing cubilia vestibulum, purus nunc congue hendrerit sociosqu. Diam posuere lacus tincidunt commodo natoque lorem metus nec mollis, inceptos turpis luctus proin dapibus varius nunc nam mauris, sagittis aliquet sed nostra dignissim risus aenean volutpat.",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/3feetofftheground.md"
+        }
+    },
+    {
+        "allergybookcompany": {
+            "title": "Allergy Book Company",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "allergy-book",
+            "description": "Fermentum aliquam mi quisque aenean auctor risus interdum quam ac placerat duis penatibus, pulvinar ad mus vivamus leo at sem nullam nisl aliquet. Feugiat dis litora maecenas adipiscing cubilia vestibulum, purus nunc congue hendrerit sociosqu. Diam posuere lacus tincidunt commodo natoque lorem metus nec mollis, inceptos turpis luctus proin dapibus varius nunc nam mauris, sagittis aliquet sed nostra dignissim risus aenean volutpat.",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/allergybookcompany.md"
+        }
+    },
+    {
+        "california-college-of-the-arts": {
+            "title": "California College of the Arts",
+            "subtitle": "Teaching Digitial Tools to Design Students",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "cca",
+            "description": "For ten years I thought graphic, industrial, and interior design students the tools they would need to create interactive experiences.",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/artist/california-college-of-the-arts.md"
+        }
+    },
+    {
+        "capacitor": {
+            "title": "Capacitor",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "capacitor",
+            "description": "Fermentum aliquam mi quisque aenean auctor risus interdum quam ac placerat duis penatibus, pulvinar ad mus vivamus leo at sem nullam nisl aliquet. Feugiat dis litora maecenas adipiscing cubilia vestibulum, purus nunc congue hendrerit sociosqu. Diam posuere lacus tincidunt commodo natoque lorem metus nec mollis, inceptos turpis luctus proin dapibus varius nunc nam mauris, sagittis aliquet sed nostra dignissim risus aenean volutpat.",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/artist/capacitor.md"
+        }
+    },
+    {
+        "chronopolis": {
+            "title": "Chronopolis",
+            "subtitle": "Large Scale Interctive Installation in Paris",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "chronoloplis",
+            "description": "Amet dictum potenti lorem diam odio turpis Amet dictum potenti lorem diam odio turpis",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/artist/chronopolis.md"
+        }
+    },
+    {
+        "cncmachine": {
+            "title": "CNC Machine",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "cnc-machine",
+            "description": "Urna sociosqu quam ad scelerisque facilisi dapibus arcu lacinia, nullam torquent lectus semper sem lacus rhoncus integer, cubilia consequat nibh dignissim mollis ipsum eu. Nisi fames semper dis id tellus ut, sociosqu integer sollicitudin fringilla senectus eros cum, ornare mi nibh tortor facilisi. Venenatis semper lacus sagittis suspendisse sem tincidunt dolor fames, ad natoque sociis magna a tempus aptent curabitur proin, porta ipsum elementum hendrerit duis cras euismod.",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/artist/cncmachine.md"
+        }
+    },
+    {
+        "countless": {
+            "title": "Countless",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "countless",
+            "description": "Urna sociosqu quam ad scelerisque facilisi dapibus arcu lacinia, nullam torquent lectus semper sem lacus rhoncus integer, cubilia consequat nibh dignissim mollis ipsum eu. Nisi fames semper dis id tellus ut, sociosqu integer sollicitudin fringilla senectus eros cum, ornare mi nibh tortor facilisi. Venenatis semper lacus sagittis suspendisse sem tincidunt dolor fames, ad natoque sociis magna a tempus aptent curabitur proin, porta ipsum elementum hendrerit duis cras euismod.",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/artist/countless.md"
+        }
+    },
+    {
+        "mpps": {
+            "title": "MPPS: The Mobile Phone Photo Show",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "mpps",
+            "description": "Urna sociosqu quam ad scelerisque facilisi dapibus arcu lacinia, nullam torquent lectus semper sem lacus rhoncus integer, cubilia consequat nibh dignissim mollis ipsum eu. Nisi fames semper dis id tellus ut, sociosqu integer sollicitudin fringilla senectus eros cum, ornare mi nibh tortor facilisi. Venenatis semper lacus sagittis suspendisse sem tincidunt dolor fames, ad natoque sociis magna a tempus aptent curabitur proin, porta ipsum elementum hendrerit duis cras euismod.",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/artist/mpps.md"
+        }
+    },
+    {
+        "rx-gallery": {
+            "title": "RX Gallery",
+            "subtitle": "Art and Technology Wine Bar",
+            "author": "Gregory Cowley",
+            "date": "2020-07-04T00:00:00.000Z",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "rx-gallery",
+            "description": "Find cool stuff and show it to people. I was like the idea of thinking of the letters \"Rx\" as an abbreviation for I \"receiver\", as in Rx/Tx, receiver and transmitter configuration. Our jobs as curators of the gallery Word to look out of the world and see what weird amazing unusual things not being represented and finding a way to fit them in the gallery. I'm Sure this is every Gallery school goal that everybody has their own agenda.",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/artist/rx-gallery.md"
+        }
+    },
+    {
+        "thetestproject": {
+            "title": "The TEST:Project",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "the-test-project",
+            "description": "Urna sociosqu quam ad scelerisque facilisi dapibus arcu lacinia, nullam torquent lectus semper sem lacus rhoncus integer, cubilia consequat nibh dignissim mollis ipsum eu. Nisi fames semper dis id tellus ut, sociosqu integer sollicitudin fringilla senectus eros cum, ornare mi nibh tortor facilisi. Venenatis semper lacus sagittis suspendisse sem tincidunt dolor fames, ad natoque sociis magna a tempus aptent curabitur proin, porta ipsum elementum hendrerit duis cras euismod.",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/artist/thetestproject.md"
+        }
+    },
+    {
+        "three-minute-picture-show": {
+            "title": "The Three-Minute Picture Show",
+            "subtitle": "An Un-Curated Film Festival",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "3mps",
+            "description": "Urna sociosqu quam ad scelerisque facilisi dapibus arcu lacinia, nullam torquent lectus semper sem lacus rhoncus integer, cubilia consequat nibh dignissim mollis ipsum eu. Nisi fames semper dis id tellus ut, sociosqu integer sollicitudin fringilla senectus eros cum, ornare mi nibh tortor facilisi. Venenatis semper lacus sagittis suspendisse sem tincidunt dolor fames, ad natoque sociis magna a tempus aptent curabitur proin, porta ipsum elementum hendrerit duis cras euismod.",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/artist/three-minute-picture-show.md"
+        }
+    },
+    {
+        "transcinema": {
+            "title": "Transcinema",
+            "subtitle": "An International New Media Festival Based in San Francisco",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "transcinema",
+            "description": "Create an audience and appreciation of a global group of new media artists. Appreciation of the arts is an acquired taste. The public needs to be educated on the importance of these experiences and the enjoyment these experiences can bring. Once a looks certain level of mainstream awareness is achieved dinner is opportunity for artists to support themselves.",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/artist/transcinema.md"
+        }
+    },
+    {
+        "audiofeast": {
+            "title": "Audiofeast",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "Audiofeast",
+            "description": "Fermentum aliquam mi quisque aenean auctor risus interdum quam ac placerat duis penatibus, pulvinar ad mus vivamus leo at sem nullam nisl aliquet. Feugiat dis litora maecenas adipiscing cubilia vestibulum, purus nunc congue hendrerit sociosqu. Diam posuere lacus tincidunt commodo natoque lorem metus nec mollis, inceptos turpis luctus proin dapibus varius nunc nam mauris, sagittis aliquet sed nostra dignissim risus aenean volutpat.",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/audiofeast.md"
+        }
+    },
+    {
+        "blurb": {
+            "title": "Blurb",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "blurb",
+            "description": "Fermentum aliquam mi quisque aenean auctor risus interdum quam ac placerat duis penatibus, pulvinar ad mus vivamus leo at sem nullam nisl aliquet. Feugiat dis litora maecenas adipiscing cubilia vestibulum, purus nunc congue hendrerit sociosqu. Diam posuere lacus tincidunt commodo natoque lorem metus nec mollis, inceptos turpis luctus proin dapibus varius nunc nam mauris, sagittis aliquet sed nostra dignissim risus aenean volutpat.",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/blurb.md"
+        }
+    },
+    {
+        "cks-apple-quicktime": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/cks-apple-quicktime.md"
+        }
+    },
+    {
+        "cks-appledesignportfolio": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/wolfolins-fineartmuseums.md"
+        }
+    },
+    {
+        "cks-levis": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/cks-levis.md"
+        }
+    },
+    {
+        "cks-mattel": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/cks-mattel.md"
+        }
+    },
+    {
+        "cks-nikealphaproject": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/cks-nikealphaproject.md"
+        }
+    },
+    {
+        "cks-quicktime": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/wolfolins-fineartmuseums.md"
+        }
+    },
+    {
+        "cks-visa-rugby": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/cks-visa-rugby.md"
+        }
+    },
+    {
+        "compass-lumenetix": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/compass-lumenetix.md"
+        }
+    },
+    {
+        "creativefocus": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/wolfolins-fineartmuseums.md"
+        }
+    },
+    {
+        "dr-tingleton": {
+            "title": "Dr Tingleton",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080ori.jpg",
+            "category": "design",
+            "slug": "dr-tingleton",
+            "description": "Fermentum aliquam mi quisque aenean auctor risus interdum quam ac placerat duis penatibus, pulvinar ad mus vivamus leo at sem nullam nisl aliquet. Feugiat dis litora maecenas adipiscing cubilia vestibulum, purus nunc congue hendrerit sociosqu. Diam posuere lacus tincidunt commodo natoque lorem metus nec mollis, inceptos turpis luctus proin dapibus varius nunc nam mauris, sagittis aliquet sed nostra dignissim risus aenean volutpat.",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/dr-tingleton.md"
+        }
+    },
+    {
+        "drdc-luminoxwatch": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/wolfolins-fineartmuseums.md"
+        }
+    },
+    {
+        "drpepper-academyofcountrymusic": {
+            "title": "Academy of Country Music CDROM",
+            "client": "Dr Pepper",
+            "firm": "Dr Pepper",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/drpepper-academyofcountrymusic.md"
+        }
+    },
+    {
+        "dynamic-emc-splatter": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/dynamic-emc-splatter.md"
+        }
+    },
+    {
+        "elixir-opesadvisors": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/elixir-opesadvisors.md"
+        }
+    },
+    {
+        "fine-design-stagsleapwinery": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/fine-design-stagsleapwinery.md"
+        }
+    },
+    {
+        "fitdeck": {
+            "title": "Fitdeck",
+            "client": "Perfect Fitness",
+            "firm": "Perfect Fitness",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/fitdeck.md"
+        }
+    },
+    {
+        "flax-media-pbs": {
+            "title": "PBS Video Browser",
+            "client": "PBS",
+            "firm": "Flax Media",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/flax-media-pbs.md"
+        }
+    },
+    {
+        "fuseproject-briggo": {
+            "title": "Briggo Coffee Kiosk",
+            "client": "Briggo",
+            "firm": "fuseproject",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/fuseproject-briggo.md"
+        }
+    },
+    {
+        "gilmourcraves": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/gilmourcraves.md"
+        }
+    },
+    {
+        "gmotionstudios": {
+            "title": "gMotion Studios",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "gmotionstudios",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/gmotionstudios.md"
+        }
+    },
+    {
+        "gregory-cowleystudios": {
+            "title": "Gregory Cowley Studios",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "gregorycywleystudios",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/gregory-cowleystudios.md"
+        }
+    },
+    {
+        "hong-kong": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/hong-kong.md"
+        }
+    },
+    {
+        "ideo-chaseconcepts": {
+            "title": "IDEO Chase Concepts",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "ideo-chase-concepts",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/ideo-chaseconcepts.md"
+        }
+    },
+    {
+        "ideo-hp-timeline": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/ideo-hp-timeline.md"
+        }
+    },
+    {
+        "ideo-intel-zephyros": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/ideo-intel-zephyros.md"
+        }
+    },
+    {
+        "ideo-intelinterfaces": {
+            "title": "Intel Interfaces",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "intel-interfaces",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/ideo-intelinterfaces.md"
+        }
+    },
+    {
+        "ideo-newyears": {
+            "title": "IDEO New Years",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "idea-new-years",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/ideo-newyears.md"
+        }
+    },
+    {
+        "ideo-thoughtless-acts": {
+            "path": "../content/projects/ideo-thoughtless-acts.md"
+        }
+    },
+    {
+        "intuit": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/intuit.md"
+        }
+    },
+    {
+        "juicystock": {
+            "title": "Juicystock.com",
+            "client": "Juicystock.com",
+            "firm": "Juicystock.com",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/juicystock.md"
+        }
+    },
+    {
+        "lunafest": {
+            "path": "../content/projects/lunafest.md"
+        }
+    },
+    {
+        "macromedia": {
+            "path": "../content/projects/macromedia.md"
+        }
+    },
+    {
+        "mad-ibm-db2": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/wolfolins-fineartmuseums.md"
+        }
+    },
+    {
+        "motorola-chameleon": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/wolfolins-fineartmuseums.md"
+        }
+    },
+    {
+        "odopod-hpadbanners": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/wolfolins-fineartmuseums.md"
+        }
+    },
+    {
+        "odopod-intelpentium3": {
+            "title": "Intel Pentium 3",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "intel-pentium-3",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/odopod-intelpentium3.md"
+        }
+    },
+    {
+        "odopod-nikeskateboarding": {
+            "path": "../content/projects/odopod-nikeskateboarding.md"
+        }
+    },
+    {
+        "oreilly-safariu": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/oreilly-safariu.md"
+        }
+    },
+    {
+        "photo-adobe": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-adobe.md"
+        }
+    },
+    {
+        "photo-architect-magazine": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-architect-magazine.md"
+        }
+    },
+    {
+        "photo-kenwood": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-kenwood.md"
+        }
+    },
+    {
+        "photo-michael-chiarello": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-michael-chiarello.md"
+        }
+    },
+    {
+        "photo-ogilvy-one": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-ogilvy-one.md"
+        }
+    },
+    {
+        "photo-overland-equipment": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-overland-equipment.md"
+        }
+    },
+    {
+        "photo-selectquote": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-selectquote.md"
+        }
+    },
+    {
+        "photo-sequoia": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-sequoia.md"
+        }
+    },
+    {
+        "photo-sfmoma": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-sfmoma.md"
+        }
+    },
+    {
+        "photo-skanska": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-skanska.md"
+        }
+    },
+    {
+        "photo-smartrise": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-smartrise.md"
+        }
+    },
+    {
+        "photo-snibbe-interactive": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-snibbe-interactive.md"
+        }
+    },
+    {
+        "photo-stochasticlabs": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-stochasticlabs.md"
+        }
+    },
+    {
+        "photo-superlawyers": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-superlawyers.md"
+        }
+    },
+    {
+        "photo-the-sak": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-the-sak.md"
+        }
+    },
+    {
+        "photo-university-games": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-university-games.md"
+        }
+    },
+    {
+        "photo-usa-today": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photo-usa-today.md"
+        }
+    },
+    {
+        "photoworks": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/photoworks.md"
+        }
+    },
+    {
+        "punchcut-cingulardeveloperstool": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/punchcut-cingulardeveloperstool.md"
+        }
+    },
+    {
+        "punchcut-dwellvisualizer": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/punchcut-dwellvisualizer.md"
+        }
+    },
+    {
+        "raspberry-pis": {
+            "title": "Raspberry Pi Projects",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "raspberry-pi",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/raspberry-pis.md"
+        }
+    },
+    {
+        "razorfish-hondausa": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/razorfish-hondausa.md"
+        }
+    },
+    {
+        "razorfish-microsoftfrontpage": {
+            "title": "Microsoft Front Page",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "razorfish-microsoftfrontpage",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/razorfish-microsoftfrontpage.md"
+        }
+    },
+    {
+        "ricoh-labs-logo": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/ricoh-labs-logo.md"
+        }
+    },
+    {
+        "rocketlawyer": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/wolfolins-fineartmuseums.md"
+        }
+    },
+    {
+        "simplestar": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/simplestar.md"
+        }
+    },
+    {
+        "spcontrols": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/wolfolins-fineartmuseums.md"
+        }
+    },
+    {
+        "teak-wantedsanta": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/teak-wantedsanta.md"
+        }
+    },
+    {
+        "voicebase": {
+            "title": "Balance Table",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/voicebase.md"
+        }
+    },
+    {
+        "voicebox": {
+            "title": "Voicebase",
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "v  oicebase",
+            "description": "Fermentum aliquam mi quisque aenean auctor risus interdum quam ac placerat duis penatibus, pulvinar ad mus vivamus leo at sem nullam nisl aliquet. Feugiat dis litora maecenas adipiscing cubilia vestibulum, purus nunc congue hendrerit sociosqu. Diam posuere lacus tincidunt commodo natoque lorem metus nec mollis, inceptos turpis luctus proin dapibus varius nunc nam mauris, sagittis aliquet sed nostra dignissim risus aenean volutpat.",
+            "detail_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/voicebox.md"
+        }
+    },
+    {
+        "wolfolins-fineartmuseums": {
+            "title": "Balance Table",
+            "client": null,
+            "firm": null,
+            "subtitle": "A subtitle",
+            "author": "Gregory Cowley",
+            "date": "2020-04-28T00:00:00.000Z",
+            "hero\\_image": "/images/1920x1080.jpg",
+            "category": "design",
+            "slug": "balance-table",
+            "description": "A short description",
+            "detail\\_images": [
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                },
+                {
+                    "src": "/images/180x101ori.jpg"
+                }
+            ],
+            "path": "../content/projects/wolfolins-fineartmuseums.md"
+        }
+    },
+    {
+        "0_role": {
+            "path": "../content/resume/0_role.md"
+        }
+    },
+    {
+        "1_skills": {
+            "path": "../content/resume/1_skills.md"
+        }
+    },
+    {
+        "2_experience": {
+            "path": "../content/resume/2_experience.md"
+        }
+    },
+    {
+        "3_education": {
+            "path": "../content/resume/3_education.md"
+        }
+    },
+    {
+        "clients": {
+            "path": "../content/sidebars/clients.md"
+        }
+    },
+    {
+        "tools": {
+            "path": "../content/sidebars/tools.md"
+        }
+    },
+    {
+        "contact-info": {
+            "path": "../content/skills/contact-info.md"
+        }
+    },
+    {
+        "head-info": {
+            "path": "../content/skills/head-info.md"
+        }
+    },
+    {
+        "sp-index-1": {
+            "path": "../content/skills/sp-index-1.md"
+        }
+    },
+    {
+        "sp-index-2": {
+            "path": "../content/skills/sp-index-2.md"
+        }
+    },
+    {
+        "sp-index-3": {
+            "path": "../content/skills/sp-index-3.md"
+        }
+    }
+]

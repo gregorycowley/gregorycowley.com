@@ -4,23 +4,25 @@
     "description": "Gregory Cowley root level website",
     "main": "index.html",
     "scripts": {
-        "dev:gregorycowley": "next -p 3003",
-        "build:gregorycowley": "next build",
+        "dev": "next -p 3003",
+        "build": "next build",
         "start": "next start",
-        "export:gregorycowley": "next export  -o ./_DEPLOY",
-        "deploy:gregorycowley": "now deploy -A now.json _DEPLOY",
+        "export": "next export  -o ./dist",
+        "deploy": "now deploy -A now.json dist",
         "debug": "NODE_OPTIONS=--inspect next",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Gregory Cowley",
     "license": "ISC",
     "dependencies": {
-        "gc-css-framework": "file:../../packages/gc-style",
+        "@zeit/next-css": "^1.0.1",
+        "glob": "^7.1.6",
         "next": "^9.4.4",
-        "raw-loader": "^4.0.0",
+        "raw-loader": "^4.0.1",
         "react": "^16.13.1",
-        "react-css-modules": "^4.7.11",
         "react-dom": "^16.13.1",
-        "react-markdown": "^4.3.1"
+        "react-markdown": "^4.3.1",
+        "sharp": "^0.25.4",
+        "styled-components": "^5.1.1"
     }
 }
