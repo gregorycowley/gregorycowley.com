@@ -1,13 +1,22 @@
 ---
+slug: chronopolis
 title: Chronopolis
-subtitle:  Large Scale Interctive Installation in Paris
+subtitle: Large Scale Interctive Installation in Paris
+description: >-
+  Amet dictum potenti lorem diam odio turpis Amet dictum potenti lorem diam odio
+  turpis
+date: '20020926'
+client: MAD
+firm: ''
 author: Gregory Cowley
-date: 2020-04-28
+status: Missing
 hero_image: /images/1920x1080ori.jpg
 category: design
-slug: chronoloplis
-description: Amet dictum potenti lorem diam odio turpis Amet dictum potenti lorem diam odio turpis
-detail_images: 
+categoryAlt: Unused
+discipline: Artist
+projecttype: Digital Production
+type: Experience Design
+detail_images:
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg

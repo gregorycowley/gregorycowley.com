@@ -1,13 +1,20 @@
 ---
-title: "Balance Table"
-subtitle:  A subtitle
+slug: cks-levis
+title: Apple Media Arts CDROM
+subtitle: A subtitle
+description: A short description
+date: '19980000'
+client: CKS
+firm: ''
 author: Gregory Cowley
-date: 2020-04-28
+status: Missing
 hero_image: /images/1920x1080.jpg
 category: design
-slug: balance-table
-description: A short description
-detail_images: 
+categoryAlt: Unused
+discipline: Developer
+projecttype: Digital Production
+type: '---'
+detail_images:
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg

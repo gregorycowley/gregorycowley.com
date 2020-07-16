@@ -1,18 +1,25 @@
 ---
-title: "California College of the Arts"
-subtitle:  Teaching Digitial Tools to Design Students
+slug: california-college-of-the-arts
+title: Biometric City
+subtitle: Teaching Digitial Tools to Design Students
+description: >-
+  For ten years I thought graphic, industrial, and interior design students the
+  tools they would need to create interactive experiences.
+date: '20050000'
+client: CCA
+firm: ''
 author: Gregory Cowley
-date: 2020-04-28
+status: Missing
 hero_image: /images/1920x1080ori.jpg
 category: design
-slug: cca
-description: For ten years I thought graphic, industrial, and interior design students the tools they would need to create interactive experiences.
-
-detail_images: 
+categoryAlt: Unused
+discipline: Developer
+projecttype: Digital Production
+type: '---'
+detail_images:
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg
-
 ---
 
 

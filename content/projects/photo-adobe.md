@@ -1,13 +1,20 @@
 ---
-title: "Balance Table"
-subtitle:  A subtitle
+slug: photo-adobe
+title: Adobe
+subtitle: A subtitle
+description: A short description
+date: '20080407'
+client: Tolleson
+firm: ''
 author: Gregory Cowley
-date: 2020-04-28
+status: Missing
 hero_image: /images/1920x1080.jpg
 category: design
-slug: balance-table
-description: A short description
-detail_images: 
+categoryAlt: Unused
+discipline: Commercial Photographer
+projecttype: Commercial
+type: Content Creation
+detail_images:
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg

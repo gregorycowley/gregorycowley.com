@@ -1,15 +1,20 @@
 ---
-title: "Intel Pentium 3"
-client:
-firm: 
+slug: odopod-intelpentium3
+title: HP Ad Banners NASA
 subtitle: A subtitle
-author: Gregory Cowley
-date: 2020-04-28
-hero\_image: /images/1920x1080.jpg
-category: design
-slug: intel-pentium-3
 description: A short description
-detail\_images: 
+date: '20010000'
+client: Odopod
+firm: ''
+author: Gregory Cowley
+status: Missing
+hero_image: /images/1920x1080.jpg
+category: design
+categoryAlt: Unused
+discipline: Developer
+projecttype: Digital Production
+type: Content Creation
+detail_images:
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg

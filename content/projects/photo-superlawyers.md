@@ -1,13 +1,20 @@
 ---
-title: "Balance Table"
-subtitle:  A subtitle
+slug: photo-superlawyers
+title: Annette Hurst
+subtitle: A subtitle
+description: A short description
+date: '20150610'
+client: SuperLawyers
+firm: ''
 author: Gregory Cowley
-date: 2020-04-28
+status: Missing
 hero_image: /images/1920x1080.jpg
 category: design
-slug: balance-table
-description: A short description
-detail_images: 
+categoryAlt: Unused
+discipline: Photographer
+projecttype: Editorial
+type: '---'
+detail_images:
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg

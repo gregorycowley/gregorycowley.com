@@ -1,13 +1,27 @@
 ---
+slug: cncmachine
 title: CNC Machine
-subtitle:  A subtitle
+subtitle: A subtitle
+description: >-
+  Urna sociosqu quam ad scelerisque facilisi dapibus arcu lacinia, nullam
+  torquent lectus semper sem lacus rhoncus integer, cubilia consequat nibh
+  dignissim mollis ipsum eu. Nisi fames semper dis id tellus ut, sociosqu
+  integer sollicitudin fringilla senectus eros cum, ornare mi nibh tortor
+  facilisi. Venenatis semper lacus sagittis suspendisse sem tincidunt dolor
+  fames, ad natoque sociis magna a tempus aptent curabitur proin, porta ipsum
+  elementum hendrerit duis cras euismod.
+date: '20200101'
+client: Gregory Cowley
+firm: ''
 author: Gregory Cowley
-date: 2020-04-28
+status: ''
 hero_image: /images/1920x1080ori.jpg
 category: design
-slug: cnc-machine
-description: Urna sociosqu quam ad scelerisque facilisi dapibus arcu lacinia, nullam torquent lectus semper sem lacus rhoncus integer, cubilia consequat nibh dignissim mollis ipsum eu. Nisi fames semper dis id tellus ut, sociosqu integer sollicitudin fringilla senectus eros cum, ornare mi nibh tortor facilisi. Venenatis semper lacus sagittis suspendisse sem tincidunt dolor fames, ad natoque sociis magna a tempus aptent curabitur proin, porta ipsum elementum hendrerit duis cras euismod.
-detail_images: 
+categoryAlt: ''
+discipline: ''
+projecttype: ''
+type: ''
+detail_images:
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg
   - src: /images/180x101ori.jpg
