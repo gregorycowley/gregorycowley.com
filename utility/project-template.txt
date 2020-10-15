@@ -1,0 +1,27 @@
+---
+slug: project-slug
+title: Project Name
+subtitle: A subtitle
+description: A short description
+date: '20190000'
+client: Client Name
+firm: Firm Name
+author: Author Name
+status: Current Status
+category: Category Name
+category_alt: Unused
+discipline: Discipline
+project_type: Project Type
+type: Component
+image_source_dir_name: DirName
+image_path: /projects/project/
+hero_image: project-top-34.jpg
+left_images:
+  - src: project-left-40.jpg
+  - src: project-left-41.jpg
+right_images:
+  - src: project-right-33.jpg
+  - src: project-right-35.jpg
+---
+
+[Generic Content]

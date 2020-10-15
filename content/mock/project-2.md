@@ -4,9 +4,9 @@ author: Gregory Cowley
 date: 2020-04-28
 hero_image: /images/1920x1080.jpg
 detail_images: 
-  - src: /images/180x101ori.jpg
-  - src: /images/180x101ori.jpg
-  - src: /images/180x101ori.jpg
+  - src: /images/portfolio/2020-portfolio/2020-portfolio.001.png
+  - src: /images/portfolio/2020-portfolio/2020-portfolio.001.png
+  - src: /images/portfolio/2020-portfolio/2020-portfolio.001.png
 ---
 # Brain is the seed of intelligence something incredible is waiting to be known.
 

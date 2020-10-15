@@ -1,4 +1,6 @@
 import React from "react";
+import TextContent from "./TextContent";
+import Photo from "./Photo";
 
 /**
  * Sitemap 
@@ -21,41 +23,36 @@ export default function Sitemap(props) {
 }
 
 const SiteLinks = (props) => {
-    const pageObjs = Object.entries(props);
+   
+  const pageObjs = Object.entries(props);
     if ( pageObjs.length > 0 ){ 
         return pageObjs.map( ([key, value]) => {
             const slug = Object.keys(value)[0];
-            return <SiteLink akey={key} slug={slug} {...value}/>
+            const data = value[slug];
+            if (data.status === "active"){
+                return <SiteLink akey = {key} 
+                                slug = {slug} 
+                                link = {`/projects/${slug}`}
+                                title = {data.title}
+                                subtitle = {data.subtitle}
+                                description = {data.description}
+                                category = {data.category}
+                                date = {data.date}
+                                hero_image = {data.hero_image} 
+                                />
+            }
         });
     }   
     return <div>xxx</div>
-
 };
 
 const SiteLink = (props) => {
-    // {
-    //     voicebox: {
-    //       title: 'Voicebase',
-    //       subtitle: 'A subtitle',
-    //       author: 'Gregory Cowley',
-    //       date: '2020-04-28T00:00:00.000Z',
-    //       hero_image: '/images/1920x1080.jpg',
-    //       category: 'design',
-    //       slug: 'v  oicebase',
-    //       description: ...
-    //       detail_images: [ [Object], [Object], [Object] ],
-    //       path: '../content/projects/voicebox.md'
-    //     }
-    //   }
-    // console.log("SiteLink", props);
     return(
         <li key={`key-${props.akey}`} className="pageLink">
-          <a href={`/projects/${props.slug}`}>{(props && props[props.slug]) && props[props.slug].title}</a>
-          <p>{(props && props[props.slug]) && props[props.slug].title}</p>
-          <p>{(props && props[props.slug]) && props[props.slug].subtitle}</p>
-          <p>{(props && props[props.slug]) && props[props.slug].description}</p>
-          <p>{(props && props[props.slug]) && props[props.slug].category}</p>
-          <p>{(props && props[props.slug]) && props[props.slug].date}</p>
+          <p className="overhead"><i>{props.category}</i>{props.date}</p>
+          <h3><a href={props.link}>{props.title}</a></h3>
+          <Photo img={props.hero_image} />
+          <p>{props.subtitle}</p>
         </li>
     )
 };

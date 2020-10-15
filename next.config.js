@@ -44,7 +44,7 @@ module.exports = withCSS({
       if ( blog.projectCategory != "" ){
         routes[`/projects${blog.projectCategory}/${blog.filename}`] = { page: '/projects/[slug]', query: { slug: blog.filename, projectCategory: blog.projectCategory } }
       } else {
-        routes[`/projects/${blog.filename}`] = { page: '/projects/[slug]', query: { slug: blog.filename, projectCategory: '' } }
+        routes[`/projects/${blog.filename}`] = { page: '/projects/[slug]', query: { slug: blog.filename, projectCategory: 'none' } }
       }
     })
 

@@ -4,20 +4,12 @@ title: Artist
 subtitle: Electronic
 description: Description of an artist.
 date: '20200101'
-client: Gregory Cowley
-firm: ''
 author: Gregory Cowley
 status: ''
-hero_image: /images/1920x1080ori.jpg
 category: artist
-categoryAlt: ''
 discipline: ''
-projecttype: ''
 type: ''
-detail_images:
-  - src: /images/180x101ori.jpg
-  - src: /images/180x101ori.jpg
-  - src: /images/180x101ori.jpg
+hero_image: disciplines/artist/TheTESTProject-top-54_ugpci2
 ---
 
 Description of an artist.

@@ -62,18 +62,18 @@ class Header extends React.Component {
           >
             <ul className={`main-navigation ${this.state.menuToggle}`}>
               <li>
-                <Link href="/sitemap">
-                  <a>Sitemap</a>
-                </Link>
-              </li>
-              <li>
                 <Link href="/about">
                   <a>About</a>
                 </Link>
               </li>
               <li>
-                <Link href="/projects">
-                  <a>Work</a>
+                <Link href="/showcase">
+                  <a>Showcase</a>
+                </Link>
+              </li>
+              <li>
+                <Link href="/projects-all">
+                  <a>Projects</a>
                 </Link>
               </li>
               <li>

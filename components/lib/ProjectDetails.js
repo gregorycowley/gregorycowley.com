@@ -1,8 +1,6 @@
 import React from "react";
 import PropTypes from 'prop-types';
-
-import Card from "./Card";
-import Hero from "./Hero";
+import { ImageVerticalList } from "../../components/index";
 
 /**
  * ProjectDetails Layout
@@ -10,28 +8,15 @@ import Hero from "./Hero";
  */
 
 export default function ProjectDetails(props) {
-
-  const { detail_images } = props;
-  let keyCount = 0;
-
-  const imageItems = detail_images.map(image => {
-    return (
-      <li key={`key-${keyCount++}`} className="thumbnail">
-        <img src={image.src} />
-      </li>
-    );
-  });
-
   return (
     <div className="project-details">
       <div className="row">
         <div className="one-third column">
-          <ul className="thumbnails">
-            {imageItems}
-          </ul>
+            { props.left_images && <ImageVerticalList className="left-images" images={props.left_images} /> }
         </div>
         <div className="two-thirds column">
           {props.children}
+          { props.right_images && <ImageVerticalList className="right-images" images={props.right_images} />}
         </div>
       </div>
     </div>

@@ -6,7 +6,7 @@
 html,
 body {
     background-color: #eee;
-    color: #888;
+    color: #555;
 }
 
 * {
@@ -17,7 +17,7 @@ body {
 
 a {
     color: #c75941;
-    text-decoration:none
+    text-decoration: none
 }
 
 h1,
@@ -26,23 +26,28 @@ h3,
 h4,
 h5 {
     flex-grow: 1;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto', monospace;
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 4rem;
+    font-weight: 500;
 }
 
 h2 {
     font-size: 2rem;
+    font-weight: 500;
 }
 
 h3 {
     font-size: 3.6rem;
+    font-weight: 300;
+    letter-spacing: 0rem;
 }
 
 h4 {
     font-size: 2.4rem;
+    font-weight: 500;
 }
 
 h5 {
@@ -53,11 +58,17 @@ h6 {
     font-size: 1.5rem;
 }
 
+li {
+    list-style: outside;
+    margin-left: 15px;
+}
+
 p {
     font-size: 1.5rem;
-    font-weight: 300;
+    font-weight: 400;
     max-width: 700px;
     letter-spacing: 0.1px;
+    /* opacity: 0.7; */
 }
 
 p.sub-title {
@@ -100,10 +111,11 @@ body {
 main {
     /* flex-grow: 1; */
     display: block;
-    /* flex-direction: column; */
-    /* position: relative; */
-    width: 100%;
-    /* box-sizing: border-box; */
+    flex-direction: column;
+    position: relative;
+    width: 90%;
+    box-sizing: border-box;
+    margin: auto 20%;
 }
 
 main>article>section {
@@ -162,11 +174,11 @@ footer {
 
 /* Hero */
 
-.hero-container{
+.hero-container {
     /* margin: 120px auto 100px auto; */
     width: 100%;
     /* display: block; */
-    max-width: 840px;
+    max-width: 1280px;
     display: flex;
     flex-wrap: wrap;
     padding-right: 40px;
@@ -179,7 +191,7 @@ footer {
 /* Portfolio Content */
 
 .row {
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .portfolio-grid {
@@ -252,6 +264,15 @@ div.image.layout-4 {
 div.image-content.layout-4 {
     height: 300px;
     width: auto;
+}
+
+/* Image Vertical List */
+
+ul.image-vertical-list{margin: 10px auto;padding: 0;list-style: none;}
+ul.image-vertical-list li{
+    list-style: none;
+    margin: 10px auto;
+    padding: 0;
 }
 
 
@@ -457,9 +478,8 @@ header.testsite nav ul li {
 /* Hero */
 
 .hero-item {
-    padding: 2rem;
+    padding: 0;
 }
-
 
 
 /* ------------------------------------- */
@@ -467,14 +487,70 @@ header.testsite nav ul li {
 
 /* Project */
 
-.project-header{
-    margin: 120px auto 100px auto;
-    width: 800px;
+.project {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 
-ul.thumbnails{
-    list-style:none;
-    
+.project-hero {
+    width: 100%;
+}
+
+.project-header {
+    margin: 20px auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.project-header h1 {
+    flex-shrink: 1;
+    font-size: 4rem;
+}
+
+.project-header h2 {}
+
+.project-header p {}
+
+.project-details {
+    margin: 20px auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.project-details .left-images {
+    width: 300px;
+}
+
+.project-details .right-images {
+    width: 600px;
+}
+
+ul.thumbnails {
+    list-style: none;
+}
+
+
+@media( min-width: 1024px ){
+    .project-details {
+        margin: 120px auto 100px auto;
+        width: 960px;
+    }
+
+    .project-details .left-images {
+        width: 300px;
+    }
+
+    .project-details .right-images {
+        width: 600px;
+    }
+
+    ul.thumbnails {
+        list-style: none;
+    }
 }
 
 
@@ -484,7 +560,7 @@ ul.thumbnails{
 /* Text Column */
 
 .text-column {
-    width: 85%;
+    width: 100%;
     max-width: 700px;
     margin: 0 auto;
 }

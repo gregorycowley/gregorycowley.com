@@ -1,23 +1,34 @@
 ---
-title: "Balance Table"
-client:
-firm: 
-subtitle: A subtitle
 author: Gregory Cowley
-date: 2020-04-28
-hero\_image: /images/1920x1080.jpg
-category: design
+category: designer
+category_alt: Unused
+client: Photoworks
+date: '20200926'
+description: >-
+  Photoworks, a high-quality photo lab based in San Francisco, specialized in
+  creative, unique photo printing services. I designed and built an application
+  for this client that allowed users to select from Photoworks' product
+  offerings, upload photos directly from their phones, and pay for orders.
+discipline: Discipline
+firm: Photoworks
+hero_image: projects/Photoworks/Photoworks-top-258_j5bhdu
+image_path: /projects/Photoworks
+image_source_dir_name: Photoworks
+left_images:
+  - src: projects/Photoworks/Photoworks-left-262_e41ph8
+project_type: Project Type
+projecttype: Project Type
+right_images:
+  - src: projects/Photoworks/Photoworks-right-259_czcqfw
+  - src: projects/Photoworks/Photoworks-right-260_kvhrbi
+  - src: projects/Photoworks/Photoworks-right-261_schbyi
+  - src: projects/Photoworks/Photoworks-right-263_vgakcr
 slug: balance-table
-description: A short description
-detail\_images: 
-  - src: /images/180x101ori.jpg
-  - src: /images/180x101ori.jpg
-  - src: /images/180x101ori.jpg
+status: active
+subtitle: >-
+  A mobile iOS app that allowed customers to order real prints from the photos
+  on their phones.
+title: Photoworks iOS Photo Ordering App
+type: Component
 ---
-
-
-
-#### Dynamic Photoworks
-- Mobile application for ordering prints from a photo lab
-- Selection of products
-- Tangible products from digital photos.
+%%%% %%%%

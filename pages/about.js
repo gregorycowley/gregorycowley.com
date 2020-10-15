@@ -1,21 +1,25 @@
 import matter from 'gray-matter'
 import React from "react";
 import ReactMarkdown from "react-markdown";
-import {Layout, TextContent} from "../components";
+import {Layout, TextContent, Photo} from "../components";
 
 class About extends React.Component {
   constructor(props) {
     super(props);
-    const markdownBody = props.content
-    const frontmatter = props.data
-    console.log(props);
+    this.markdownBody = props.content;
+    this.frontmatter = props.frontmatter;
   }
 
   render() {
     return (
       <Layout {...this.props}>
-        <TextContent>
-          <ReactMarkdown source={this.props.about.default} />
+        <TextContent style="about-page">
+          <Photo img={this.frontmatter.hero_image} style="about-photo"/>
+          <h1>{this.frontmatter.title}</h1>
+          <h2>{this.frontmatter.subtitle}</h2>
+          <p>{this.frontmatter.description}</p>
+          <p><i>{this.frontmatter.author}</i></p>
+          <ReactMarkdown source={this.markdownBody} />
         </TextContent>
       </Layout>
     )
@@ -25,10 +29,13 @@ class About extends React.Component {
 export default About;
 
 About.getInitialProps = async function() {
-  const content = await import(`../data/config.json`)
-  const about = await import(`../content/about.md`);
+  const config = await import(`../data/config.json`)
+  const content = await import(`../content/about.md`);
+  const data = matter(content.default);
   return {
-    about
+    ...config,
+    frontmatter: data.data,
+    content: data.content
   }
 }
 

@@ -2,6 +2,26 @@ import React from "react";
 import matter from "gray-matter";
 import { Layout, Card } from "../components/";
 
+const CardItem = (props) => {
+  const {
+      hero_image,
+      title,
+      subtitle,
+      description,
+  } = props;
+  const link= `/${props.category}`
+  const style = "home" 
+
+  return (
+    <Card style={style} 
+          hero_image={hero_image} 
+          link={link} 
+          title={title}
+          subtitle={subtitle} 
+          description={description} />
+  )
+};
+
 class Index extends React.Component {
   constructor(props) {
     super(props);
@@ -9,24 +29,27 @@ class Index extends React.Component {
   }
 
   render() {
-    const artistLink = matter(this.props.artist.default).data.category;
-    const designerLink = matter(this.props.designer.default).data.category;
-    const educatorLink = matter(this.props.educator.default).data.category;
-    const engineerLink = matter(this.props.engineer.default).data.category;
-    const photographerLink = matter(this.props.photographer.default).data.category;
-    const entrepreneurLink = matter(this.props.entrepreneur.default).data.category;
+    const {
+       hero_image,
+       title,
+       subtitle,
+       description,
+    } = this.props.artistData;
+    const link= `/${this.props.artistData.category}`
+    const style = "home" 
+
     return (
       <Layout 
        siteTitle={this.props.title}
        siteDescription={this.props.description}
       >
         <div className="home-grid container">
-          <Card {...this.props.artist} link={`/${artistLink}`} style="home" />
-          <Card {...this.props.designer} link={`/${designerLink}`} style="home" />
-          <Card {...this.props.educator} link={`/${educatorLink}`} style="home" />
-          <Card {...this.props.engineer} link={`/${engineerLink}`} style="home" />
-          <Card {...this.props.photographer} link={`/${photographerLink}`} style="home" />
-          <Card {...this.props.entrepreneur} link={`/${entrepreneurLink}`} style="home" />
+          <CardItem {...this.props.artistData} />
+          <CardItem {...this.props.designerData} />
+          <CardItem {...this.props.educatorData} />
+          <CardItem {...this.props.engineerData} />
+          <CardItem {...this.props.photographerData} />
+          <CardItem {...this.props.entrepreneurData} />
         </div>
       </Layout>
     );
@@ -43,13 +66,21 @@ Index.getInitialProps = async function() {
   const engineer = await import(`../content/disciplines/engineer.md`);
   const photographer = await import(`../content/disciplines/photographer.md`);
   const entrepreneur = await import(`../content/disciplines/entrepreneur.md`);
+  
+  const artistData = matter(artist.default).data;
+  const designerData = matter(designer.default).data;
+  const educatorData = matter(educator.default).data;
+  const engineerData = matter(engineer.default).data;
+  const photographerData = matter(photographer.default).data;
+  const entrepreneurData = matter(entrepreneur.default).data;
+
   return {
     ...metadata,
-    artist,
-    designer,
-    educator,
-    engineer,
-    photographer,
-    entrepreneur
+    artistData,
+    designerData,
+    educatorData,
+    engineerData,
+    photographerData,
+    entrepreneurData
   };
 };

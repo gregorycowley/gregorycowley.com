@@ -67,7 +67,7 @@ try {
                     discipline: struct.discipline,
                     projecttype: struct.projecttype,
                     type: struct.type,
-                    detail_images: JSON.parse(struct.detailImages)
+                    detail_images: JSON.parse(struct.detailImages) || ""
                 };
                 
                 const newContent = matter.stringify( yaml.content, newYaml);
