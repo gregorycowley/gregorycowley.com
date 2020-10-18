@@ -26,9 +26,28 @@ const SiteLinks = (props) => {
    
   const pageObjs = Object.entries(props);
     if ( pageObjs.length > 0 ){ 
+      
         return pageObjs.map( ([key, value]) => {
             const slug = Object.keys(value)[0];
             const data = value[slug];
+
+            const nextIndex = ( Number(key) + 1 < pageObjs.length ) ? Number(key) + 1 : pageObjs.length ;
+            const prevIndex = ( Number(key) - 1 >= 0 ) ? Number(key - 1) : 0 ;
+            let nextLink = '';
+            let prevLink = '';
+
+            // localStorage.setItem('project', JSON.stringify(posts));
+            // const lastItems = JSON.parse(localStorage.getItem('project')) || []
+        
+            if ( pageObjs[nextIndex] && pageObjs[nextIndex].length >= 1 ){
+              const tempKeys = Object.keys(pageObjs[nextIndex][1]);
+              nextLink = `/projects/${pageObjs[nextIndex][1][tempKeys[0]].slug}`;
+            }
+            if ( pageObjs[prevIndex] && pageObjs[prevIndex].length >= 1 ){
+              const tempKeys = Object.keys(pageObjs[prevIndex][1]);
+              prevLink = `/projects/${pageObjs[prevIndex][1][tempKeys[0]].slug}`;
+            }
+
             if (data.status === "active"){
                 return <SiteLink akey = {key} 
                                 slug = {slug} 
@@ -39,6 +58,8 @@ const SiteLinks = (props) => {
                                 category = {data.category}
                                 date = {data.date}
                                 hero_image = {data.hero_image} 
+                                next_link = {nextLink}
+                                prev_link = {prevLink}
                                 />
             }
         });

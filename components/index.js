@@ -25,3 +25,4 @@ export { default as DisciplinePage } from './lib/DisciplinePage'
 // Custom components are specific to this project.
 export { default as ProjectPage } from './custom/ProjectPage'
 export { default as SummaryPage } from './custom/SummaryPage'
+export { default as MarkdownBlocks } from './custom/MarkdownBlocks'

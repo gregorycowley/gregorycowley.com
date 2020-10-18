@@ -52,8 +52,8 @@ class ImageCarousel extends React.Component {
 
     setTimeout(function() {}, 800);
 
-    console.log("current " + this.current);
-    console.log("prev " + prev);
+    // console.log("current " + this.current);
+    // console.log("prev " + prev);
   }
 
   nextImage() {
@@ -69,7 +69,7 @@ class ImageCarousel extends React.Component {
   }
 
   render() {
-    console.log("render");
+    // console.log("render");
     return (
       <div className="image-carousel">
         <div className="carousel__nav">

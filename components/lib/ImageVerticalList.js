@@ -9,7 +9,7 @@ export default function ImageVerticalList(props) {
 
   let keyCount = 0; 
   const images = props.images;
-  console.log(props);
+  // console.log(props);
   const imageItems = images.map(image => {
     if (image.src != null){
       return (

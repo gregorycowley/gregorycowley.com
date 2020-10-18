@@ -35,7 +35,7 @@ Entrpreneur.getInitialProps = async function() {
   projects.push(await import("../content/projects/thetestproject.md"));
   projects.push(await import("../content/projects/3mps.md"));
 
-  const content = await import("../content/disciplines/entrpreneur.md");
+  const content = await import("../content/disciplines/entrepreneur.md");
   const data = matter(content.default);
 
   return {

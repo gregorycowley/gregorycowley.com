@@ -13,7 +13,7 @@ class About extends React.Component {
   render() {
     return (
       <Layout {...this.props}>
-        <TextContent style="about-page">
+        <TextContent className="about-page">
           <Photo img={this.frontmatter.hero_image} style="about-photo"/>
           <h1>{this.frontmatter.title}</h1>
           <h2>{this.frontmatter.subtitle}</h2>

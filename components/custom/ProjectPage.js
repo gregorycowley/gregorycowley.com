@@ -16,7 +16,7 @@ class ProjectPage extends React.Component {
         this.backgroundColor = props.bgColor && props.bgColor;
         this.color = props.pathname == "info" && 'white';
         
-        console.log( this.props );
+        // console.log( this.props );
     }
 
     render() {

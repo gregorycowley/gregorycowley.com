@@ -23,6 +23,7 @@ export default function Meta(props) {
       <link rel="stylesheet" href="/lib/style.css" />
       <link rel="stylesheet" href="/lib/header.css" />
       <link rel="stylesheet" href="/lib/content.css" />
+      <link rel="stylesheet" href="/lib/resume.css" />
     </Head>
   );
 }

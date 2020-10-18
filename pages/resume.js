@@ -38,14 +38,22 @@ class Resume extends React.Component {
 
   render() {
     return <Layout {...this.props}>
-      <TextContent>
-          <ReactMarkdown source={this.props.role.default} />
-          <ul>
+      <TextContent className="resume-page">
+          <div className="resume-masthead">
+            <ReactMarkdown source={this.props.role.default} />
+          </div>
+          <ul className={"resume-skills"}>
             <Skills data={this.props.skills} />
           </ul>
-          <ReactMarkdown source={this.props.skills.content} />
-          <ReactMarkdown source={this.props.experience.default} />
-          <ReactMarkdown source={this.props.education.default} />
+          <div className="resume-skills-more">
+            <ReactMarkdown source={this.props.skills.content} />
+          </div>
+          <div className="resume-experience">
+           <ReactMarkdown source={this.props.experience.default} />
+          </div>
+          <div className="resume-education">
+            <ReactMarkdown source={this.props.education.default} />
+          </div>
         </TextContent>
     </Layout>;
   }
