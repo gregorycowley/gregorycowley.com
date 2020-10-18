@@ -47,7 +47,7 @@ right_images:
   - src: projects/TheTESTProject/TheTESTProject-right-59_wnhckq
   - src: projects/TheTESTProject/TheTESTProject-right-60_yzo7i7
   - src: projects/TheTESTProject/TheTESTProject-right-61_mm40hk
-slug: the-test-project
+slug: thetestproject
 status: active
 subtitle: >-
   A conceptual and experiential new media arts project using projection for live

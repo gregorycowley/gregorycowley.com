@@ -29,7 +29,7 @@ right_images:
   - src: projects/DrTingleton/DrTingleton-right-240_a67mh3
   - src: projects/DrTingleton/DrTingleton-right-241_tcjk1z
   - src: projects/DrTingleton/DrTingleton-right-242_lkrbns
-slug: dr-tingleton
+slug: drtingleton
 status: active
 subtitle: |
   A series of user entertainment apps that encouraged live social interaction.

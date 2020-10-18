@@ -25,7 +25,7 @@ right_images:
   - src: projects/IDEONewYear/IDEONewYear-right-192_z1fdxu
   - src: projects/IDEONewYear/IDEONewYear-right-193_vlraif
   - src: projects/IDEONewYear/IDEONewYear-right-194_cd24i1
-slug: idea-new-years
+slug: ideo-newyears
 status: active
 subtitle: >-
   A digital holiday card that encouraged IDEO employees to share their best
