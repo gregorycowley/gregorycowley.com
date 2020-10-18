@@ -26,13 +26,12 @@ right_images:
   - src: projects/SPControls/SPControls-right-182_zckjdf
   - src: projects/SPControls/SPControls-right-183_oulstr
   - src: projects/SPControls/SPControls-right-184_h3gvas
-slug: balance-table
+slug: spcontrols
 status: active
 subtitle: >-
   Print design, display booth graphics, and video demonstrations for Las Vegas
   trade shows.
-title: 'SP Controls Trade Show Collateral'
+title: SP Controls Trade Show Collateral
 type: Component
 ---
-%%%% %%%%
-'SP Controls Trade Show Collateral, photography and Video Production'
+SP controls created Classroom present AV presentation control systems so that they would control projectors, projection screens, internal controlled lighting, audio, whiteboards, electronic whiteboards, and so on, So I design Designed collateral and materials for trade shows Where SP Controls would demo their products.

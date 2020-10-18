@@ -39,6 +39,4 @@ subtitle: >-
 title: Landor Associates Corporate Identity
 type: Component
 ---
-
-%%%% %%%%
-Landor Associates Brand and Corporate Identity.
+For over ten years, I worked with teams at Landor Associates to brand and create corporate identities for companies including the Olympics, American Airlines, Clorox, HP, Rice a Roni, Ford Motor Company, and John Deere. As the leading brand identity and corporate identity company, it was a privilege to be a team player in both their San Francisco and Hong Kong offices. 

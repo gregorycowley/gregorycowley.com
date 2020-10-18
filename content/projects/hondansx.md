@@ -37,4 +37,6 @@ subtitle: >-
 title: Relaunch of the new Honda NSX Supercar
 type: Component
 ---
-%%%% %%%%
+Honda launched the released its new supercar. I used HTML, CSS, and JavaScript to develop the presentation layer that was added to the existing Honda website backend.
+
+Honda's latest supercar incarnation, the venerable Honda NSX, was being released. The website to mark the occasion was designed by Razorfish in Los Angeles. I joined the team to do the front-end development and the visual presentation layer for this subsection of the Honda USA website.

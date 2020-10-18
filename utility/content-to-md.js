@@ -71,23 +71,30 @@ fs.createReadStream(pathToMap)
             let right_images = items["right_images"];
 
             let filepath = path.join(__dirname, "../content/projects", filename + ".md");
-            // console.log("Updating,",filepath);
+            console.log("Updating,",filepath);
             if( fs.existsSync(filepath) ){
                 
                 const fileContent = fs.readFileSync(filepath, "utf-8");
                 let frontmatter = matter(fileContent);
                 // console.log(frontmatter);
-
+                frontmatter.data.slug = slug;
                 frontmatter.data.client = client;
                 frontmatter.data.firm = firm;
-                frontmatter.data.status = "active";
+                frontmatter.data.status = status;
                 frontmatter.data.date = date;
                 frontmatter.data.title = title;
                 frontmatter.data.subtitle = subtitle;
                 frontmatter.data.description = description;
                 frontmatter.data.category = category;
+                frontmatter.data.discipline = discipline;
 
-                frontmatter.content = (content != undefined) ? description + "\n\n" + content : description;
+                frontmatter.data.author = author;
+                frontmatter.data.project_type = project_type;
+
+
+                
+
+                frontmatter.content = (content != undefined) ? description + "\n\n%%%% %%%%\n" + content : description;
 
                 fs.writeFileSync(filepath,frontmatter.stringify())
             }

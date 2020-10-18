@@ -36,9 +36,6 @@ subtitle: |
 title: Dr Tingleton Miracle Apps
 type: '---'
 ---
-%%%% %%%%
+I developed a series of iPhone apps meant for the live social environment. The apps fostered fun for social events in bars, restaurants, at parties, and at work.
 
-Feel-good apps for real world interactions
-There's an app for everything. What about fun social games to share with your friends in the real world?
-A series of mobile phone game apps marketed using a snake oil salesman persona.Social games that encouraged real world sharing and interaction over virtual online communication.Three apps were made. One for making decisions that was later extended to choosing a drink at the bar or a food to get for lunch. Another was a compliment maker that functioned like a Magic 8 ball.&nbsp;
-    Combining interests in technology and experiences, I joined forces with Camille Verboort to create a series of apps from ideas, prototypes, development, user testing and distribution on the Apple App Store.
+The applications included an animated wheel of fortune to choose what drink you were going to order, a compliment generator that on upon shaking the phone would give you a nice compliment, and a message correspondence app that allows for sending handwritten notes to friends.

@@ -33,4 +33,4 @@ subtitle: Interactive SDK Documentation for Developers
 title: Cingular RAEM
 type: Component
 ---
-%%%% %%%%
+I produced an interactive Software Development portal that was built in Flash. It allowed for searching, browsing, and consumption of the content related to developing on the Cingular(AT&T) Mobile Platform. I worked closely with their team to build an application that would import and display dynamic content. The client was able to produce content and deliver it to the app in the form of XML for presentation. 

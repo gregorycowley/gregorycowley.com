@@ -31,6 +31,4 @@ subtitle: >-
 title: The Sak Catalog Photography
 type: Component
 ---
-%%%% %%%%
-The Sak Product and Lifestyle Catalog Photography.
-
+While contracting as a photographer for The Sak, I produced catalog content, including product photography and lifestyle photography, working with models on location. Additionally, I developed and engineered a dynamic website catalog with 3D page turning interactions for this client.

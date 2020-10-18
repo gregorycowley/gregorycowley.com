@@ -36,4 +36,4 @@ subtitle: |
 title: PBS Media Player UI
 type: Component
 ---
-%%%% %%%%
+The PBS media player was a browser for short videos contained on the PBS website. I designed and developed the interface that included a video player for the media segments.

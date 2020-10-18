@@ -38,4 +38,8 @@ subtitle: >-
 title: 'ESET Interactive Holliday Promo '
 type: Component
 ---
-%%%% %%%%
+Wanted Santa was a creation for ESET, a European online security company.
+
+Wanted Santa allowed you to get arrested, have your mugshot taken, write a message, and then share it freely with your friends. It was a fun Flash-based microsite that incorporated features such as the ability to upload your photo to customize the message written on the picture and then forward it as a single JPEG image to multiple friends.
+
+Because ESET was a reasonably large company, we built the system to handle a massive load of users using load-balancing technology.

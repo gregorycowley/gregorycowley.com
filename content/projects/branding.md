@@ -36,4 +36,4 @@ subtitle: Logo Development for Various Clients.
 title: ID Development and Branding
 type: Component
 ---
-%%%% %%%%
+As a branding designer, I've worked with clients from sketch through implementation for product and business identities. I understand the branding process intrinsically, including maintaining a consistent brand identity, creating and following style guides, as well as enforcing adherence to brand standards.

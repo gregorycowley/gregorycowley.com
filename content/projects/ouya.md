@@ -27,4 +27,4 @@ subtitle: |
 title: UI Development for Ouya Game Console
 type: Component
 ---
-%%%% %%%%
+Working from design team sketches, I created a working prototype of the console's user interface. This UI allowed users to browse games, videos, and other content using a game controller.

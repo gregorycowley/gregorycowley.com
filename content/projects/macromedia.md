@@ -28,7 +28,7 @@ right_images:
   - src: projects/Macromedia/Macromedia-right-199_gvqm1q
   - src: projects/Macromedia/Macromedia-right-200_w0wkx4
   - src: projects/Macromedia/Macromedia-right-201_opwbeb
-slug: balance-table
+slug: macromedia
 status: active
 subtitle: >-
   The Flexible Messaging Area (FMA) on the Macromedia.com homepage highlighted
@@ -36,4 +36,4 @@ subtitle: >-
 title: Macromedia.com FMA IxD
 type: Component
 ---
-%%%% %%%%
+Macromedia launched their new website with a particular area they called the Flexible Messaging Area (FMA) on the front page. This was an ever-evolving and interactive space focused on specific products and offerings from Macromedia. It offered entertainment and showed the capabilities of tools using Flash, their flagship product.

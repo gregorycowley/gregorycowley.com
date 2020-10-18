@@ -27,4 +27,4 @@ subtitle: >-
 title: Openwave Trade Show Video Content
 type: Component
 ---
-%%%% %%%%
+A short description

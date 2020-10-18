@@ -34,4 +34,4 @@ subtitle: >-
 title: IDEO New Years Digital Cards
 type: Component
 ---
-%%%% %%%%
+IDEO began introducing an annual digital New Year's card that allowed its employees around the world to contribute memories of the year through an interactive format. For the inaugural design, each employee could make their own personal snowflake, which included a favorite memory and information about the employee. The snowflakes floated in a 3D interactive environment allowing team members to learn about each creator and their memory for that year.

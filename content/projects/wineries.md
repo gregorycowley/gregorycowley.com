@@ -38,4 +38,6 @@ subtitle: |
 title: Websites for Napa Websites
 type: Component
 ---
-%%%% %%%%
+I built a number of websites for the niche market that is Napa wineries. Napa is a very close community, and several companies focus almost entirely on producing websites for the wineries.
+
+For these projects, I translated Photoshop designs supplied by these firms into HTML, CSS, and Flash. 

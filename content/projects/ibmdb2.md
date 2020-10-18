@@ -33,4 +33,4 @@ subtitle: >-
 title: IBM DB2 Launch Video
 type: Component
 ---
-%%%% %%%%
+This was a Motion Graphics based video for the launch of IBM's new DB2 database product. The video was created using innovative graphic animations, interviews, and visual icons to inform and entertain the audience. The purpose of the video presented to the employees of IBM was to create enthusiasm for the new product.

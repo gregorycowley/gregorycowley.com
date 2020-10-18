@@ -34,4 +34,4 @@ subtitle: >-
 title: Academy of Country Music
 type: Interaction
 ---
-%%%% %%%%
+Dr Pepper was a major sponsor of the Academy of Country Music Awards. They wanted a marketing piece in the form of a CDROM to be distributed throughout Walmart stores. We created content that included games, videos, and musical toys related to the Academy of Country Music Awards. The finished disks were placed in displays and included free with the purchase of Dr Pepper products. 

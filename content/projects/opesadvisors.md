@@ -31,4 +31,4 @@ subtitle: >
 title: Opes Advisors Website and Intranet
 type: Component
 ---
-%%%% %%%%
+Opes Advisors, a financial investment advising firm, needed an intranet for their employees to be able to manage their clients and internal documents. In addition, they required a public-facing site for marketing and blogging purposes. For this project, both the internet and extranet versions were built on Joomla.

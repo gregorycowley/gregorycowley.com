@@ -35,4 +35,4 @@ subtitle: >-
 title: Fine Art Museums of San Francisco
 type: Component
 ---
-%%%% %%%%
+Fine Arts Museums of San Francisco (FAMSF) is the parent organization of the de Young Museum and The Palace Legion of Honor museum. Wolf-Olins was the design firm that handled the rebranding of the institution. Wolf-Olins and I produced the style guide for the rebranding that existed digitally as a Flash application. The style-guide was easily distributed as cross-platform application.

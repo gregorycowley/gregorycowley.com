@@ -29,4 +29,4 @@ subtitle: Development of a brand identity and user interface for an iPad applica
 title: Doceri Branding and Marketing Collateral
 type: Component
 ---
-%%%% %%%%
+Doceri was a new product offering from SP Controls. Designed for the classroom, Doceri allowed teachers to use the iPad as a handheld whiteboarding tool. The software, linked with proprietary hardware, controlled project screens, lighting, sound, and content to be displayed. Doceri also included an early implementation of a stylus for an iPad. 

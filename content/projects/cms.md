@@ -37,4 +37,4 @@ subtitle: >-
 title: Content Mangement Systems
 type: Component
 ---
-%%%% %%%%
+From 2005 through 2015, I worked almost exclusively with various content management systems. Coded mostly in PHP, I was given Photoshop documents to produce HTML CSS. temp templates for open-source CMS products such as WordPress, Magento, Joomla, and Drupal

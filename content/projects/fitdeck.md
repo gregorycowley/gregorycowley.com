@@ -35,5 +35,6 @@ subtitle: >-
 title: Fit Deck
 type: Mobile Application
 ---
-%%%% %%%%
+Fit-Deck was a mobile application derived from a physical deck of cards. The deck's purpose was to randomize your workout by selecting cards from a deck that would give you a series of physical activities to do.
 
+The application timed and tracked your performance and gave you recommendations for further improvement.

@@ -39,4 +39,6 @@ subtitle: >-
 title: Motorola Innovation Projects
 type: Component
 ---
-%%%% %%%%
+Motorola had several internal projects that ranged from prototypes for the interaction of screens on their line of mobile phones to an internal competition to develop innovative ideas for features to be added to future products.
+
+I designed and animated the finalists' proposals, which were presented for voting during the competition. These included illustrations, diagrams, and animations of how each entry worked.

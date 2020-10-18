@@ -15,7 +15,7 @@ firm: Punchcut
 hero_image: projects/DisneyVMK/DisneyVMK-top-72_ktn30w
 image_path: /projects/
 image_source_dir_name: DisneyVMK
-left_images:
+left_images: null
 project_type: Project Type
 projecttype: Project Type
 right_images:
@@ -28,4 +28,4 @@ subtitle: >-
 title: Disney Vitrual Magic Kingdom
 type: Component
 ---
-%%%% %%%%
+The Disney Virtual Magic Kingdom was an online portal for kids who were planning a trip to Disneyland. The colorful VMK interactive experience was built entirely in Flash. It consisted of a series of games and activities that would generate excitement about specific rides at the park. It incorporated video editing mashups, maps, and a daily event planner.

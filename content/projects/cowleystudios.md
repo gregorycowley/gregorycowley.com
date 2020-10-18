@@ -39,4 +39,8 @@ subtitle: 'Professional White Box Photography Studio in Dogpatch, SF.'
 title: Cowley Studios
 type: Component
 ---
-%%%% %%%%
+In 2005, while continuing to work on Content Management Systems, I branched out to explore my lifelong interest in photography.
+
+I built a commercial photography studio located in the Dogpatch area of San Francisco. There I worked with clients including IDEO, Adobe, University Games, and Intel. I also had hundreds of individuals come through the studio doors for portraiture and custom commissions.
+
+Although the studio itself is now closed, I cultivated relationships with editorial clients whom I continue to work with and am able to take on new clients. The physical activity and artistry involved with my photography business provides a nice balance to my work in web development.

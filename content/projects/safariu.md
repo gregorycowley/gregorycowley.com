@@ -30,9 +30,7 @@ status: active
 subtitle: >-
   Website design and development for O'Reilly Media's educational customization
   service. 
-title: 'Safari U Website'
+title: Safari U Website
 type: Component
 ---
-%%%% %%%%
-Animation and Deisgn for Teacher support Content.
-
+O'Reilly Media's SafariU allowed teachers to create curriculums and generate content for their courses from O'Reilly's vast library of books and media. Students could purchase, download, and print course material. I created the website as well as an explainer video about how the course building process worked.

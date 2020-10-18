@@ -30,4 +30,4 @@ subtitle: Multi-screen kiosk User Interface Development.
 title: Briggo Automated Coffee Cart
 type: Component
 ---
-%%%% %%%%
+For the Briggo automated coffee cart, I worked from layouts supplied by a designer to create interactive animations that would guide customers through the ordering process. This kiosk used interactive touchscreens for both input and feedback to the client regarding the status of their order. Coffee was prepared by a robot, and customers were notified when their order was ready through feedback from an order queue screen.

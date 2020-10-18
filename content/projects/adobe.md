@@ -30,4 +30,6 @@ subtitle: Photoshop and Premiere Elements Packaging.
 title: Adobe Elements
 type: Component
 ---
-%%%% %%%%
+Acting as producer and lead photographer, I created images for the packaging of Adobe Photoshop Elements and Adobe Premiere Elements.
+
+I worked closely with the client to coordinate the initial casting sessions, prop procurement, and managed cast and crew to get the job done on schedule and within budget.

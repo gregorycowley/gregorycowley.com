@@ -33,4 +33,4 @@ subtitle: >-
 title: HP Garage Innovation System
 type: Component
 ---
-%%%% %%%%
+HP Garage was the name given to planned innovation spaces that would be developed on HPs campuses. The innovation space would include activities, directives, motivation tools for employees to work together for both team building and improvement of their products using IDEO's human-centered design approach.

@@ -26,7 +26,7 @@ right_images:
   - src: projects/NikeSkateboarding/NikeSkateboarding-right-215_yilomy
   - src: projects/NikeSkateboarding/NikeSkateboarding-right-216_dqk6b7
   - src: projects/NikeSkateboarding/NikeSkateboarding-right-217_sbjahe
-slug: balance-table
+slug: nikeskateboarding
 status: active
 subtitle: >-
   A prestige project for Nike skateboarding shoes, this project was the creation
@@ -34,4 +34,6 @@ subtitle: >-
 title: Nike Skateboarding Website
 type: Component
 ---
-%%%% %%%%
+Odopod created the Nike skateboarding website, which showcases skateboarding shoes and the Nike sponsored skaters that endorse them.
+
+I created an interactive shoe browsing interface that included an animated filtering system. Users could manipulate the settings to cause shoes to fall off the shelves and new shoes to fly back up to replace them.

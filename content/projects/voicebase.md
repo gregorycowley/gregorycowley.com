@@ -43,11 +43,6 @@ subtitle: >-
 title: Developer Portal and Player
 type: Component
 ---
-
-
 As a software engineer at VoiceBase, a startup that works with voice recognition and AI analytics for call centers, I was responsible for creating a visual transcription player. This audio player would play through an audio recording and highlight the words in a written AI-generated transcript. The player was the only front-end for what was almost entirely an API voice recognition and voice analytics service. 
 
 I worked with the team to create a developer portal to add to the company offering that would give further visual control to developers for the API. The motivation was also to allow upper management, which is not familiar with an API system's inner workings, to visualize and understand VoiceBase's product and to create visualization tools for a non-technical audience.
-
-%%%% %%%%
-Developer Portal and Transcribed Audio Player.

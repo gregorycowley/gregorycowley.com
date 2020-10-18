@@ -23,7 +23,7 @@ right_images:
   - src: projects/Photoworks/Photoworks-right-260_kvhrbi
   - src: projects/Photoworks/Photoworks-right-261_schbyi
   - src: projects/Photoworks/Photoworks-right-263_vgakcr
-slug: balance-table
+slug: photoworks
 status: active
 subtitle: >-
   A mobile iOS app that allowed customers to order real prints from the photos
@@ -31,4 +31,4 @@ subtitle: >-
 title: Photoworks iOS Photo Ordering App
 type: Component
 ---
-%%%% %%%%
+Photoworks, a high-quality photo lab based in San Francisco, specialized in creative, unique photo printing services. I designed and built an application for this client that allowed users to select from Photoworks' product offerings, upload photos directly from their phones, and pay for orders.

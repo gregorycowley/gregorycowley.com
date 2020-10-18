@@ -28,4 +28,4 @@ subtitle: Website for marketing a unique resort experience in San Francisco.
 title: Cavallo Point Resort
 type: Component
 ---
-%%%% %%%%
+I worked with the designer who supplied PSD files for development. My job was to prepare the assets, code the HTML/CSS, and deploy the resort website. The site worked as a delivery tool for marketing collateral and a booking tool for the resort.

@@ -31,4 +31,4 @@ subtitle: >-
 title: Dwell Magazine Visualizer
 type: Component
 ---
-%%%% %%%%
+As a content visualizer for the Dwell Magazine website, a Flash-based application was created to allow users to filter and browse past articles, images, and other content that appeared within the pages of Dwell Magazine throughout its history. 

@@ -9,6 +9,7 @@ description: >
   a Macintosh. It was a video component player that was included with the
   operating system but could also be downloaded separately.
 
+
   Once installed, the demo animation I created would play to confirm the
   software was correctly installed. In addition, I also designed and animated
   the Quicktime TV logo for Apple's Quicktime TV offering. This was a very early
@@ -34,4 +35,6 @@ subtitle: >-
 title: Quicktime/Qtv Animation and Design
 type: Component
 ---
-%%%% %%%%
+Quicktime was an Apple product released in the mid-1990s for playing video on a Macintosh. It was a video component player that was included with the operating system but could also be downloaded separately.
+
+Once installed, the demo animation I created would play to confirm the software was correctly installed. In addition, I also designed and animated the Quicktime TV logo for Apple's Quicktime TV offering. This was a very early version of what would become the AppleTV.

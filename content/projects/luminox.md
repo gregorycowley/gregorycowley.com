@@ -35,4 +35,4 @@ subtitle: |
 title: Luminix Watch Website
 type: Component
 ---
-%%%% %%%%
+Luminox makes military-grade watches marketed towards the military and outdoor enthusiasts. I worked closely with the company founders to create an online catalog of their products. The site included a custom content management system that I hand-coded using PHP. The admin section of the site allowed the marketing team to add new products and update information.

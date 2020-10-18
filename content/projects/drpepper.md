@@ -33,5 +33,4 @@ subtitle: >-
 title: Dr Pepper Promo CDROMS
 type: Component
 ---
-%%%% %%%%
-
+Dr. Pepper was a major supporter of the American Red Cross. They commissioned an educational series of CDROMs geared towards kids. The disks were loaded with creative content that taught kids about the focus of the Red Cross. These included a range of life-saving relief services running from basic first aid to recovering from natural disasters.
