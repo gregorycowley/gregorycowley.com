@@ -12,22 +12,23 @@ description: >-
   marketing team to add new products and update information.
 discipline: Discipline
 firm: DRDC Group
-hero_image: projects/Luminox/Luminox-top-213_weu0tp
+hero_image: projects/Luminox/Luminox-top-213
 image_path: /projects/Luminox
 image_source_dir_name: Luminox
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Luminox/Luminox-right-206_r2cybq
-  - src: projects/Luminox/Luminox-right-207_zn7dyg
-  - src: projects/Luminox/Luminox-right-208_xy7xoc
-  - src: projects/Luminox/Luminox-right-209_cdioaq
-  - src: projects/Luminox/Luminox-right-210_tisuv9
-  - src: projects/Luminox/Luminox-right-211_uyx0dr
-  - src: projects/Luminox/Luminox-right-212_frxd6k
+  - src: projects/Luminox/Luminox-right-208
+  - src: projects/Luminox/Luminox-right-209
+  - src: projects/Luminox/Luminox-right-210
+  - src: projects/Luminox/Luminox-right-211
+  - src: projects/Luminox/Luminox-right-206
+  - src: projects/Luminox/Luminox-right-212
+  - src: projects/Luminox/Luminox-right-207
+  - src: projects/Luminox/Luminox-right-170
+  - src: projects/Luminox/Luminox-right-190
+  - src: projects/Luminox/Luminox-right-189
 slug: luminox
 status: active
 subtitle: |

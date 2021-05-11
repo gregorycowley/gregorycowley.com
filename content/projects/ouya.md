@@ -10,16 +10,17 @@ description: >-
   other content using a game controller.
 discipline: Discipline
 firm: Fuseproject
-hero_image: projects/Ouya/Ouya-top-102_pd8rjb
+hero_image: projects/Ouya/Ouya-top-102
 image_path: /projects/Ouya
 image_source_dir_name: Ouya
 left_images:
-  - src: projects/Ouya/Ouya-left-104_sx2jl1
+  - src: projects/Ouya/Ouya-left-104
+  - src: projects/Ouya/Ouya-left-90
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Ouya/Ouya-right-101_f0puhq
-  - src: projects/Ouya/Ouya-right-103_slrc2n
+  - src: projects/Ouya/Ouya-right-103
+  - src: projects/Ouya/Ouya-right-101
 slug: ouya
 status: active
 subtitle: |

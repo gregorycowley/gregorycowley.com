@@ -12,17 +12,18 @@ description: >-
   early implementation of a stylus for an iPad. 
 discipline: Discipline
 firm: SP Controls
-hero_image: projects/Doceri/Doceri-top-179_tfv45i
+hero_image: projects/Doceri/Doceri-top-179
 image_path: /projects/Doceri
 image_source_dir_name: Doceri
 left_images:
-  - src: projects/Doceri/Doceri-left-177_neecjc
-  - src: projects/Doceri/Doceri-left-178_kyty4o
+  - src: projects/Doceri/Doceri-left-177
+  - src: projects/Doceri/Doceri-left-178
+  - src: projects/Doceri/Doceri-left-176
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Doceri/Doceri-right-175_mlwvnq
-  - src: projects/Doceri/Doceri-right-176_mouewa
+  - src: projects/Doceri/Doceri-right-176
+  - src: projects/Doceri/Doceri-right-175
 slug: doceri
 status: active
 subtitle: Development of a brand identity and user interface for an iPad application.

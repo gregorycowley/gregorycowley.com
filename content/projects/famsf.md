@@ -13,20 +13,18 @@ description: >-
   application.
 discipline: Discipline
 firm: Wolf-Olins
-hero_image: projects/FAMSF/FAMSF-top-188_rqqwn0
+hero_image: projects/FAMSF/FAMSF-top-188
 image_path: /projects/FAMSF
 image_source_dir_name: FAMSF
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/FAMSF/FAMSF-right-186_o8lm9k
-  - src: projects/FAMSF/FAMSF-right-187_rwljwp
-  - src: projects/FAMSF/FAMSF-right-189_farn46
-  - src: projects/FAMSF/FAMSF-right-190_pgakdt
-  - src: projects/FAMSF/FAMSF-right-191_njhgcd
+  - src: projects/FAMSF/FAMSF-right-189
+  - src: projects/FAMSF/FAMSF-right-190
+  - src: projects/FAMSF/FAMSF-right-187
+  - src: projects/FAMSF/FAMSF-right-186
+  - src: projects/FAMSF/FAMSF-right-191
 slug: famsf
 status: active
 subtitle: >-

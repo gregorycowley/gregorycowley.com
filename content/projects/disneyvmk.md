@@ -12,14 +12,17 @@ description: >-
   video editing mashups, maps, and a daily event planner.
 discipline: Discipline
 firm: Punchcut
-hero_image: projects/DisneyVMK/DisneyVMK-top-72_ktn30w
+hero_image: projects/DisneyVMK/DisneyVMK-top-72
 image_path: /projects/
 image_source_dir_name: DisneyVMK
-left_images: null
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/DisneyVMK/DisneyVMK-right-73_bkmniy
+  - src: projects/DisneyVMK/DisneyVMK-right-73
+  - src: projects/DisneyVMK/DisneyVMK-right-72
+  - src: projects/DisneyVMK/DisneyVMK-right-70
+  - src: projects/DisneyVMK/DisneyVMK-right-71
 slug: disneyvmk
 status: active
 subtitle: >-

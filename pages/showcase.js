@@ -23,12 +23,13 @@ class Showcase extends React.Component {
         const link= `/projects/${slug}`
         const style = "project" 
         return (
-          <Card style={style} 
-                hero_image={hero_image} 
-                link={link} 
-                title={title}
-                subtitle={subtitle} 
-                description="" />
+          <Card key={key} 
+            style={style}
+            hero_image={hero_image} 
+            link={link} 
+            title={title}
+            subtitle={subtitle} 
+            description="" />
         )
       }
     );
@@ -40,10 +41,11 @@ class Showcase extends React.Component {
         siteTitle={this.props.title}
         siteDescription={this.props.description}
       >
+        <TextContent className="showcase">
+          <h1>Showcase of Key Projects</h1>
+        </TextContent>
         <div className="showcase-grid container">
-          <TextContent>
-            {this.makeCards(this.props.projects)}
-          </TextContent>
+          {this.makeCards(this.props.projects)}
         </div>
       </Layout>
     );
@@ -56,15 +58,18 @@ Showcase.getInitialProps = async function() {
   const metadata = await import(`../data/config.json`);
   let projects = [];
 
-  projects.push(await import("../content/projects/transcinema.md"));
-  projects.push(await import("../content/projects/cca.md"));
-  projects.push(await import("../content/projects/chronopolis.md"));
-  projects.push(await import("../content/projects/cncmachine.md"));
-  projects.push(await import("../content/projects/drtingleton.md"));
-  projects.push(await import("../content/projects/mpps.md"));
-  projects.push(await import("../content/projects/rxgallery.md"));
-  projects.push(await import("../content/projects/thetestproject.md"));
-  projects.push(await import("../content/projects/3mps.md"));
+  projects.push(await import("../content/projects/voicebase.md"));
+  projects.push(await import("../content/projects/hondansx.md"));
+  projects.push(await import("../content/projects/branding.md"));
+  projects.push(await import("../content/projects/briggo.md"));
+  projects.push(await import("../content/projects/blurbbookify.md"));
+  projects.push(await import("../content/projects/drpepper.md"));
+  projects.push(await import("../content/projects/ideo-newyears.md"));
+  projects.push(await import("../content/projects/nikeskateboarding.md"));
+  projects.push(await import("../content/projects/opesadvisors.md"));
+  projects.push(await import("../content/projects/cms.md"));
+  projects.push(await import("../content/projects/zephyros.md"));
+  projects.push(await import("../content/projects/photoworks.md"));
 
   return {
     ...metadata,

@@ -25,14 +25,14 @@ Designer.getInitialProps = async function() {
   const metadata = await import(`../data/config.json`);
   let projects = [];
 
+  projects.push(await import("../content/projects/zephyros.md"));
+  projects.push(await import("../content/projects/spcontrols.md"));
+  projects.push(await import("../content/projects/quicktime.md"));
+  projects.push(await import("../content/projects/macromedia.md"));
+  projects.push(await import("../content/projects/doceri.md"));
+  projects.push(await import("../content/projects/branding.md"));
   projects.push(await import("../content/projects/transcinema.md"));
-  projects.push(await import("../content/projects/cca.md"));
-  projects.push(await import("../content/projects/chronopolis.md"));
-  projects.push(await import("../content/projects/cncmachine.md"));
   projects.push(await import("../content/projects/drtingleton.md"));
-  projects.push(await import("../content/projects/mpps.md"));
-  projects.push(await import("../content/projects/rxgallery.md"));
-  projects.push(await import("../content/projects/thetestproject.md"));
   projects.push(await import("../content/projects/3mps.md"));
 
   const content = await import("../content/disciplines/designer.md");

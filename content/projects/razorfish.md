@@ -11,18 +11,18 @@ description: >-
   and customer engagement.
 discipline: Discipline
 firm: 'Razorfish '
-hero_image: projects/Razorfish/Razorfish-top-117_nrhpbg
+hero_image: projects/Razorfish/Razorfish-top-117
 image_path: /projects/Razorfish
 image_source_dir_name: Razorfish
 left_images:
-  - src: projects/Razorfish/Razorfish-left-118_drsv3v
-  - src: projects/Razorfish/Razorfish-left-119_lhgrjo
+  - src: projects/Razorfish/Razorfish-left-118
+  - src: projects/Razorfish/Razorfish-left-119
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Razorfish/Razorfish-right-114_bjceeu
-  - src: projects/Razorfish/Razorfish-right-115_pswoed
-  - src: projects/Razorfish/Razorfish-right-116_sjjabn
+  - src: projects/Razorfish/Razorfish-right-116
+  - src: projects/Razorfish/Razorfish-right-115
+  - src: projects/Razorfish/Razorfish-right-114
 slug: razorfish
 status: active
 subtitle: |

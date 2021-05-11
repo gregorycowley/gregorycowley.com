@@ -70,7 +70,14 @@ fs.createReadStream(pathToMap)
             let left_images = items["left_images"];
             let right_images = items["right_images"];
 
-            let filepath = path.join(__dirname, "../content/projects", filename + ".md");
+            const disciplines = ["artist","designer","educator","","engineer","entrepreneur","photographer"];
+            let filepath;
+            if (disciplines.includes(filename)){
+                filepath = path.join(__dirname, "../content/disciplines", filename + ".md");
+
+            }  else {
+                filepath = path.join(__dirname, "../content/projects", filename + ".md");
+            }
             console.log("Updating,",filepath);
             if( fs.existsSync(filepath) ){
                 

@@ -14,23 +14,21 @@ description: >
   into HTML, CSS, and Flash. 
 discipline: Discipline
 firm: Various
-hero_image: projects/Wineries/Wineries-top-15_nkawql
+hero_image: projects/Wineries/Wineries-top-15
 image_path: /projects/Wineries
 image_source_dir_name: Wineries
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Wineries/Wineries-right-07_sfngl4
-  - src: projects/Wineries/Wineries-right-08_x5nike
-  - src: projects/Wineries/Wineries-right-09_fl8s65
-  - src: projects/Wineries/Wineries-right-10_i6e85u
-  - src: projects/Wineries/Wineries-right-11_vnhimw
-  - src: projects/Wineries/Wineries-right-12_tqcsxr
-  - src: projects/Wineries/Wineries-right-13_yuiecy
-  - src: projects/Wineries/Wineries-right-14_wetlb6
+  - src: projects/Wineries/Wineries-right-11
+  - src: projects/Wineries/Wineries-right-10
+  - src: projects/Wineries/Wineries-right-12
+  - src: projects/Wineries/Wineries-right-09
+  - src: projects/Wineries/Wineries-right-08
+  - src: projects/Wineries/Wineries-right-13
+  - src: projects/Wineries/Wineries-right-07
+  - src: projects/Wineries/Wineries-right-14
 slug: wineries
 status: active
 subtitle: |

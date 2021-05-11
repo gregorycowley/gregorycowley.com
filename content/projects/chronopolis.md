@@ -16,20 +16,20 @@ description: >
   interpret the effect that the population has on the perception of time.
 discipline: Artist
 firm: MAD
-hero_image: projects/Chronopolis/Chronopolis-top-83_cphdyb
+hero_image: projects/Chronopolis/Chronopolis-top-83
 image_path: /projects/Chronopolis
 image_source_dir_name: Chronopolis
 left_images:
-  - src: projects/Chronopolis/Chronopolis-left-82_lcjliq
-  - src: projects/Chronopolis/Chronopolis-left-85_dxurp7
+  - src: projects/Chronopolis/Chronopolis-left-85
+  - src: projects/Chronopolis/Chronopolis-left-82
 project_type: Project Type
 projecttype: Digital Production
 right_images:
-  - src: projects/Chronopolis/Chronopolis-right-78_bmdom0
-  - src: projects/Chronopolis/Chronopolis-right-79_ibq6bl
-  - src: projects/Chronopolis/Chronopolis-right-80_bzxg2l
-  - src: projects/Chronopolis/Chronopolis-right-81_x1kx2a
-  - src: projects/Chronopolis/Chronopolis-right-84_zhjoao
+  - src: projects/Chronopolis/Chronopolis-right-78
+  - src: projects/Chronopolis/Chronopolis-right-81
+  - src: projects/Chronopolis/Chronopolis-right-80
+  - src: projects/Chronopolis/Chronopolis-right-79
+  - src: projects/Chronopolis/Chronopolis-right-84
 slug: chronopolis
 status: active
 subtitle: Large Scale Interactive Installation in Paris.

@@ -16,19 +16,17 @@ description: >
   for sending handwritten notes to friends.
 discipline: Designer
 firm: Dr Tingleton Miracle Apps
-hero_image: projects/DrTingleton/DrTingleton-top-243_jye5hw
+hero_image: projects/DrTingleton/DrTingleton-top-243
 image_path: /projects/DrTingleton
 image_source_dir_name: DrTingleton
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Digital Production
 right_images:
-  - src: projects/DrTingleton/DrTingleton-right-239_tu9jtp
-  - src: projects/DrTingleton/DrTingleton-right-240_a67mh3
-  - src: projects/DrTingleton/DrTingleton-right-241_tcjk1z
-  - src: projects/DrTingleton/DrTingleton-right-242_lkrbns
+  - src: projects/DrTingleton/DrTingleton-right-242
+  - src: projects/DrTingleton/DrTingleton-right-239
+  - src: projects/DrTingleton/DrTingleton-right-240
+  - src: projects/DrTingleton/DrTingleton-right-241
 slug: drtingleton
 status: active
 subtitle: |

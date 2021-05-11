@@ -31,5 +31,5 @@ ProjectDetails.propTypes = {
 // Specifies the default values for props:
 ProjectDetails.defaultProps = {
   detail_images: [],
-  children: <div>Empty</div>
+  children: <div></div>
 };

@@ -11,18 +11,18 @@ description: >-
   offerings, upload photos directly from their phones, and pay for orders.
 discipline: Discipline
 firm: Photoworks
-hero_image: projects/Photoworks/Photoworks-top-258_j5bhdu
+hero_image: projects/Photoworks/Photoworks-top-258
 image_path: /projects/Photoworks
 image_source_dir_name: Photoworks
 left_images:
-  - src: projects/Photoworks/Photoworks-left-262_e41ph8
+  - src: projects/Photoworks/Photoworks-left-262
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Photoworks/Photoworks-right-259_czcqfw
-  - src: projects/Photoworks/Photoworks-right-260_kvhrbi
-  - src: projects/Photoworks/Photoworks-right-261_schbyi
-  - src: projects/Photoworks/Photoworks-right-263_vgakcr
+  - src: projects/Photoworks/Photoworks-right-260
+  - src: projects/Photoworks/Photoworks-right-263
+  - src: projects/Photoworks/Photoworks-right-261
+  - src: projects/Photoworks/Photoworks-right-259
 slug: photoworks
 status: active
 subtitle: >-

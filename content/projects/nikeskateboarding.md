@@ -14,18 +14,18 @@ description: >
   off the shelves and new shoes to fly back up to replace them.
 discipline: Discipline
 firm: Odopod
-hero_image: projects/NikeSkateboarding/NikeSkateboarding-top-214_qleth8
+hero_image: projects/NikeSkateboarding/NikeSkateboarding-top-214
 image_path: /projects/NikeSkateboarding
 image_source_dir_name: NikeSkateboarding
 left_images:
-  - src: projects/NikeSkateboarding/NikeSkateboarding-left-218_hdoscq
-  - src: projects/NikeSkateboarding/NikeSkateboarding-left-219_xpzusr
+  - src: projects/NikeSkateboarding/NikeSkateboarding-left-219
+  - src: projects/NikeSkateboarding/NikeSkateboarding-left-218
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/NikeSkateboarding/NikeSkateboarding-right-215_yilomy
-  - src: projects/NikeSkateboarding/NikeSkateboarding-right-216_dqk6b7
-  - src: projects/NikeSkateboarding/NikeSkateboarding-right-217_sbjahe
+  - src: projects/NikeSkateboarding/NikeSkateboarding-right-215
+  - src: projects/NikeSkateboarding/NikeSkateboarding-right-216
+  - src: projects/NikeSkateboarding/NikeSkateboarding-right-217
 slug: nikeskateboarding
 status: active
 subtitle: >-

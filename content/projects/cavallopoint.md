@@ -11,17 +11,17 @@ description: >-
   the resort.
 discipline: Discipline
 firm: Passport Resorts
-hero_image: projects/CavalloPoint/CavalloPoint-top-129_rh7tvy
+hero_image: projects/CavalloPoint/CavalloPoint-top-129
 image_path: /projects/CavalloPoint
 image_source_dir_name: CavalloPoint
 left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+  - src: projects/CavalloPoint/CavalloPoint-left-130
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/CavalloPoint/CavalloPoint-right-130_txfsc7
-  - src: projects/CavalloPoint/CavalloPoint-right-131_v72osf
+  - src: projects/CavalloPoint/CavalloPoint-right-131
+  - src: projects/CavalloPoint/CavalloPoint-right-130
+  - src: projects/CavalloPoint/CavalloPoint-right-132
 slug: cavallopoint
 status: active
 subtitle: Website for marketing a unique resort experience in San Francisco.

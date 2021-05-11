@@ -6,19 +6,20 @@ client: Blurb
 date: '20190000'
 discipline: Discipline
 firm: Blurb
-hero_image: projects/BlurbBookify/BlurbBookify-top-148_aicunm
+hero_image: projects/BlurbBookify/BlurbBookify-top-148
 image_path: /projects/BlurbBookify
 image_source_dir_name: BlurbBookify
 left_images:
-  - src: projects/BlurbBookify/BlurbBookify-left-150_tfkho0
+  - src: projects/BlurbBookify/BlurbBookify-left-150
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/BlurbBookify/BlurbBookify-right-144_rpgvcz
-  - src: projects/BlurbBookify/BlurbBookify-right-145_mfpydw
-  - src: projects/BlurbBookify/BlurbBookify-right-146_kynhpn
-  - src: projects/BlurbBookify/BlurbBookify-right-147_m7vyuf
-  - src: projects/BlurbBookify/BlurbBookify-right-149_gcpfww
+  - src: projects/BlurbBookify/BlurbBookify-right-147
+  - src: projects/BlurbBookify/BlurbBookify-right-149
+  - src: projects/BlurbBookify/BlurbBookify-right-145
+  - src: projects/BlurbBookify/BlurbBookify-right-144
+  - src: projects/BlurbBookify/BlurbBookify-right-146
+  - src: projects/BlurbBookify/BlurbBookify-right-129
 slug: blurbbookify
 status: active
 subtitle: Online Book Design Web Application.

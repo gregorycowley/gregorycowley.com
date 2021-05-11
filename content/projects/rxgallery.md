@@ -14,20 +14,18 @@ description: >-
   operated from 2003 to 2008.
 discipline: Discipline
 firm: Self
-hero_image: projects/RXGallery/RXGallery-top-01_utszqm
+hero_image: projects/RXGallery/RXGallery-top-01
 image_path: /projects/RXGallery
 image_source_dir_name: RXGallery
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/RXGallery/RXGallery-right-02_llm3tu
-  - src: projects/RXGallery/RXGallery-right-03_jbydnr
-  - src: projects/RXGallery/RXGallery-right-04_hefgj5
-  - src: projects/RXGallery/RXGallery-right-05_qsfzdf
-  - src: projects/RXGallery/RXGallery-right-06_lqqror
+  - src: projects/RXGallery/RXGallery-right-06
+  - src: projects/RXGallery/RXGallery-right-02
+  - src: projects/RXGallery/RXGallery-right-03
+  - src: projects/RXGallery/RXGallery-right-05
+  - src: projects/RXGallery/RXGallery-right-04
 slug: rxgallery
 status: active
 subtitle: >-

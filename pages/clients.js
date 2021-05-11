@@ -38,13 +38,12 @@ class Clients extends React.Component {
     super(props);
     this.markdownBody = props.content
     this.frontmatter = props.frontmatter
-    // 
   }
 
   render() {
     return (
       <Layout {...this.props}>
-        <TextContent>
+        <TextContent className="clients">
           <ReactMarkdown source={this.markdownBody} />
           <div className="block-structure">
             <ClientBlocks data={this.frontmatter} />

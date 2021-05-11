@@ -14,16 +14,18 @@ description: >
   and within budget.
 discipline: Discipline
 firm: Adobe Elements
-hero_image: projects/Adobe/Adobe-top-125_ytysrq
+hero_image: projects/Adobe/Adobe-top-125
 image_path: /projects/Adobe
 image_source_dir_name: Adobe
 left_images:
-  - src: projects/Adobe/Adobe-left-128_x9frln
+  - src: projects/Adobe/Adobe-left-128
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Adobe/Adobe-right-126_vau5df
-  - src: projects/Adobe/Adobe-right-127_zm9qrp
+  - src: projects/Adobe/Adobe-right-126
+  - src: projects/Adobe/Adobe-right-127
+  - src: projects/Adobe/Adobe-right-129
+  - src: projects/Adobe/Adobe-right-128
 slug: adobe
 status: active
 subtitle: Photoshop and Premiere Elements Packaging.

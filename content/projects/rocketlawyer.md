@@ -12,17 +12,17 @@ description: >-
   customer engagement. 
 discipline: Discipline
 firm: Rocket Lawyer
-hero_image: projects/RocketLawyer/RocketLawyer-top-237_gb1kop
+hero_image: projects/RocketLawyer/RocketLawyer-top-237
 image_path: /projects/RocketLawyer
 image_source_dir_name: RocketLawyer
 left_images:
-  - src: projects/RocketLawyer/RocketLawyer-left-238_fpph29
+  - src: projects/RocketLawyer/RocketLawyer-left-238
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/RocketLawyer/RocketLawyer-right-234_kzfmlc
-  - src: projects/RocketLawyer/RocketLawyer-right-235_nf0rm7
-  - src: projects/RocketLawyer/RocketLawyer-right-236_mzuvpg
+  - src: projects/RocketLawyer/RocketLawyer-right-234
+  - src: projects/RocketLawyer/RocketLawyer-right-235
+  - src: projects/RocketLawyer/RocketLawyer-right-236
 slug: rocketlawyer
 status: active
 subtitle: >-

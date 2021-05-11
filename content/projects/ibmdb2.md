@@ -12,19 +12,19 @@ description: >-
   the new product.
 discipline: Discipline
 firm: MAD
-hero_image: projects/IBMDB2/IBMDB2-top-174_athtrg
+hero_image: projects/IBMDB2/IBMDB2-top-174
 image_path: /projects/IBMDB2
 image_source_dir_name: IBMDB2
 left_images:
-  - src: projects/IBMDB2/IBMDB2-left-168_ld6qlm
+  - src: projects/IBMDB2/IBMDB2-left-168
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/IBMDB2/IBMDB2-right-169_f9qqpl
-  - src: projects/IBMDB2/IBMDB2-right-170_je3w9y
-  - src: projects/IBMDB2/IBMDB2-right-171_z2uauu
-  - src: projects/IBMDB2/IBMDB2-right-172_q2nm3a
-  - src: projects/IBMDB2/IBMDB2-right-173_o9ytlg
+  - src: projects/IBMDB2/IBMDB2-right-173
+  - src: projects/IBMDB2/IBMDB2-right-169
+  - src: projects/IBMDB2/IBMDB2-right-172
+  - src: projects/IBMDB2/IBMDB2-right-170
+  - src: projects/IBMDB2/IBMDB2-right-171
 slug: ibmdb2
 status: active
 subtitle: >-

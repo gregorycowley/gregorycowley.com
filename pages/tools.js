@@ -41,12 +41,13 @@ class Tools extends React.Component {
   render() {
     return (
       <Layout {...this.props}>
-        <TextContent>
+        <TextContent className="tools">
           <ReactMarkdown source={this.markdownBody} />
           <div className="block-structure">
             <ToolBlocks data={this.frontmatter.tools} />
           </div>
         </TextContent>
+          
       </Layout>
     )
   }

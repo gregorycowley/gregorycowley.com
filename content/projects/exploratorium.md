@@ -13,21 +13,22 @@ description: >-
   near City Hall in front of the San Francisco Public Library.
 discipline: Discipline
 firm: Exploratorium
-hero_image: projects/Exploratorium/Exploratorium-top-105_kydzgr
+hero_image: projects/Exploratorium/Exploratorium-top-105
 image_path: /projects/Exploratorium
 image_source_dir_name: Exploratorium
 left_images:
-  - src: projects/Exploratorium/Exploratorium-left-113_f86h46
+  - src: projects/Exploratorium/Exploratorium-left-113
+  - src: projects/Exploratorium/Exploratorium-left-100
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Exploratorium/Exploratorium-right-106_nmb9fj
-  - src: projects/Exploratorium/Exploratorium-right-107_g044lo
-  - src: projects/Exploratorium/Exploratorium-right-108_rz3izd
-  - src: projects/Exploratorium/Exploratorium-right-109_q7pbem
-  - src: projects/Exploratorium/Exploratorium-right-110_ngqt0q
-  - src: projects/Exploratorium/Exploratorium-right-111_hoyn2c
-  - src: projects/Exploratorium/Exploratorium-right-112_judovq
+  - src: projects/Exploratorium/Exploratorium-right-107
+  - src: projects/Exploratorium/Exploratorium-right-110
+  - src: projects/Exploratorium/Exploratorium-right-108
+  - src: projects/Exploratorium/Exploratorium-right-109
+  - src: projects/Exploratorium/Exploratorium-right-106
+  - src: projects/Exploratorium/Exploratorium-right-112
+  - src: projects/Exploratorium/Exploratorium-right-111
 slug: exploratorium
 status: active
 subtitle: >-

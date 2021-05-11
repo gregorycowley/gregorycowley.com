@@ -24,20 +24,21 @@ description: >
   the products could enhance work and life experiences.
 discipline: Discipline
 firm: Intel
-hero_image: projects/Zephyros/Zephyros-top-31_dmugne
+hero_image: projects/Zephyros/Zephyros-top-31
 image_path: /projects/Zephyros
 image_source_dir_name: Zephyros
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Zephyros/Zephyros-right-27_cayp0t
-  - src: projects/Zephyros/Zephyros-right-28_ekq6nr
-  - src: projects/Zephyros/Zephyros-right-29_vetgyy
-  - src: projects/Zephyros/Zephyros-right-30_csk7hm
-  - src: projects/Zephyros/Zephyros-right-32_e1jdr3
+  - src: projects/Zephyros/Zephyros-right-30
+  - src: projects/Zephyros/Zephyros-right-28
+  - src: projects/Zephyros/Zephyros-right-27
+  - src: projects/Zephyros/Zephyros-right-29
+  - src: projects/Zephyros/Zephyros-right-32
+  - src: projects/Zephyros/Zephyros-right-24
+  - src: projects/Zephyros/Zephyros-right-26
+  - src: projects/Zephyros/Zephyros-right-25
 slug: zephyros
 status: active
 subtitle: >-

@@ -12,25 +12,23 @@ description: >-
   be a team player in both their San Francisco and Hong Kong offices. 
 discipline: Discipline
 firm: Landor Associates
-hero_image: projects/Landor/Landor-top-16_lij4zf
+hero_image: projects/Landor/Landor-top-16
 image_path: /projects/Landor
 image_source_dir_name: Landor
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Landor/Landor-right-17_zwhlfz
-  - src: projects/Landor/Landor-right-18_hrdg4u
-  - src: projects/Landor/Landor-right-19_whasu6
-  - src: projects/Landor/Landor-right-20_s2lw6g
-  - src: projects/Landor/Landor-right-21_veysur
-  - src: projects/Landor/Landor-right-22_jwgd9n
-  - src: projects/Landor/Landor-right-23_hzpn7y
-  - src: projects/Landor/Landor-right-24_iwkxmj
-  - src: projects/Landor/Landor-right-25_xbh4ua
-  - src: projects/Landor/Landor-right-26_xbm1su
+  - src: projects/Landor/Landor-right-23
+  - src: projects/Landor/Landor-right-24
+  - src: projects/Landor/Landor-right-25
+  - src: projects/Landor/Landor-right-17
+  - src: projects/Landor/Landor-right-21
+  - src: projects/Landor/Landor-right-18
+  - src: projects/Landor/Landor-right-26
+  - src: projects/Landor/Landor-right-22
+  - src: projects/Landor/Landor-right-19
+  - src: projects/Landor/Landor-right-20
 slug: landor
 status: active
 subtitle: >-

@@ -15,19 +15,19 @@ description: >-
   mentored graduate students in self-study programs.
 discipline: Discipline
 firm: California College of the Arts
-hero_image: projects/CCA/CCA-top-161_scxam8
+hero_image: projects/CCA/CCA-top-161
 image_path: /projects/CCA
 image_source_dir_name: CCA
 left_images:
-  - src: projects/CCA/CCA-left-167_lb0opa
+  - src: projects/CCA/CCA-left-167
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/CCA/CCA-right-162_fgpxiu
-  - src: projects/CCA/CCA-right-163_x01be6
-  - src: projects/CCA/CCA-right-164_ndipqw
-  - src: projects/CCA/CCA-right-165_xugttd
-  - src: projects/CCA/CCA-right-166_bpt7ds
+  - src: projects/CCA/CCA-right-162
+  - src: projects/CCA/CCA-right-163
+  - src: projects/CCA/CCA-right-166
+  - src: projects/CCA/CCA-right-165
+  - src: projects/CCA/CCA-right-164
 slug: cca
 status: active
 subtitle: Professor of Design since 2002.

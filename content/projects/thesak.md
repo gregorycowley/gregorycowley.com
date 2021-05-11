@@ -11,18 +11,19 @@ description: >-
   catalog with 3D page turning interactions for this client.
 discipline: Discipline
 firm: The Sak
-hero_image: projects/TheSak/TheSak-top-74_bqi9je
+hero_image: projects/TheSak/TheSak-top-74
 image_path: /projects/TheSak
 image_source_dir_name: TheSak
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/TheSak/TheSak-right-75_dx8r8s
-  - src: projects/TheSak/TheSak-right-76_dzl7wm
-  - src: projects/TheSak/TheSak-right-77_c9lrim
+  - src: projects/TheSak/TheSak-right-77
+  - src: projects/TheSak/TheSak-right-75
+  - src: projects/TheSak/TheSak-right-76
+  - src: projects/TheSak/TheSak-right-73
+  - src: projects/TheSak/TheSak-right-72
+  - src: projects/TheSak/TheSak-right-74
 slug: thesak
 status: active
 subtitle: >-

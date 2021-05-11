@@ -12,18 +12,19 @@ description: >-
   approach.
 discipline: Discipline
 firm: IDEO
-hero_image: projects/HPGarage/HPGarage-top-136_koijpe
+hero_image: projects/HPGarage/HPGarage-top-136
 image_path: /projects/HPGarage
 image_source_dir_name: HPGarage
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/HPGarage/HPGarage-right-137_uz83wq
-  - src: projects/HPGarage/HPGarage-right-138_yxuibz
-  - src: projects/HPGarage/HPGarage-right-139_qe5sfo
+  - src: projects/HPGarage/HPGarage-right-139
+  - src: projects/HPGarage/HPGarage-right-137
+  - src: projects/HPGarage/HPGarage-right-136
+  - src: projects/HPGarage/HPGarage-right-138
+  - src: projects/HPGarage/HPGarage-right-130
+  - src: projects/HPGarage/HPGarage-right-129
 slug: hpgarage
 status: active
 subtitle: >-

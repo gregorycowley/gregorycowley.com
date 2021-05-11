@@ -27,7 +27,7 @@ class Header extends React.Component {
   handleScroll() {
     if (window.pageYOffset > 100 && this.state.navClass != "sticky") {
       this.setState({
-        navClass: "sticky"
+        navClass: ""
       });
     } else if (window.pageYOffset <= 100 && this.state.navClass === "sticky") {
       this.setState({

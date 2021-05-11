@@ -25,15 +25,15 @@ Engineer.getInitialProps = async function() {
   const metadata = await import(`../data/config.json`);
   let projects = [];
 
-  projects.push(await import("../content/projects/transcinema.md"));
-  projects.push(await import("../content/projects/cca.md"));
-  projects.push(await import("../content/projects/chronopolis.md"));
-  projects.push(await import("../content/projects/cncmachine.md"));
-  projects.push(await import("../content/projects/drtingleton.md"));
-  projects.push(await import("../content/projects/mpps.md"));
-  projects.push(await import("../content/projects/rxgallery.md"));
-  projects.push(await import("../content/projects/thetestproject.md"));
-  projects.push(await import("../content/projects/3mps.md"));
+  projects.push(await import("../content/projects/voicebase.md"));
+  projects.push(await import("../content/projects/rocketlawyer.md"));
+  projects.push(await import("../content/projects/4by6.md"));
+  projects.push(await import("../content/projects/blurbbookify.md"));
+  projects.push(await import("../content/projects/hondansx.md"));
+  projects.push(await import("../content/projects/nikeskateboarding.md"));
+  projects.push(await import("../content/projects/cms.md"));
+  projects.push(await import("../content/projects/disneyvmk.md"));
+  projects.push(await import("../content/projects/ouya.md"));
 
   const content = await import("../content/disciplines/engineer.md");
   const data = matter(content.default);

@@ -20,21 +20,22 @@ description: >
   and to create visualization tools for a non-technical audience.
 discipline: Engineer
 firm: Voicebase
-hero_image: projects/Voicebase/Voicebase-top-34_jjewrl
+hero_image: projects/Voicebase/Voicebase-top-34
 image_path: /projects/Voicebase
 image_source_dir_name: Voicebase
 left_images:
-  - src: projects/Voicebase/Voicebase-left-40_x2yr1b
-  - src: projects/Voicebase/Voicebase-left-41_ww8jwv
+  - src: projects/Voicebase/Voicebase-left-40
+  - src: projects/Voicebase/Voicebase-left-41
 project_type: Project Type
 projecttype: Digital Production
 right_images:
-  - src: projects/Voicebase/Voicebase-right-33_gy7khx
-  - src: projects/Voicebase/Voicebase-right-35_srkhdl
-  - src: projects/Voicebase/Voicebase-right-36_hcrsi9
-  - src: projects/Voicebase/Voicebase-right-37_rhmslw
-  - src: projects/Voicebase/Voicebase-right-38_bmpkbd
-  - src: projects/Voicebase/Voicebase-right-39_sflgap
+  - src: projects/Voicebase/Voicebase-right-38
+  - src: projects/Voicebase/Voicebase-right-33
+  - src: projects/Voicebase/Voicebase-right-39
+  - src: projects/Voicebase/Voicebase-right-35
+  - src: projects/Voicebase/Voicebase-right-36
+  - src: projects/Voicebase/Voicebase-right-37
+  - src: projects/Voicebase/Voicebase-right-129
 slug: voicebase
 status: active
 subtitle: >-

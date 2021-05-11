@@ -32,21 +32,21 @@ description: >
   to trigger memories in the viewer.
 discipline: Discipline
 firm: 'The TEST:Project'
-hero_image: projects/TheTESTProject/TheTESTProject-top-54_xzbfjb
+hero_image: projects/TheTESTProject/TheTESTProject-top-54
 image_path: /projects/TheTESTProject
 image_source_dir_name: TheTESTProject
 left_images:
-  - src: projects/TheTESTProject/TheTESTProject-left-62_q0aycn
-  - src: projects/TheTESTProject/TheTESTProject-left-63_s3cdh4
+  - src: projects/TheTESTProject/TheTESTProject-left-62
+  - src: projects/TheTESTProject/TheTESTProject-left-63
 project_type: Project Type
 right_images:
-  - src: projects/TheTESTProject/TheTESTProject-right-55_cfpvqv
-  - src: projects/TheTESTProject/TheTESTProject-right-56_xrchyp
-  - src: projects/TheTESTProject/TheTESTProject-right-57_rdbd9r
-  - src: projects/TheTESTProject/TheTESTProject-right-58_fvodhu
-  - src: projects/TheTESTProject/TheTESTProject-right-59_wnhckq
-  - src: projects/TheTESTProject/TheTESTProject-right-60_yzo7i7
-  - src: projects/TheTESTProject/TheTESTProject-right-61_mm40hk
+  - src: projects/TheTESTProject/TheTESTProject-right-56
+  - src: projects/TheTESTProject/TheTESTProject-right-59
+  - src: projects/TheTESTProject/TheTESTProject-right-60
+  - src: projects/TheTESTProject/TheTESTProject-right-58
+  - src: projects/TheTESTProject/TheTESTProject-right-55
+  - src: projects/TheTESTProject/TheTESTProject-right-57
+  - src: projects/TheTESTProject/TheTESTProject-right-61
 slug: thetestproject
 status: active
 subtitle: >-

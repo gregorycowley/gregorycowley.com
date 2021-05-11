@@ -25,15 +25,7 @@ Educator.getInitialProps = async function() {
   const metadata = await import(`../data/config.json`);
   let projects = [];
 
-  projects.push(await import("../content/projects/transcinema.md"));
   projects.push(await import("../content/projects/cca.md"));
-  projects.push(await import("../content/projects/chronopolis.md"));
-  projects.push(await import("../content/projects/cncmachine.md"));
-  projects.push(await import("../content/projects/drtingleton.md"));
-  projects.push(await import("../content/projects/mpps.md"));
-  projects.push(await import("../content/projects/rxgallery.md"));
-  projects.push(await import("../content/projects/thetestproject.md"));
-  projects.push(await import("../content/projects/3mps.md"));
 
   const content = await import("../content/disciplines/educator.md");
   const data = matter(content.default);

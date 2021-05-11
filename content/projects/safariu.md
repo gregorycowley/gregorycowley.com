@@ -12,19 +12,17 @@ description: >-
   worked.
 discipline: Discipline
 firm: O'Reilly Media
-hero_image: projects/SafariU/SafariU-top-229_higgx0
+hero_image: projects/SafariU/SafariU-top-229
 image_path: /projects/SafariU
 image_source_dir_name: SafariU
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/SafariU/SafariU-right-230_xro6p8
-  - src: projects/SafariU/SafariU-right-231_jqstgo
-  - src: projects/SafariU/SafariU-right-232_vysbru
-  - src: projects/SafariU/SafariU-right-233_qoceij
+  - src: projects/SafariU/SafariU-right-233
+  - src: projects/SafariU/SafariU-right-230
+  - src: projects/SafariU/SafariU-right-231
+  - src: projects/SafariU/SafariU-right-232
 slug: quicktime
 status: active
 subtitle: >-

@@ -19,17 +19,13 @@ description: >
   massive load of users using load-balancing technology.
 discipline: Discipline
 firm: Teak Motion Digital
-hero_image: projects/WantedSanta/WantedSanta-top-248_yi27w9
+hero_image: projects/WantedSanta/WantedSanta-top-201
 image_path: /projects/WantedSanta
 image_source_dir_name: WantedSanta
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
-right_images:
-  - src: project-right-33.jpg
-  - src: project-right-35.jpg
+right_images: []
 slug: wantedsanta
 status: active
 subtitle: >-

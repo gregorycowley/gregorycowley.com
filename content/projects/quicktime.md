@@ -16,17 +16,17 @@ description: >
   version of what would become the AppleTV.
 discipline: Discipline
 firm: CKS
-hero_image: projects/Quicktime/Quicktime-top-142_qpb2gl
+hero_image: projects/Quicktime/Quicktime-top-142
 image_path: /projects/Quicktime
 image_source_dir_name: Quicktime
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Quicktime/Quicktime-right-141_lveysr
-  - src: projects/Quicktime/Quicktime-right-143_dq3vil
+  - src: projects/Quicktime/Quicktime-right-143
+  - src: projects/Quicktime/Quicktime-right-141
+  - src: projects/Quicktime/Quicktime-right-140
+  - src: projects/Quicktime/Quicktime-right-139
 slug: quicktime
 status: active
 subtitle: >-

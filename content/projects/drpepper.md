@@ -12,19 +12,19 @@ description: >-
   to recovering from natural disasters.
 discipline: Discipline
 firm: Dr Pepper
-hero_image: projects/DrPepper/DrPepper-top-86_kikwd4
+hero_image: projects/DrPepper/DrPepper-top-86
 image_path: /projects/DrPepper
 image_source_dir_name: DrPepper
 left_images:
-  - src: projects/DrPepper/DrPepper-left-89_qa6mzt
+  - src: projects/DrPepper/DrPepper-left-89
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/DrPepper/DrPepper-right-87_yxy9kq
-  - src: projects/DrPepper/DrPepper-right-88_xn5gta
-  - src: projects/DrPepper/DrPepper-right-90_l8krug
-  - src: projects/DrPepper/DrPepper-right-91_ojbaer
-  - src: projects/DrPepper/DrPepper-right-92_xh9syk
+  - src: projects/DrPepper/DrPepper-right-87
+  - src: projects/DrPepper/DrPepper-right-88
+  - src: projects/DrPepper/DrPepper-right-92
+  - src: projects/DrPepper/DrPepper-right-90
+  - src: projects/DrPepper/DrPepper-right-91
 slug: drpepper
 status: active
 subtitle: >-

@@ -13,20 +13,18 @@ description: >
   of XML for presentation. 
 discipline: Discipline
 firm: Punchcut
-hero_image: projects/Cingular/Cingular-top-66_zkc4pd
+hero_image: projects/Cingular/Cingular-top-66
 image_path: /projects/Cingular
 image_source_dir_name: Cingular
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Cingular/Cingular-right-67_os6dk5
-  - src: projects/Cingular/Cingular-right-68_hw9abh
-  - src: projects/Cingular/Cingular-right-69_lwoubj
-  - src: projects/Cingular/Cingular-right-70_wihxxt
-  - src: projects/Cingular/Cingular-right-71_havurr
+  - src: projects/Cingular/Cingular-right-67
+  - src: projects/Cingular/Cingular-right-68
+  - src: projects/Cingular/Cingular-right-71
+  - src: projects/Cingular/Cingular-right-69
+  - src: projects/Cingular/Cingular-right-70
 slug: cingular
 status: active
 subtitle: Interactive SDK Documentation for Developers

@@ -13,7 +13,7 @@ class MenuOverlay extends React.Component{
   }
 
   toggle () {
-    console.log('toggling...');
+    // console.log('toggling...');
     this.setState({
       menuToggle : (this.state.menuToggle === 'hide') ? 'show' : 'hide'
     });

@@ -12,17 +12,17 @@ description: >-
   on Joomla.
 discipline: Discipline
 firm: Elixir Design
-hero_image: projects/OpesAdvisors/OpesAdvisors-top-122_whsjr5
+hero_image: projects/OpesAdvisors/OpesAdvisors-top-122
 image_path: /projects/OpesAdvisors
 image_source_dir_name: OpesAdvisors
 left_images:
-  - src: projects/OpesAdvisors/OpesAdvisors-left-124_hxe7kf
+  - src: projects/OpesAdvisors/OpesAdvisors-left-124
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/OpesAdvisors/OpesAdvisors-right-120_x3bvir
-  - src: projects/OpesAdvisors/OpesAdvisors-right-121_rxoerv
-  - src: projects/OpesAdvisors/OpesAdvisors-right-123_xgyr3n
+  - src: projects/OpesAdvisors/OpesAdvisors-right-123
+  - src: projects/OpesAdvisors/OpesAdvisors-right-121
+  - src: projects/OpesAdvisors/OpesAdvisors-right-120
 slug: opesadvisors
 status: active
 subtitle: >

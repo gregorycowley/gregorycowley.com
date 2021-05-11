@@ -12,20 +12,18 @@ description: >-
   their products.
 discipline: Discipline
 firm: SP Controls
-hero_image: projects/SPControls/SPControls-top-185_raljju
+hero_image: projects/SPControls/SPControls-top-185
 image_path: /projects/SPControls
 image_source_dir_name: SPControls
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/SPControls/SPControls-right-180_htzscv
-  - src: projects/SPControls/SPControls-right-181_lm61cs
-  - src: projects/SPControls/SPControls-right-182_zckjdf
-  - src: projects/SPControls/SPControls-right-183_oulstr
-  - src: projects/SPControls/SPControls-right-184_h3gvas
+  - src: projects/SPControls/SPControls-right-181
+  - src: projects/SPControls/SPControls-right-183
+  - src: projects/SPControls/SPControls-right-182
+  - src: projects/SPControls/SPControls-right-184
+  - src: projects/SPControls/SPControls-right-180
 slug: spcontrols
 status: active
 subtitle: >-

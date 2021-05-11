@@ -12,24 +12,22 @@ description: >-
   standards.
 discipline: Discipline
 firm: Various
-hero_image: projects/Branding/Branding-top-159_j9lddy
+hero_image: projects/Branding/Branding-top-159
 image_path: /projects/Branding
 image_source_dir_name: Branding
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Branding/Branding-right-151_me1czi
-  - src: projects/Branding/Branding-right-152_draeq2
-  - src: projects/Branding/Branding-right-153_tzstx2
-  - src: projects/Branding/Branding-right-154_n9wk4e
-  - src: projects/Branding/Branding-right-155_ei6sbk
-  - src: projects/Branding/Branding-right-156_muomac
-  - src: projects/Branding/Branding-right-157_qumsql
-  - src: projects/Branding/Branding-right-158_z9pcfo
-  - src: projects/Branding/Branding-right-160_i0sgcx
+  - src: projects/Branding/Branding-right-160
+  - src: projects/Branding/Branding-right-158
+  - src: projects/Branding/Branding-right-151
+  - src: projects/Branding/Branding-right-157
+  - src: projects/Branding/Branding-right-154
+  - src: projects/Branding/Branding-right-153
+  - src: projects/Branding/Branding-right-152
+  - src: projects/Branding/Branding-right-155
+  - src: projects/Branding/Branding-right-156
 slug: branding
 status: active
 subtitle: Logo Development for Various Clients.

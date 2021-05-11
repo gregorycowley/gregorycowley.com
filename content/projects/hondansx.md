@@ -16,18 +16,18 @@ description: >
   presentation layer for this subsection of the Honda USA website.
 discipline: Discipline
 firm: 'Razorfish '
-hero_image: projects/HondaNSX/HondaNSX-top-278_nwrujr
+hero_image: projects/HondaNSX/HondaNSX-top-278
 image_path: /projects/HondaNSX
 image_source_dir_name: HondaNSX
 left_images:
-  - src: projects/HondaNSX/HondaNSX-left-279_c5udo2
-  - src: projects/HondaNSX/HondaNSX-left-280_tvm4kf
+  - src: projects/HondaNSX/HondaNSX-left-280
+  - src: projects/HondaNSX/HondaNSX-left-279
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/HondaNSX/HondaNSX-right-275_mxi2kv
-  - src: projects/HondaNSX/HondaNSX-right-276_b5v3ym
-  - src: projects/HondaNSX/HondaNSX-right-277_r9pekk
+  - src: projects/HondaNSX/HondaNSX-right-277
+  - src: projects/HondaNSX/HondaNSX-right-275
+  - src: projects/HondaNSX/HondaNSX-right-276
 slug: hondansx
 status: active
 subtitle: >-

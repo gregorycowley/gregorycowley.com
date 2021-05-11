@@ -12,22 +12,22 @@ description: >-
   their flagship product.
 discipline: Discipline
 firm: Macromedia
-hero_image: projects/Macromedia/Macromedia-top-196_mc3ezv
+hero_image: projects/Macromedia/Macromedia-top-196
 image_path: /projects/Macromedia
 image_source_dir_name: Macromedia
 left_images:
-  - src: projects/Macromedia/Macromedia-left-202_r2nhx3
-  - src: projects/Macromedia/Macromedia-left-203_b6sixh
-  - src: projects/Macromedia/Macromedia-left-204_wvsmeu
-  - src: projects/Macromedia/Macromedia-left-205_luzydt
+  - src: projects/Macromedia/Macromedia-left-203
+  - src: projects/Macromedia/Macromedia-left-204
+  - src: projects/Macromedia/Macromedia-left-202
+  - src: projects/Macromedia/Macromedia-left-205
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/Macromedia/Macromedia-right-197_zg2l4x
-  - src: projects/Macromedia/Macromedia-right-198_ckizex
-  - src: projects/Macromedia/Macromedia-right-199_gvqm1q
-  - src: projects/Macromedia/Macromedia-right-200_w0wkx4
-  - src: projects/Macromedia/Macromedia-right-201_opwbeb
+  - src: projects/Macromedia/Macromedia-right-197
+  - src: projects/Macromedia/Macromedia-right-198
+  - src: projects/Macromedia/Macromedia-right-199
+  - src: projects/Macromedia/Macromedia-right-200
+  - src: projects/Macromedia/Macromedia-right-201
 slug: macromedia
 status: active
 subtitle: >-

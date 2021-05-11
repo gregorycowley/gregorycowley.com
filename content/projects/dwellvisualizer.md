@@ -11,18 +11,16 @@ description: >-
   throughout its history. 
 discipline: Discipline
 firm: Punchcut
-hero_image: projects/DwellVisualizer/DwellVisualizer-top-245_zxud8n
+hero_image: projects/DwellVisualizer/DwellVisualizer-top-245
 image_path: /projects/DwellVisualizer
 image_source_dir_name: DwellVisualizer
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/DwellVisualizer/DwellVisualizer-right-244_d8xcob
-  - src: projects/DwellVisualizer/DwellVisualizer-right-246_eiora4
-  - src: projects/DwellVisualizer/DwellVisualizer-right-247_skrxpg
+  - src: projects/DwellVisualizer/DwellVisualizer-right-247
+  - src: projects/DwellVisualizer/DwellVisualizer-right-244
+  - src: projects/DwellVisualizer/DwellVisualizer-right-246
 slug: dwellvisualizer
 status: active
 subtitle: >-

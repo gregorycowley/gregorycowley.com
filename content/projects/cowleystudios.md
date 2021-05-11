@@ -21,18 +21,17 @@ description: >
   business provides a nice balance to my work in web development.
 discipline: Discipline
 firm: Cowley Studios
-hero_image: projects/CowleyStudios/CowleyStudios-top-132_vxbaqi
+hero_image: projects/CowleyStudios/CowleyStudios-top-132
 image_path: /projects/CowleyStudios
 image_source_dir_name: CowleyStudios
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/CowleyStudios/CowleyStudios-right-133_u2u7zd
-  - src: projects/CowleyStudios/CowleyStudios-right-134_ug9hwa
-  - src: projects/CowleyStudios/CowleyStudios-right-135_tzsyqo
+  - src: projects/CowleyStudios/CowleyStudios-right-133
+  - src: projects/CowleyStudios/CowleyStudios-right-135
+  - src: projects/CowleyStudios/CowleyStudios-right-134
+  - src: projects/CowleyStudios/CowleyStudios-right-130
 slug: cowleystudios
 status: active
 subtitle: 'Professional White Box Photography Studio in Dogpatch, SF.'

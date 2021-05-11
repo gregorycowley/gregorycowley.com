@@ -18,7 +18,7 @@ const CardItem = (props) => {
           link={link} 
           title={title}
           subtitle={subtitle} 
-          description={description} />
+          description="" />
   )
 };
 

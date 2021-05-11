@@ -80,8 +80,9 @@ header {
         font-size: 3rem;
         width:  300px;
         display: flex;
-        margin: 1rem 0 .5rem 75px;
+        margin: 0px 0 0 75px;
         flex: 0 1 35%;
+        padding: 2.2rem 1rem 0rem 1rem;
         text-align: right;
         height: 80px;
     }
@@ -91,7 +92,8 @@ header {
         width:  300px;
         flex: 1 1 52%;
         /* align-content: flex-end; */
-        margin: 0 0rem 0 16rem;
+        margin: -1.6rem 0 0 16rem;
+        padding:  0 0 0 0;
         /* white-space: nowrap; */
         /* text-align: right; */
         /* flex: 0 1; */
@@ -126,7 +128,7 @@ header {
         flex-direction: row;
         width: 100%;
     }
-    nav.sticky {
+    nav {
         flex: 0 1 50%;
         width: 100%;
         max-width: 500px;
@@ -230,15 +232,10 @@ nav ul li a {
         left: 0;
         width: 100%;
         flex-direction: row;
-        /* max-width: 38rem; */
-        /* display: none; */
         height: 40px;
     }
     nav.sticky {
         position: relative;
-        /* top: inherit; */
-        /* width: inherit; */
-        /* flex-grow: 1; */
     }
     nav .main-navigation.show,
     nav .main-navigation.hide {
@@ -260,5 +257,28 @@ nav ul li a {
     .toggle-navigation {
         display: none;
         visibility: hidden;
+    }
+}
+
+@media (min-width: 1024px) {
+    nav {
+        height: 40px;
+    }
+    nav.sticky {
+        position: relative;
+    }
+    nav .main-navigation.show,
+    nav .main-navigation.hide {
+        display: flex;
+        margin: .1rem auto auto auto;
+        padding: 0 0 0 0;
+        height: 100%;
+        align-items: center;
+    }
+    nav ul {
+    }
+    nav ul li a {
+    }
+    .toggle-navigation {
     }
 }

@@ -11,24 +11,24 @@ description: >-
   WordPress, Magento, Joomla, and Drupal
 discipline: Discipline
 firm: Various
-hero_image: projects/CMS/CMS-top-44_xzaysf
+hero_image: projects/CMS/CMS-top-44
 image_path: /projects/CMS
 image_source_dir_name: CMS
 left_images:
-  - src: projects/CMS/CMS-left-42_iezgiy
-  - src: projects/CMS/CMS-left-43_kpvmfc
-  - src: projects/CMS/CMS-left-50_jklths
-  - src: projects/CMS/CMS-left-52_ghncra
-  - src: projects/CMS/CMS-left-53_u2dqhq
+  - src: projects/CMS/CMS-left-53
+  - src: projects/CMS/CMS-left-42
+  - src: projects/CMS/CMS-left-50
+  - src: projects/CMS/CMS-left-43
+  - src: projects/CMS/CMS-left-52
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/CMS/CMS-right-45_zutr65
-  - src: projects/CMS/CMS-right-46_fjrmy6
-  - src: projects/CMS/CMS-right-47_qpgoy9
-  - src: projects/CMS/CMS-right-48_ghg4bd
-  - src: projects/CMS/CMS-right-49_bgvxid
-  - src: projects/CMS/CMS-right-51_prdpcj
+  - src: projects/CMS/CMS-right-48
+  - src: projects/CMS/CMS-right-46
+  - src: projects/CMS/CMS-right-47
+  - src: projects/CMS/CMS-right-51
+  - src: projects/CMS/CMS-right-45
+  - src: projects/CMS/CMS-right-49
 slug: cms
 status: active
 subtitle: >-

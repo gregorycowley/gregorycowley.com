@@ -13,6 +13,7 @@ class DisciplinePage extends React.Component {
       (item, key) => {
         const data = matter(item.default)
           const {
+            slug,
             hero_image,
             title,
             subtitle,
@@ -20,7 +21,7 @@ class DisciplinePage extends React.Component {
             category
           } = data.data;
 
-        const link = `/${category}`;
+        const link = `/projects/${slug}`;
         const style = "project";
     
         return (
@@ -41,7 +42,7 @@ class DisciplinePage extends React.Component {
         siteTitle={this.props.title}
         siteDescription={this.props.description}
       >
-        <TextContent>
+        <TextContent className="discipline">
           <h1>{this.props.title}</h1>
           <h3>{this.props.subtitle}</h3>
           <p>{this.props.description}</p>

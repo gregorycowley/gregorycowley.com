@@ -10,25 +10,23 @@ description: >-
   for the media segments.
 discipline: Discipline
 firm: Flax Media
-hero_image: projects/PBSMediaPlayer/PBSMediaPlayer-top-274_vvuzbl
+hero_image: projects/PBSMediaPlayer/PBSMediaPlayer-top-274
 image_path: /projects/PBSMediaPlayer
 image_source_dir_name: PBSMediaPlayer
-left_images:
-  - src: project-left-40.jpg
-  - src: project-left-41.jpg
+left_images: []
 project_type: Project Type
 projecttype: Project Type
 right_images:
-  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-264_prfubp
-  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-265_bhpfla
-  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-266_dr9tfc
-  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-267_exsojo
-  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-268_bwkdub
-  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-269_ixzi2d
-  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-270_srdkbw
-  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-271_ye2tfg
-  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-272_jlbt3r
-  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-273_sn7jyv
+  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-273
+  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-272
+  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-265
+  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-264
+  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-268
+  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-270
+  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-271
+  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-267
+  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-269
+  - src: projects/PBSMediaPlayer/PBSMediaPlayer-right-266
 slug: pbsmediaplayer
 status: active
 subtitle: |

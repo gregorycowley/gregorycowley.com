@@ -1,9 +1,4 @@
 import React from "react";
-import matter from "gray-matter";
-
-import { useRouter } from 'next/router'
-import ErrorPage from 'next/error'
-import Head from 'next/head'
 
 import { Layout, ProjectDetails, Hero, MarkdownBlocks } from "../../components/index";
 import { getPostBySlug, getAllPosts } from '../../lib/api'
@@ -38,7 +33,6 @@ class ProjectOne extends React.Component {
       );
     });
 
-    console.log("Context ", this.props.prevItem, this.props.nextItem);
     return (
       <Layout>
         <div className="project"> 
@@ -58,7 +52,7 @@ class ProjectOne extends React.Component {
           </div>
 
           <ProjectDetails {...this.images}>
-            <MarkdownBlocks blocks={this.blocks} />
+            {/* <MarkdownBlocks blocks={this.blocks} /> */}
           </ProjectDetails>
         </div>
       </Layout>
