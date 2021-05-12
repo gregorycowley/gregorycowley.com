@@ -2,9 +2,9 @@
     "name": "gregorycowley.com",
     "version": "1.2.0",
     "description": "Gregory Cowley root level website",
-    "main": "index.js",
+    "main": "./src/index.js",
     "scripts": {
-        "dev": "next -p 3002",
+        "dev": "npm run open-browser && next -p 3002",
         "build": "next build",
         "start": "next start",
         "export": "next export  -o ./dist",
@@ -12,12 +12,14 @@
         "debug": "NODE_OPTIONS=--inspect next",
         "test": "echo \"Error: no test specified\" && exit 1",
         "create": "webpack",
-        "webpack:start": "webpack serve  --mode development --env development"
+        "webpack:start": "webpack serve  --mode development --env development",
+        "open-browser": "open http://localhost:3002"
     },
     "babel": {
         "presets": [
             "@babel/preset-env",
-            "@babel/preset-react"
+            "@babel/preset-react",
+            "next/babel"
         ]
     },
     "author": "Gregory Cowley",
@@ -25,15 +27,15 @@
     "dependencies": {
         "@emotion/react": "^11.1.5",
         "@emotion/styled": "^11.3.0",
-        "@react-three/fiber": "^6.0.17",
+        "@react-three/fiber": "^6.1.1",
         "@u-wave/react-vimeo": "^0.9.4",
         "@zeit/next-css": "^1.0.1",
         "animejs": "^3.2.1",
         "axios": "^0.21.1",
         "bezier-easing": "^2.1.0",
+        "cloudinary": "^1.23.0",
         "cloudinary-core": "^2.11.2",
         "cloudinary-react": "^1.6.6",
-        "cloudinary": "^1.23.0",
         "color": "^3.1.3",
         "csv-parse": "^4.12.0",
         "csv-parser": "^2.3.3",
@@ -50,10 +52,11 @@
         "lerp": "^1.0.3",
         "lodash": "^4.17.21",
         "neat-csv": "^5.2.0",
-        "next": "^9.5.5",
+        "next": "^10.2.0",
         "pako": "^2.0.3",
         "photoswipe": "^4.1.3",
         "raw-loader": "^4.0.1",
+        "react": "^16.14.0",
         "react-copy-to-clipboard": "^5.0.3",
         "react-dom": "^17.0.2",
         "react-helmet-async": "^1.0.9",
@@ -66,10 +69,9 @@
         "react-router-dom": "^5.2.0",
         "react-scroll": "^1.8.2",
         "react-spring": "^9.1.2",
-        "react": "^16.14.0",
         "recompose": "^0.30.0",
-        "remark-html": "^13.0.1",
         "remark": "^13.0.0",
+        "remark-html": "^13.0.1",
         "scroll-to-element": "^2.0.3",
         "sharp": "^0.25.4",
         "store": "^2.0.12",
