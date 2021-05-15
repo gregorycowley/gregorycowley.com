@@ -13,10 +13,7 @@ const SOCIAL = {
   },
   Medium: {
     LABEL: 'Medium',
-    URLS: {
-      en: 'https://stories.dataveyes.com/',
-      fr: 'https://medium.com/dataveyes-stories-vf'
-    }
+    URL: 'https://stories.dataveyes.com/'
   }
 }
 

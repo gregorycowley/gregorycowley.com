@@ -1,16 +1,15 @@
-const withCSS = require("@zeit/next-css");
 const glob = require("glob");
 const path = require("path");
 
-const HtmlWebpackPlugin = require("html-webpack-plugin");
-const ImageMinimizerPlugin = require("image-minimizer-webpack-plugin");
+// const HtmlWebpackPlugin = require("html-webpack-plugin");
+// const ImageMinimizerPlugin = require("image-minimizer-webpack-plugin");
 const ASSET_PATH = process.env.ASSET_PATH || "/";
 
 /**
  * next.config.js
  */
 
-module.exports = withCSS({
+module.exports = {
   basePath: "",
   cssModules: false,
   future: {
@@ -37,10 +36,10 @@ module.exports = withCSS({
       use: ["babel-loader"],
     });
 
-    config.module.rules.push({
-      test: /\.css$/i,
-      use: ["style-loader", "css-loader"],
-    });
+    // config.module.rules.push({
+    //   test: /\.css$/i,
+    //   use: ["style-loader", "css-loader"],
+    // });
 
     config.module.rules.push({
       test: /\.(png|svg|jpg|jpeg|gif)$/i,
@@ -53,9 +52,13 @@ module.exports = withCSS({
       ...config.resolve.alias,
       assets: path.resolve(__dirname, "src/assets/"),
       common: path.resolve(__dirname, "src/common/"),
+      components: path.resolve(__dirname, "src/components/"),
+      content: path.resolve(__dirname, "src/content/"),
+      data: path.resolve(__dirname, "src/data/"),
       hooks: path.resolve(__dirname, "src/hooks/"),
-      components: path.resolve(__dirname, "src/components_new/"),
-      pages: path.resolve(__dirname, "src/pages_new/"),
+      layout: path.resolve(__dirname, "src/layout/"),
+      pages: path.resolve(__dirname, "src/components/page-components/"),
+      styles: path.resolve(__dirname, "src/styles/"),
     };
 
     // config.plugins.push(new HotModuleReplacementPlugin());
@@ -69,15 +72,15 @@ module.exports = withCSS({
     //   })
     // );
 
-    config.plugins.push(
-      new ImageMinimizerPlugin({
-        deleteOriginalAssets: true,
-        filename: "static/media/[name].webp",
-        minimizerOptions: {
-          plugins: ["imagemin-webp"],
-        },
-      })
-    );
+    // config.plugins.push(
+    //   new ImageMinimizerPlugin({
+    //     deleteOriginalAssets: true,
+    //     filename: "static/media/[name].webp",
+    //     minimizerOptions: {
+    //       plugins: ["imagemin-webp"],
+    //     },
+    //   })
+    // );
 
     // console.log(config);
 
@@ -95,4 +98,4 @@ module.exports = withCSS({
     };
     return routes;
   },
-});
+};
