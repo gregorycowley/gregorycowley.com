@@ -1,0 +1,43 @@
+{
+  "": "3mps",
+  "slug": "3mps",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "designer",
+    "serviceId": "prototyping",
+    "category": "designer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "designer",
+    "titleMain": "Three-Minute Picture Show",
+    "subtitle": "A DIY Film Festival.",
+    "description": ">- As a designer and technical producer of the Three-Minute Picture Show, an annual festival of short films, I executed the branding, website, marketing materials, and collateral. I also managed technical coordination of the film screenings, including the conversion of the various formats that were submitted into a consistent playable format for the theater. All the events took place in art house theaters in San Francisco and Portland."
+  },
+  "projectInfo": {
+    "client": "Three-Minute Picture Show",
+    "firm": "Three-Minute Picture Show",
+    "date": "'20190000'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n  \\nprojects/3MPS/3MPS-top-64",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/3MPS/3MPS-right-65    \\n.   projects/3MPS/3MPS-right-67    \\n.   projects/3MPS/3MPS-right-66    \\n.   projects/3MPS/3MPS-right-68    \\n.   projects/3MPS/3MPS-right-69    \\n.   projects/3MPS/3MPS-right-70"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

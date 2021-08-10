@@ -1,0 +1,43 @@
+{
+  "": "cowleystudios",
+  "slug": "cowleystudios",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "photographer",
+    "serviceId": "prototyping",
+    "category": "photographer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "photographer",
+    "titleMain": "Cowley Studios",
+    "subtitle": "Professional White Box Photography Studio in Dogpatch, SF.'",
+    "description": "> In 2005, while continuing to work on Content Management Systems, I branched out to explore my lifelong interest in photography.  I built a commercial photography studio located in the Dogpatch area of San Francisco. There I worked with clients including IDEO, Adobe, University Games, and Intel. I also had hundreds of individuals come through the studio doors for portraiture and custom commissions.  Although the studio itself is now closed, I cultivated relationships with editorial clients whom I continue to work with and am able to take on new clients. The physical activity and artistry involved with my photography business provides a nice balance to my work in web development."
+  },
+  "projectInfo": {
+    "client": "Cowley Studios",
+    "firm": "Cowley Studios",
+    "date": "'20190000'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/CowleyStudios/CowleyStudios-top-132",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/CowleyStudios/CowleyStudios-right-133    \\n.   projects/CowleyStudios/CowleyStudios-right-135    \\n.   projects/CowleyStudios/CowleyStudios-right-134    \\n.   projects/CowleyStudios/CowleyStudios-right-130"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "": "doceri",
+  "slug": "doceri",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "designer",
+    "serviceId": "prototyping",
+    "category": "designer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "designer",
+    "titleMain": "Doceri Branding and Marketing Collateral",
+    "subtitle": "Development of a brand identity and user interface for an iPad application.",
+    "description": ">- Doceri was a new product offering from SP Controls. Designed for the classroom, Doceri allowed teachers to use the iPad as a handheld whiteboarding tool. The software, linked with proprietary hardware, controlled project screens, lighting, sound, and content to be displayed. Doceri also included an early implementation of a stylus for an iPad."
+  },
+  "projectInfo": {
+    "client": "Doceri Branding and Marketing Collateral",
+    "firm": "SP Controls",
+    "date": "'20190000'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/Doceri/Doceri-top-179",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/Doceri/Doceri-left-177    \\n.   projects/Doceri/Doceri-left-178    \\n.   projects/Doceri/Doceri-left-176    \\n.   projects/Doceri/Doceri-right-176    \\n.   projects/Doceri/Doceri-right-175"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

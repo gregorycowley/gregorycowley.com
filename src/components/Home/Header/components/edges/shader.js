@@ -1,21 +1,21 @@
 export default {
-  transparent: true,
-  depthTest: false,
-  depthWrite: false,
+	transparent: true,
+	depthTest: false,
+	depthWrite: false,
 
-  uniforms: {
-    opacity: {
-      value: 0.05
-    },
-    width: {
-      value: 1.0
-    },
-    resolution: {
-      value: [1920, 1080]
-    }
-  },
+	uniforms: {
+		opacity: {
+			value: 0.05
+		},
+		width: {
+			value: 1.0
+		},
+		resolution: {
+			value: [1920, 1080]
+		}
+	},
 
-  vertexShader: `
+	vertexShader: `
     #define PI 3.1415926535897932384626433832795
     precision highp float;
 
@@ -92,7 +92,7 @@ export default {
     }
   `,
 
-  fragmentShader: `
+	fragmentShader: `
     precision highp float;
     varying float vOpacity;
 
@@ -100,4 +100,4 @@ export default {
       gl_FragColor = vec4(1.0, 1.0, 1.0, vOpacity);
     }
   `
-}
+};

@@ -1,0 +1,43 @@
+{
+  "": "blurbbookify",
+  "slug": "blurbbookify",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "engineer",
+    "serviceId": "prototyping",
+    "category": "engineer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "engineer",
+    "titleMain": "Blurb Bookify",
+    "subtitle": "Online Book Design Web Application.",
+    "description": ">- As an engineer for Blurb, I was solely responsible for Bookify, a legacy product application built using Adobe Flex technology. The original application had not been updated in years. Finding more efficient ways to improve the user experience was part of the job. I pruned unused code and improved performance by 300%. My job also included adding new features and maintaining the API connections with Facebook, Instagram, Flickr, and other photo-sharing websites. Users could also upload photos directly to the application in their web browser. I built a system for tracking errors, measuring performance, and managing customer support issues."
+  },
+  "projectInfo": {
+    "client": "Blurb",
+    "firm": "Blurb",
+    "date": "'20190000'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/BlurbBookify/BlurbBookify-top-148",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/BlurbBookify/BlurbBookify-left-150    \\n.   projects/BlurbBookify/BlurbBookify-right-147    \\n.   projects/BlurbBookify/BlurbBookify-right-149    \\n.   projects/BlurbBookify/BlurbBookify-right-145    \\n.   projects/BlurbBookify/BlurbBookify-right-144    \\n.   projects/BlurbBookify/BlurbBookify-right-146    \\n.   projects/BlurbBookify/BlurbBookify-right-129"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

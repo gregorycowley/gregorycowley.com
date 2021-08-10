@@ -1,0 +1,43 @@
+{
+  "": "razorfish",
+  "slug": "razorfish",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "designer",
+    "serviceId": "prototyping",
+    "category": "designer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "designer",
+    "titleMain": "Razorfish Design and Development",
+    "subtitle": "Worked as a staff designer at the first Razorfish office in San Francisco.",
+    "description": ">- Rocket Lawyer is an online legal services company that allows users to create legally binding documents or other legal entities. I worked closely with the marketing team to produce Optimizely A/B tests for improving customer turnover and customer engagement."
+  },
+  "projectInfo": {
+    "client": "Various",
+    "firm": "Razorfish '",
+    "date": "'20190000'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/Razorfish/Razorfish-top-117",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/Razorfish/Razorfish-left-118    \\n.   projects/Razorfish/Razorfish-left-119    \\n.   projects/Razorfish/Razorfish-right-116    \\n.   projects/Razorfish/Razorfish-right-115    \\n.   projects/Razorfish/Razorfish-right-114"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

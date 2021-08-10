@@ -1,0 +1,43 @@
+{
+  "": "briggo",
+  "slug": "briggo",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "engineer",
+    "serviceId": "prototyping",
+    "category": "engineer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "engineer",
+    "titleMain": "Briggo Automated Coffee Cart",
+    "subtitle": "Multi-screen kiosk User Interface Development.",
+    "description": ">- For the Briggo automated coffee cart, I worked from layouts supplied by a designer to create interactive animations that would guide customers through the ordering process. This kiosk used interactive touchscreens for both input and feedback to the client regarding the status of their order. Coffee was prepared by a robot, and customers were notified when their order was ready through feedback from an order queue screen."
+  },
+  "projectInfo": {
+    "client": "Briggo",
+    "firm": "Fuseproject",
+    "date": "'20190000'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/Briggo/Briggo-top-226",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/Briggo/Briggo-left-228    \\n.   projects/Briggo/Briggo-right-227    \\n.   projects/Briggo/Briggo-right-225    \\n.   projects/Briggo/Briggo-right-224"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

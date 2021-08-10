@@ -1,0 +1,43 @@
+{
+  "": "ideo-newyears",
+  "slug": "ideo-newyears",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "design",
+    "serviceId": "prototyping",
+    "category": "design",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "design",
+    "titleMain": "IDEO New Years Digital Cards",
+    "subtitle": ">- A digital holiday card that encouraged IDEO employees to share their best experiences of the year. Each card transformed each contributed memory into a collection of dynamic and interactive visual animations.",
+    "description": ">- IDEO began introducing an annual digital New Year's card that allowed its employees around the world to contribute memories of the year through an interactive format. For the inaugural design, each employee could make their own personal snowflake, which included a favorite memory and information about the employee. The snowflakes floated in a 3D interactive environment allowing team members to learn about each creator and their memory for that year."
+  },
+  "projectInfo": {
+    "client": "IDEO",
+    "firm": "IDEO",
+    "date": "'20200926'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/IDEONewYear/IDEONewYear-top-195_otf8ur",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   project-left-40.jpg    \\n.   project-left-41.jpg    \\n.   projects/IDEONewYear/IDEONewYear-right-192_z1fdxu    \\n.   projects/IDEONewYear/IDEONewYear-right-193_vlraif    \\n.   projects/IDEONewYear/IDEONewYear-right-194_cd24i1"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

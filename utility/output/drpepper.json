@@ -1,0 +1,43 @@
+{
+  "": "drpepper",
+  "slug": "drpepper",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "designer",
+    "serviceId": "prototyping",
+    "category": "designer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "designer",
+    "titleMain": "Dr Pepper Promo CDROMS",
+    "subtitle": ">- CDROMS Created for promotional partnerships with the Red Cross and the Academy of Country Music. More than a million disks were created for each event.",
+    "description": ">- Dr. Pepper was a major supporter of the American Red Cross. They commissioned an educational series of CDROMs geared towards kids. The disks were loaded with creative content that taught kids about the focus of the Red Cross. These included a range of life-saving relief services running from basic first aid to recovering from natural disasters."
+  },
+  "projectInfo": {
+    "client": "Dr Pepper Promotional CDROMS",
+    "firm": "Dr Pepper",
+    "date": "'20190000'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/DrPepper/DrPepper-top-86",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/DrPepper/DrPepper-left-89    \\n.   projects/DrPepper/DrPepper-right-87    \\n.   projects/DrPepper/DrPepper-right-88    \\n.   projects/DrPepper/DrPepper-right-92    \\n.   projects/DrPepper/DrPepper-right-90    \\n.   projects/DrPepper/DrPepper-right-91"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

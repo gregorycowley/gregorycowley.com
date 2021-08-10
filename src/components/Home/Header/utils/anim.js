@@ -1,49 +1,49 @@
-import { useEffect } from 'react'
+import { useEffect } from "react";
 import { useThree } from "@react-three/fiber";
-import { detect } from 'detect-browser'
+import { detect } from "detect-browser";
 
-import { layouts } from './layouts'
+import { layouts } from "./layouts";
 
-import anime from 'animejs'
+import anime from "animejs";
 
-var RAD2DEG = 180 / Math.PI
-var DEG2RAD = Math.PI / 180
+var RAD2DEG = 180 / Math.PI;
+var DEG2RAD = Math.PI / 180;
 
-const baseWidth = 2560
-const baseHeight = 1361
-const width = window.innerWidth
-const height = window.innerHeight
+const baseWidth = 2560;
+const baseHeight = 1361;
+const width = window.innerWidth;
+const height = window.innerHeight;
 
-const xRatio = width / baseWidth
-const yRatio = height / baseHeight
-const ratio = Math.max(xRatio, yRatio)
+const xRatio = width / baseWidth;
+const yRatio = height / baseHeight;
+const ratio = Math.max(xRatio, yRatio);
 
-const browser = detect()
-const isMobile = browser && (browser.os === 'iOS' || browser.os === 'Android')
+const browser = detect();
+const isMobile = browser && (browser.os === "iOS" || browser.os === "Android");
 
 export const backgrounds = [
-  '#030519',
-  '#120319',
-  '#031419'
-]
+	"#030519",
+	"#120319",
+	"#031419"
+];
 
 export function moveCamera (lng, lat, radius = height * 0.5) {
-  var phi = (90 - (lat * RAD2DEG)) * DEG2RAD
-  var theta = ((lng * RAD2DEG) + 180) * DEG2RAD
+	var phi = (90 - (lat * RAD2DEG)) * DEG2RAD;
+	var theta = ((lng * RAD2DEG) + 180) * DEG2RAD;
 
-  return [
-    -(radius * Math.sin(phi) * Math.sin(theta)),
-    radius * Math.cos(phi),
-    -radius * Math.sin(phi) * Math.cos(theta)
-  ]
+	return [
+		-(radius * Math.sin(phi) * Math.sin(theta)),
+		radius * Math.cos(phi),
+		-radius * Math.sin(phi) * Math.cos(theta)
+	];
 }
 
 export function Animation ({
-  settings, setSettings, setEdgeOpacity, setBackground, setStep
+	settings, setSettings, setEdgeOpacity, setBackground, setStep
 }) {
-  const { camera } = useThree()
+	const { camera } = useThree();
 
-  /* eslint-disable */
+	/* eslint-disable */
   useEffect(() => {
     function deplaceCAmera (lat, lng, radius) {
       camera.position.set(...moveCamera(lat, lng, radius))
@@ -501,5 +501,5 @@ export function Animation ({
   }, [])
   /* eslint-enable */
 
-  return null
+	return null;
 }

@@ -1,7 +1,7 @@
-import styled from '@emotion/styled'
-import { css } from '@emotion/react'
+import styled from "@emotion/styled";
+import { css } from "@emotion/react";
 
-import mq from 'common/styles/breakpoints'
+import mq from "common/styles/breakpoints";
 
 const ContactContainer = styled.div(({ theme }) => css`
   grid-column: 2 / -2;
@@ -11,9 +11,9 @@ const ContactContainer = styled.div(({ theme }) => css`
   flex-direction: column;
   padding-top: ${theme.spacingM}px;
   margin-bottom: ${theme.spacingXL}px;
-  ${mq('small')} {
+  ${mq("small")} {
     display: block;
   }
-`)
+`);
 
-export default ContactContainer
+export default ContactContainer;

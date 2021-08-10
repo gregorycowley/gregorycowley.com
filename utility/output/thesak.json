@@ -1,0 +1,43 @@
+{
+  "": "thesak",
+  "slug": "thesak",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "engineer",
+    "serviceId": "prototyping",
+    "category": "engineer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "engineer",
+    "titleMain": "The Sak Catalog Photography",
+    "subtitle": ">- Development of an online interactive catalog for handbags and other fashion accessories designed by The Sak.",
+    "description": ">- While contracting as a photographer for The Sak, I produced catalog content, including product photography and lifestyle photography, working with models on location. Additionally, I developed and engineered a dynamic website catalog with 3D page turning interactions for this client."
+  },
+  "projectInfo": {
+    "client": "The Sak",
+    "firm": "The Sak",
+    "date": "'20190000'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/TheSak/TheSak-top-74",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/TheSak/TheSak-right-77    \\n.   projects/TheSak/TheSak-right-75    \\n.   projects/TheSak/TheSak-right-76    \\n.   projects/TheSak/TheSak-right-73    \\n.   projects/TheSak/TheSak-right-72    \\n.   projects/TheSak/TheSak-right-74"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

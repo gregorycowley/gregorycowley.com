@@ -1,0 +1,43 @@
+{
+  "": "fitdeck",
+  "slug": "fitdeck",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "",
+    "serviceId": "prototyping",
+    "category": "",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "",
+    "titleMain": "Fitdeck",
+    "subtitle": ">- A personal training application based on a digital deck of cards. Randomized workouts were presented through card-like digital screens.",
+    "description": "> Fit-Deck was a mobile application derived from a physical deck of cards. The deck's purpose was to randomize your workout by selecting cards from a deck that would give you a series of physical activities to do.  The application timed and tracked your performance and gave you recommendations for further improvement."
+  },
+  "projectInfo": {
+    "client": "Fit Deck",
+    "firm": "Perfect Fitness",
+    "date": "'20141229'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/FitDeck/FitDeck-top-253",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/FitDeck/FitDeck-right-257    \\n.   projects/FitDeck/FitDeck-right-254    \\n.   projects/FitDeck/FitDeck-right-255    \\n.   projects/FitDeck/FitDeck-right-256    \\n.   projects/FitDeck/FitDeck-right-100    \\n.   projects/FitDeck/FitDeck-right-101    \\n.   projects/FitDeck/FitDeck-right-102"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

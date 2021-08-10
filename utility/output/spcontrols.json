@@ -1,0 +1,43 @@
+{
+  "": "spcontrols",
+  "slug": "spcontrols",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "designer",
+    "serviceId": "prototyping",
+    "category": "designer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "designer",
+    "titleMain": "SP Controls Trade Show Collateral",
+    "subtitle": ">- Print design, display booth graphics, and video demonstrations for Las Vegas trade shows.",
+    "description": ">- SP controls created Classroom present AV presentation control systems so that they would control projectors, projection screens, internal controlled lighting, audio, whiteboards, electronic whiteboards, and so on, So I design Designed collateral and materials for trade shows Where SP Controls would demo their products."
+  },
+  "projectInfo": {
+    "client": "SP Controls",
+    "firm": "SP Controls",
+    "date": "'20200926'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/SPControls/SPControls-top-185",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/SPControls/SPControls-right-181    \\n.   projects/SPControls/SPControls-right-183    \\n.   projects/SPControls/SPControls-right-182    \\n.   projects/SPControls/SPControls-right-184    \\n.   projects/SPControls/SPControls-right-180"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "": "macromedia",
+  "slug": "macromedia",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "designer",
+    "serviceId": "prototyping",
+    "category": "designer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "designer",
+    "titleMain": "Macromedia.com FMA IxD",
+    "subtitle": ">- The Flexible Messaging Area (FMA) on the Macromedia.com homepage highlighted the usefulness and abilities of Macromedia digital products.",
+    "description": ">- Macromedia launched their new website with a particular area they called the Flexible Messaging Area (FMA) on the front page. This was an ever-evolving and interactive space focused on specific products and offerings from Macromedia. It offered entertainment and showed the capabilities of tools using Flash, their flagship product."
+  },
+  "projectInfo": {
+    "client": "Macromedia",
+    "firm": "Macromedia",
+    "date": "'20200926'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/Macromedia/Macromedia-top-196",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/Macromedia/Macromedia-left-203    \\n.   projects/Macromedia/Macromedia-left-204    \\n.   projects/Macromedia/Macromedia-left-202    \\n.   projects/Macromedia/Macromedia-left-205    \\n.   projects/Macromedia/Macromedia-right-197    \\n.   projects/Macromedia/Macromedia-right-198    \\n.   projects/Macromedia/Macromedia-right-199    \\n.   projects/Macromedia/Macromedia-right-200    \\n.   projects/Macromedia/Macromedia-right-201"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

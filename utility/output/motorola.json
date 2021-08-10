@@ -1,0 +1,43 @@
+{
+  "": "motorola",
+  "slug": "motorola",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "designer",
+    "serviceId": "prototyping",
+    "category": "designer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "designer",
+    "titleMain": "Motorola Innovation Projects",
+    "subtitle": ">- Creation of animated presentation material for an internal innovation contest. Produced interactive demos for Motorola user interfaces and use case scenarios.",
+    "description": "> Motorola had several internal projects that ranged from prototypes for the interaction of screens on their line of mobile phones to an internal competition to develop innovative ideas for features to be added to future products.  I designed and animated the finalists' proposals, which were presented for voting during the competition. These included illustrations, diagrams, and animations of how each entry worked."
+  },
+  "projectInfo": {
+    "client": "Motorola",
+    "firm": "Augmentum",
+    "date": "'20190000'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/Motorola/Motorola-top-98",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/Motorola/Motorola-left-99    \\n.   projects/Motorola/Motorola-left-100    \\n.   projects/Motorola/Motorola-right-93    \\n.   projects/Motorola/Motorola-right-97    \\n.   projects/Motorola/Motorola-right-96    \\n.   projects/Motorola/Motorola-right-94    \\n.   projects/Motorola/Motorola-right-95"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

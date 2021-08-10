@@ -1,0 +1,43 @@
+{
+  "": "pbsmediaplayer",
+  "slug": "pbsmediaplayer",
+  "meta": {
+    "status": "active",
+    "author": "Gregory Cowley",
+    "component": "Project",
+    "discipline": "engineer",
+    "serviceId": "prototyping",
+    "category": "engineer",
+    "isOnHome": "TRUE"
+  },
+  "theme": {
+    "isDark": "TRUE",
+    "background": "#252F3A"
+  },
+  "video": "427638306",
+  "pageHeader": {
+    "backToLabel": "Project Back Link",
+    "titleCategory": "engineer",
+    "titleMain": "PBS Media Player UI",
+    "subtitle": "A Flash-based user interface for browsing online video content",
+    "description": ">- The PBS media player was a browser for short videos contained on the PBS website. I designed and developed the interface that included a video player for the media segments."
+  },
+  "projectInfo": {
+    "client": "PBS",
+    "firm": "Flax Media",
+    "date": "'20190000'",
+    "results": "Presented at the Design designer(s) exhibition, part of the 'Lille World Design Capital 2020'. "
+  },
+  "images": {
+    "hero_image": "projects/SafariU/SafariU-top-229\\n\\nprojects/PBSMediaPlayer/PBSMediaPlayer-top-274",
+    "carousel": {
+      "isBig": "TRUE",
+      "pics": {
+        "src": "projects/SafariU/SafariU-right-233    \\n.   projects/SafariU/SafariU-right-230    \\n.   projects/SafariU/SafariU-right-231    \\n.   projects/SafariU/SafariU-right-232    \\n.   imgGallery1    \\n.   imgGallery2    \\n.   imgGallery3    \\n.   projects/PBSMediaPlayer/PBSMediaPlayer-right-273    \\n.   projects/PBSMediaPlayer/PBSMediaPlayer-right-272    \\n.   projects/PBSMediaPlayer/PBSMediaPlayer-right-265    \\n.   projects/PBSMediaPlayer/PBSMediaPlayer-right-264    \\n.   projects/PBSMediaPlayer/PBSMediaPlayer-right-268    \\n.   projects/PBSMediaPlayer/PBSMediaPlayer-right-270    \\n.   projects/PBSMediaPlayer/PBSMediaPlayer-right-271    \\n.   projects/PBSMediaPlayer/PBSMediaPlayer-right-267    \\n.   projects/PBSMediaPlayer/PBSMediaPlayer-right-269    \\n.   projects/PBSMediaPlayer/PBSMediaPlayer-right-266"
+      }
+    },
+    "galleryPics": {
+      "src": ""
+    }
+  }
+}

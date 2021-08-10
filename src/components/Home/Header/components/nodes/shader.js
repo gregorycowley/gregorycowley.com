@@ -1,15 +1,15 @@
 export default {
-  transparent: true,
-  depthTest: true,
-  depthWrite: true,
+	transparent: true,
+	depthTest: true,
+	depthWrite: true,
 
-  uniforms: {
-    paillette: {
-      value: 0
-    }
-  },
+	uniforms: {
+		paillette: {
+			value: 0
+		}
+	},
 
-  vertexShader: `
+	vertexShader: `
     precision highp float; 
     uniform float paillette;
 
@@ -40,7 +40,7 @@ export default {
     }
   `,
 
-  fragmentShader: `
+	fragmentShader: `
     precision highp float;
 
     varying vec3 vColor;
@@ -51,4 +51,4 @@ export default {
       // gl_FragColor.a *= ((1.0 - pow( gl_FragCoord.z, 10000.0 )));
     }
   `
-}
+};
