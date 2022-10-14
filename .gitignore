@@ -1,9 +1,7 @@
-_ARCHIVE
-_DEPLOY
-.git
-.DS_Store
 node_modules
-\#Public
+.next
+.DS_Store
+yarn-error.log
 dist
-_TRASH
-_ARCHIVE
+examples
+packages
