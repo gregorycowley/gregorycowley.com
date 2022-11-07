@@ -4,7 +4,11 @@ module.exports = {
     es2021: true,
   },
   root: true,
-  extends: ["eslint:recommended", "plugin:react/recommended"],
+  extends: [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    'plugin:@next/next/recommended'
+  ],
   parserOptions: {
     ecmaFeatures: {
       jsx: true,
@@ -21,6 +25,9 @@ module.exports = {
     "react/prop-types": 0,
     "no-unused-vars": 0,
     "no-undef": 0,
+    "no-img-element": 0,
+    "@next/next/no-img-element": 0,
+    "@next/next/no-css-tags": 0,
     "no-cond-assign": 0,
     "react/display-name": 0,
     "react/no-render-return-value": 0,

@@ -25,7 +25,7 @@ const Chapo = styled(Paragraph2)`
 	margin-bottom: ${({ theme }) => theme.spacingXL}px;
 	${mq("small")} {
 		padding-top: ${({ theme, marginBottom }) =>
-			marginBottom ? theme[marginBottom] : theme.spacingL}px;
+		marginBottom ? theme[marginBottom] : theme.spacingL}px;
 		margin-bottom: ${({ theme }) => theme.spacingL}px;
 	}
 `;
@@ -100,8 +100,8 @@ export default async function markdownToHtml(markdownContent) {
 			},
 		});
 
-	const result =  processor.processSync(markdownContent).result;
+	const result = processor.processSync(markdownContent).result;
 	// console.log(result.props.children);
-		
+
 	return await result;
 }

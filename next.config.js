@@ -15,12 +15,6 @@ const ASSET_PATH = process.env.ASSET_PATH || "/";
 module.exports = withImages({
 	// basePath: "",
 
-	cssModules: false,
-
-	future: {
-		webpack5: true,
-	},
-
 	env: {
 		ASSET_PATH: ASSET_PATH,
 	},

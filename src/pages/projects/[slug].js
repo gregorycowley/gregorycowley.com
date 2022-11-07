@@ -4,7 +4,7 @@ import { LayoutAlt } from "components";
 import { ProjectDetails, Hero } from "components";
 import { getPostBySlug, getAllPosts } from "lib/api";
 import markdownToHtml from "lib/markdownToHtml";
-import Project from "components/Project"
+import Project from "components/Project";
 
 class ProjectOne extends React.Component {
 	constructor(props) {
@@ -32,13 +32,13 @@ class ProjectOne extends React.Component {
 
 	}
 
-	componentDidMount(){
+	componentDidMount() {
 		const self = this;
 		// console.log("Component mounted");
 		const content = markdownToHtml(this.props.post.content || "").then(
 			(data) => {
 				// console.log("Component mounted");
-				self.setState({ children: data })
+				self.setState({ children: data });
 			}
 		);
 	}
@@ -47,7 +47,7 @@ class ProjectOne extends React.Component {
 
 	render() {
 		const ele = this.post.description.split("\n");
-		const description = ele.map(( text, key ) => {
+		const description = ele.map((text, key) => {
 			return (
 				<p key={`sp-${key}`}>
 					{text}
@@ -69,13 +69,13 @@ export async function getStaticProps({ params }) {
 
 	const posts = getAllPosts(["slug"]);
 
-	const values = posts.map( (item, key) => {
+	const values = posts.map((item, key) => {
 		return (item ? item.slug : "");
 	});
 
-	const currentIndex = values.indexOf(params.slug);  
-	const prevItem = values[Math.max( 0, currentIndex - 1)];
-	const nextItem = values[Math.min( values.length - 1, currentIndex + 1)];
+	const currentIndex = values.indexOf(params.slug);
+	const prevItem = values[Math.max(0, currentIndex - 1)];
+	const nextItem = values[Math.min(values.length - 1, currentIndex + 1)];
 
 	const post = getPostBySlug(params.slug, [
 		"title",
@@ -93,7 +93,7 @@ export async function getStaticProps({ params }) {
 		"right_images",
 	]);
 
-	
+
 
 	// console.log(post);
 
