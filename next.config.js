@@ -6,24 +6,24 @@ const glob = require('glob');
  */
 
 module.exports = withCSS({
-	cssModules: false,
-	webpack: config => {
-		config.module.rules.push({
-			test: /\.md$/,
-			use: "raw-loader"
-		});
-		return config;
-	}
-	,
-	exportPathMap: async function () {
-		const routes = {
-			'/': { page: '/' },
-			'/about': { page: '/about' },
-			'/resume': { page: '/resume' },
-			'/skills': { page: '/skills' },
-			'/tools': { page: '/tools' },
-			'/sitemap': { page: '/sitemap' },
-		}
-		return routes
-	}
+  cssModules: false,
+  webpack: config => {
+    config.module.rules.push({
+      test: /\.md$/,
+      use: "raw-loader"
+    });
+    return config;
+  }
+  ,
+  exportPathMap: async function() {
+    const routes = {
+      '/': { page: '/' },
+      '/about': { page: '/about' },
+      '/resume': { page: '/resume' },
+      '/skills': { page: '/skills' },
+      '/tools': { page: '/tools' },
+      '/sitemap': { page: '/sitemap' },
+    }
+    return routes
+  }
 });
