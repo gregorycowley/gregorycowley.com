@@ -1,12 +1,12 @@
 import React from "react";
-import { Image, Transformation } from "cloudinary-react";
+import { Image } from "cloudinary-react";
 
 /**
  * Photo
  * @param {*} props 
  */
 
- const Photo = props => {
+const Photo = props => {
   const public_id = props.img;//`${props.img.replace(/\.[^/.]+$/, "")}.jpg`;
   const width = props.width;
   const additionalClass = props.additionalClass;

@@ -1,4 +1,0 @@
-/**
- * Navigation Layout
- * @param {*} props 
- */
