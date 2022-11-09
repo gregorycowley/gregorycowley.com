@@ -41,10 +41,10 @@ class Header extends React.Component {
     return (
       <header className={`header container ${this.props.className}`}>
         <div className="logo-block">
-          <Link href="/">
+          <Link href="/" legacyBehavior>
             <img src="/icons/gc-logo.svg" className="logo" alt="logo" />
           </Link>
-          <Link href="/">
+          <Link href="/" legacyBehavior>
             <h1 className="brand mono">Gregory Cowley</h1>
           </Link>
           <div className="sub-brand mono">Interdisciplinary Maker</div>
@@ -60,17 +60,17 @@ class Header extends React.Component {
           <ul className={`main-navigation ${this.state.menuToggle}`}>
             <li>
               <Link href="/">
-                <a>About</a>
+                About
               </Link>
             </li>
             <li>
               <Link href="/">
-                <a>Work</a>
+                Work
               </Link>
             </li>
             <li>
               <Link href="/">
-                <a>CV</a>
+                CV
               </Link>
             </li>
           </ul>

@@ -17,7 +17,7 @@ export default function Hero(props) {
         <li> More Here </li> <li> More There </li>{" "}
       </ul>{" "}
       <Link href="/">
-        {" "}<a> More to explore > </a>
+        {" "} More to explore > 
       </Link>
     </div>
   );

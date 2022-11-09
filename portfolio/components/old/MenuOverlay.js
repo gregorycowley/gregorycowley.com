@@ -15,14 +15,13 @@ class MenuOverlay extends React.Component{
   };
 
   render() {
-    return (
-    <>
+    return <>
       <div className={`mobile-menu menu-overlay ${this.state.menuToggle}`}>
         <nav className="menu-overlay-nav">
           <div className="close-btn">
-            <Link href="/"><a>CLOSE</a></Link>
+            <Link href="/">CLOSE</Link>
           </div>
-          <Link href="/">
+          <Link href="/" legacyBehavior>
             <div>
               <img src="/icons/gc-logo-opt-5.svg" className="logo" alt="logo" />
               <h3>Title</h3>
@@ -30,16 +29,16 @@ class MenuOverlay extends React.Component{
           </Link>
           <ul>
             <li>
-              <Link href="/"><a>Item 1</a></Link>
+              <Link href="/">Item 1</Link>
             </li>
             <li>
-              <Link href="/"><a>Item 2</a></Link>
+              <Link href="/">Item 2</Link>
             </li>
             <li>
-              <Link href="/"><a>Item 3</a></Link>
+              <Link href="/">Item 3</Link>
             </li>
             <li>
-              <Link href="/"><a>Item 4</a></Link>
+              <Link href="/">Item 4</Link>
             </li>
           </ul>
         </nav>
@@ -47,8 +46,7 @@ class MenuOverlay extends React.Component{
       <div class="mobile-menu-toggle">
         <a onClick={this.toggle}><i class="menu-icon">^</i></a>
       </div>
-    </>
-  );
+    </>;
   }
 };
 

@@ -16,7 +16,7 @@ const Card = props => {
 
   return (
     <div className={`card-item ${style}`}>
-      <Link href={`${link}`}>
+      <Link href={`${link}`} legacyBehavior>
         <div className="card-image-content">
           <Image cloudName="dxgzx2apo"
             publicId={`${hero_image.replace(/\.[^/.]+$/, "")}.jpg`}
@@ -32,7 +32,7 @@ const Card = props => {
       <div className="card-text-content">
         <h3>
           <Link href={`${link}`}>
-            <a>{title}</a>
+            {title}
           </Link>
         </h3>
         <h4 className="card-sub-title">

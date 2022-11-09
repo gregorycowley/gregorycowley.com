@@ -4,11 +4,11 @@ export default function HeaderT(props) {
 
   return (
     <header className={`header ${props.className}`}>
-      <Link href="/">
+      <Link href="/" legacyBehavior>
         <img src="/icons/gc-logo-opt-5.svg" className="logo" alt="logo" />
       </Link>
       <nav className="nav" role="navigation" aria-label="main navigation">
-        <Link href="/">
+        <Link href="/" legacyBehavior>
           <h1>
             Testsite
           </h1>
@@ -17,22 +17,22 @@ export default function HeaderT(props) {
         <ul>
           <li>
             <Link href="/about">
-              <a>HOME</a>
+              HOME
             </Link>
           </li>
           <li>
             <Link href="/portfolio">
-              <a>PROJECT</a>
+              PROJECT
             </Link>
           </li>
           <li>
             <Link href="/portfolio">
-              <a>BIO</a>
+              BIO
             </Link>
           </li>
           <li>
             <Link href="/portfolio">
-              <a>CV</a>
+              CV
             </Link>
           </li>
         </ul>
