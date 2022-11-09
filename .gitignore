@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 .next
 .env
@@ -6,3 +7,62 @@ yarn-error.log
 dist
 examples
 packages
+=======
+# Gregory Cowley boilerplate gitignore 2022
+
+# Developement reference directories
+_notes/
+utility/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Next.js build output
+.next
+out
+dist
+
+# yarn
+/.yarn/
+.yarnrc.yml
+.pnp.*
+
+
+
+
+
+
+
+
+.vercel
+>>>>>>> Live2022
