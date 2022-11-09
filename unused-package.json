@@ -1,0 +1,29 @@
+{
+  "name": "gregorycowley.com",
+  "version": "0.9.0",
+  "author": "Gregory Cowley",
+  "description": "Gregory Cowley megalog website",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.4",
+  "private": true,
+  "workspaces": [
+    "articles",
+    "portfolio"
+  ],
+  "scripts": {
+    "articles": "yarn workspace articles dev",
+    "articles:build": "yarn workspace articles build",
+    "articles:start": "yarn workspace articles start",
+    "articles:lint": "yarn workspace articles lint",
+    "articles:test": "yarn workspace articles test",
+    "articles:test:ci": "yarn workspace articles test:ci",
+    "articles:cypress": "yarn workspace articles cypress",
+    "portfolio": "yarn workspace portfolio dev",
+    "portfolio:dev": "yarn workspace portfolio dev",
+    "portfolio:build": "yarn workspace portfolio build",
+    "portfolio:start": "yarn workspace portfolio start"
+  },
+  "devDependencies": {
+    "husky": "^8.0.2"
+  }
+}
