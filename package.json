@@ -1,0 +1,19 @@
+{
+  "name": "gregorycowley-com",
+  "version": "0.9.2",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "articles/",
+    "portfolio/"
+  ],
+  "scripts": {
+    "articles": "yarn --cwd articles start",
+    "portfolio": "yarn --cwd portfolio dev",
+    "dev": "npm-run-all --parallel articles portfolio"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}

@@ -6,3 +6,14 @@
 - [nextra-theme-docs](https://github.com/vercel/swr-site) ([demo](https://swr.vercel.app))
 - [nextra-theme-blog](https://github.com/shuding/site) ([demo](https://shud.in))
 
+
+# Errors
+
+Unhandled Runtime Error
+
+LinkComponent
+
+``` 
+npx @next/codemod new-link . 
+```
+
