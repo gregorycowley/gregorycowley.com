@@ -5,11 +5,12 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "articles/",
-    "portfolio/"
+    "articles",
+    "portfolio",
+    "packages/*"
   ],
   "scripts": {
-    "portfolio": "yarn --cwd portfolio run dev",
+    "portfolio": "yarn --cwd portfolio run start",
     "portfolio:dev": "yarn --cwd portfolio run dev",
     "portfolio:build": "yarn --cwd portfolio run build",
     "articles": "yarn --cwd articles run start",
@@ -17,7 +18,7 @@
     "articles:build": "yarn --cwd articles run build",
     "all:install": "yarn --cwd portfolio install && yarn --cwd articles install",
     "all:build": "npm-run-all --parallel articles:build portfolio:build",
-    "all:dev": "npm-run-all --parallel articles portfolio"
+    "all:dev": "npm-run-all --parallel articles:dev portfolio:dev"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.5"
