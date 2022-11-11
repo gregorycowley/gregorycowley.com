@@ -9,9 +9,15 @@
     "portfolio/"
   ],
   "scripts": {
-    "articles": "yarn --cwd articles start",
-    "portfolio": "yarn --cwd portfolio dev",
-    "dev": "npm-run-all --parallel articles portfolio"
+    "portfolio": "yarn --cwd portfolio run dev",
+    "portfolio:dev": "yarn --cwd portfolio run dev",
+    "portfolio:build": "yarn --cwd portfolio run build",
+    "articles": "yarn --cwd articles run start",
+    "articles:dev": "yarn --cwd articles run dev",
+    "articles:build": "yarn --cwd articles run build",
+    "all:install": "yarn --cwd portfolio install && yarn --cwd articles install",
+    "all:build": "npm-run-all --parallel articles:build portfolio:build",
+    "all:dev": "npm-run-all --parallel articles portfolio"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.5"
