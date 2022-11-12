@@ -5,7 +5,8 @@ module.exports = {
   },
   root: true,
   extends: [
-    "next/core-web-vitals"
+    "next/core-web-vitals",
+    "turbo"
   ],
   parserOptions: {
     ecmaFeatures: {
