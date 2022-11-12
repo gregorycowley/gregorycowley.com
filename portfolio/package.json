@@ -4,7 +4,7 @@
   "description": "Gregory Cowley portfolio website",
   "main": "index.html",
   "scripts": {
-    "dev": "NODE_OPTIONS=--openssl-legacy-provider next -p 3002",
+    "dev": "next -p 3002",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
