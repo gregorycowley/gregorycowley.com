@@ -5,8 +5,8 @@
   "main": "index.html",
   "scripts": {
     "dev": "NODE_OPTIONS=--openssl-legacy-provider next -p 3002",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider next build",
-    "start": "NODE_OPTIONS=--openssl-legacy-provider next start",
+    "build": "next build",
+    "start": "next start",
     "lint": "next lint",
     "export": "next export  -o ./dist",
     "deploy": "now deploy -A now.json dist",
