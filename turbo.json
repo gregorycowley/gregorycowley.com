@@ -8,24 +8,9 @@
       "outputs": [
         "dist/**",
         ".next/**"
-      ]
-    },
-    "articles#build": {
-      "dependsOn": [
-        "^build"
       ],
-      "outputs": [
-        "dist/**",
-        ".next/**"
-      ]
-    },
-    "portfolio#build": {
-      "dependsOn": [
-        "^build"
-      ],
-      "outputs": [
-        "dist/**",
-        ".next/**"
+      "env": [
+        "WEBPACK_SERVE"
       ]
     },
     "test": {
@@ -36,14 +21,6 @@
       "inputs": []
     },
     "lint": {
-      "outputs": []
-    },
-    "deploy": {
-      "dependsOn": [
-        "build",
-        "test",
-        "lint"
-      ],
       "outputs": []
     },
     "dev": {
