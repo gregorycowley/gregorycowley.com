@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "start": "next start",
-    "build": "next build"
+    "build": "next build",
+    "lint": "next lint"
   },
   "author": "Shu Ding",
   "license": "MIT",
@@ -18,7 +19,9 @@
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "prettier": "^2.0.5"
+    "prettier": "^2.0.5",
+    "eslint": "^8.27.0",
+    "eslint-config-next": "^13.0.3"
   },
   "resolutions": {},
   "prettier": {
