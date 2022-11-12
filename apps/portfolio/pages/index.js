@@ -2,11 +2,11 @@ import React from "react";
 import matter from "gray-matter";
 import { Layout, Card } from "../components/";
 
-// const debug = require('debug')('http')
-//   , http = require('http')
-//   , name = 'My App';
+const debug = require('debug')('http')
+  , http = require('http')
+  , name = 'My App';
 
-// debug('booting %o', name);
+debug('booting %o', name);
 
 const CardItem = (props) => {
   const {
