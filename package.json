@@ -5,18 +5,17 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "articles/",
-    "portfolio/",
+    "apps/*",
     "packages/*"
   ],
   "scripts": {
-    "portfolio": "yarn --cwd portfolio run start",
-    "portfolio:dev": "yarn --cwd portfolio run dev",
-    "portfolio:build": "yarn --cwd portfolio run build",
-    "articles": "yarn --cwd articles run start",
-    "articles:dev": "yarn --cwd articles run dev",
-    "articles:build": "yarn --cwd articles run build",
-    "all:install": "yarn --cwd portfolio install && yarn --cwd articles install",
+    "portfolio": "yarn --cwd apps/portfolio run start",
+    "portfolio:dev": "yarn --cwd apps/portfolio run dev",
+    "portfolio:build": "yarn --cwd apps/portfolio run build",
+    "articles": "yarn --cwd apps/articles run start",
+    "articles:dev": "yarn --cwd apps/articles run dev",
+    "articles:build": "yarn --cwd apps/articles run build",
+    "all:install": "yarn --cwd apps/portfolio install && yarn --cwd apps/articles install",
     "build": "npm-run-all --parallel articles:build portfolio:build",
     "vercel-build": "yarn build",
     "all:dev": "npm-run-all --parallel articles:dev portfolio:dev"
