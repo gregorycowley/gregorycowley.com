@@ -9,7 +9,6 @@
     "build": "next build",
     "lint": "next lint"
   },
-  "author": "Shu Ding",
   "license": "MIT",
   "dependencies": {
     "next": "^12.1.0",

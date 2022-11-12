@@ -1,12 +1,12 @@
 {
   "rewrites": [
     {
-      "source": "/artcles",
+      "source": "/articles",
       "destination": "https://gregorycowley-com-articles.vercel.app/"
     },
     {
       "source": "portfolio",
-      "destination": "/api/sharp"
+      "destination": "https://gregorycowley-com-portfolio.vercel.app"
     }
   ]
 }
