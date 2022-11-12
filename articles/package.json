@@ -20,6 +20,7 @@
   "devDependencies": {
     "prettier": "^2.0.5"
   },
+  "resolutions": {},
   "prettier": {
     "semi": false,
     "singleQuote": true

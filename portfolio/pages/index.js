@@ -2,23 +2,29 @@ import React from "react";
 import matter from "gray-matter";
 import { Layout, Card } from "../components/";
 
+// const debug = require('debug')('http')
+//   , http = require('http')
+//   , name = 'My App';
+
+// debug('booting %o', name);
+
 const CardItem = (props) => {
   const {
-      hero_image,
-      title,
-      subtitle,
-      description,
+    hero_image,
+    title,
+    subtitle,
+    description,
   } = props;
-  const link= `/${props.category}`
-  const style = "home" 
+  const link = `/${props.category}`
+  const style = "home"
 
   return (
-    <Card style={style} 
-          hero_image={hero_image} 
-          link={link} 
-          title={title}
-          subtitle={subtitle} 
-          description="" />
+    <Card style={style}
+      hero_image={hero_image}
+      link={link}
+      title={title}
+      subtitle={subtitle}
+      description="" />
   )
 };
 
@@ -30,18 +36,18 @@ class Index extends React.Component {
 
   render() {
     const {
-       hero_image,
-       title,
-       subtitle,
-       description,
+      hero_image,
+      title,
+      subtitle,
+      description,
     } = this.props.artistData;
-    const link= `/${this.props.artistData.category}`
-    const style = "home" 
+    const link = `/${this.props.artistData.category}`
+    const style = "home"
 
     return (
-      <Layout 
-       siteTitle={this.props.title}
-       siteDescription={this.props.description}
+      <Layout
+        siteTitle={this.props.title}
+        siteDescription={this.props.description}
       >
         <div className="home-grid container">
           <CardItem {...this.props.artistData} />
@@ -58,7 +64,7 @@ class Index extends React.Component {
 
 export default Index;
 
-Index.getInitialProps = async function() {
+Index.getInitialProps = async function () {
   const metadata = await import(`../data/config.json`)
   const artist = await import(`../content/disciplines/artist.md`);
   const designer = await import(`../content/disciplines/designer.md`);
@@ -66,7 +72,7 @@ Index.getInitialProps = async function() {
   const engineer = await import(`../content/disciplines/engineer.md`);
   const photographer = await import(`../content/disciplines/photographer.md`);
   const entrepreneur = await import(`../content/disciplines/entrepreneur.md`);
-  
+
   const artistData = matter(artist.default).data;
   const designerData = matter(designer.default).data;
   const educatorData = matter(educator.default).data;
