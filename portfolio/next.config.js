@@ -7,7 +7,7 @@ const glob = require('glob');
 
 module.exports = withCSS({
   cssModules: false,
-  basePath: '/portfolio',
+  // basePath: '/portfolio',
   /**
    * Options for using legacy version of webpack:
    * webpack5: false,
