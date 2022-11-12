@@ -1,12 +1,11 @@
 {
   "name": "gregorycowley-com",
   "version": "0.9.2",
-  "main": "index.js",
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "articles",
-    "portfolio",
+    "articles/",
+    "portfolio/",
     "packages/*"
   ],
   "scripts": {
