@@ -17,7 +17,8 @@
     "articles:dev": "yarn --cwd articles run dev",
     "articles:build": "yarn --cwd articles run build",
     "all:install": "yarn --cwd portfolio install && yarn --cwd articles install",
-    "vercel-build": "npm-run-all --parallel articles:build portfolio:build",
+    "build": "npm-run-all --parallel articles:build portfolio:build",
+    "vercel-build": "yarn build",
     "all:dev": "npm-run-all --parallel articles:dev portfolio:dev"
   },
   "devDependencies": {
