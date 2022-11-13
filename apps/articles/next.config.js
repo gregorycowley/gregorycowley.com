@@ -4,5 +4,5 @@ const withNextra = require('nextra')({
   unstable_staticImage: true,
 })
 module.exports = withNextra({
-  // basePath: 'app/articles',
+  basePath: '/articles',
 })

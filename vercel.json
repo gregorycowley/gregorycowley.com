@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/articles",
-      "destination": "https://gregorycowley-com-articles.vercel.app/"
+      "destination": "https://gregorycowley-com-articles.vercel.app/articles"
     },
     {
-      "source": "/portfolio",
-      "destination": "https://gregorycowley-com-portfolio.vercel.app"
+      "source": "/articles/:path*",
+      "destination": "https://gregorycowley-com-articles.vercel.app/articles/:path*"
     }
   ]
 }
