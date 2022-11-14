@@ -4,13 +4,13 @@
     <subtitle>Blog</subtitle>
     <link href="/atom" rel="self" type="application/rss+xml"/>
     <link href="/" />
-    <updated>2022-11-14T03:13:04.402Z</updated>
+    <updated>2022-11-14T03:42:17.745Z</updated>
     <id>My Notion Blog</id>
     <entry>
       <id>/blog/exploratorium</id>
       <title>Exploratorium General</title>
       <link href="/blog/exploratorium"/>
-      <updated>2022-11-13T08:00:00.160Z</updated>
+      <updated>2022-11-13T08:00:00.056Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
@@ -25,7 +25,7 @@
       <id>/blog/cca</id>
       <title>CCA</title>
       <link href="/blog/cca"/>
-      <updated>2022-11-13T08:00:00.161Z</updated>
+      <updated>2022-11-13T08:00:00.057Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
@@ -40,7 +40,7 @@
       <id>/blog/bobdylancenter</id>
       <title>Bob Dylan Center</title>
       <link href="/blog/bobdylancenter"/>
-      <updated>2022-11-13T08:00:00.161Z</updated>
+      <updated>2022-11-13T08:00:00.057Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
@@ -55,7 +55,7 @@
       <id>/blog/winchestermysteryhouse</id>
       <title>Winchester Mystery House</title>
       <link href="/blog/winchestermysteryhouse"/>
-      <updated>2022-11-13T08:00:00.161Z</updated>
+      <updated>2022-11-13T08:00:00.057Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
@@ -70,7 +70,7 @@
       <id>/blog/blurbbookify</id>
       <title>Blurb Bookify</title>
       <link href="/blog/blurbbookify"/>
-      <updated>2022-11-13T08:00:00.161Z</updated>
+      <updated>2022-11-13T08:00:00.058Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
@@ -85,7 +85,7 @@
       <id>/blog/nikeskateboarding</id>
       <title>Nike Skateboarding</title>
       <link href="/blog/nikeskateboarding"/>
-      <updated>2022-11-13T08:00:00.161Z</updated>
+      <updated>2022-11-13T08:00:00.058Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
