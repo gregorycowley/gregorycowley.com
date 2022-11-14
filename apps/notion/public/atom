@@ -4,93 +4,93 @@
     <subtitle>Blog</subtitle>
     <link href="/atom" rel="self" type="application/rss+xml"/>
     <link href="/" />
-    <updated>2022-11-14T03:42:17.745Z</updated>
+    <updated>2022-11-14T16:23:14.205Z</updated>
     <id>My Notion Blog</id>
     <entry>
-      <id>/blog/exploratorium</id>
+      <id>/case-studies/exploratorium</id>
       <title>Exploratorium General</title>
-      <link href="/blog/exploratorium"/>
-      <updated>2022-11-13T08:00:00.056Z</updated>
+      <link href="/case-studies/exploratorium"/>
+      <updated>2022-11-13T08:00:00.143Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
           <p class="more">
-            <a href="/blog/exploratorium">Read more</a>
+            <a href="/case-studies/exploratorium">Read more</a>
           </p>
         </div>
       </content>
       <author><name>Gregory Cowley</name></author>
     </entry>
     <entry>
-      <id>/blog/cca</id>
+      <id>/case-studies/cca</id>
       <title>CCA</title>
-      <link href="/blog/cca"/>
-      <updated>2022-11-13T08:00:00.057Z</updated>
+      <link href="/case-studies/cca"/>
+      <updated>2022-11-13T08:00:00.144Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
           <p class="more">
-            <a href="/blog/cca">Read more</a>
+            <a href="/case-studies/cca">Read more</a>
           </p>
         </div>
       </content>
       <author><name>Gregory Cowley</name></author>
     </entry>
     <entry>
-      <id>/blog/bobdylancenter</id>
+      <id>/case-studies/bobdylancenter</id>
       <title>Bob Dylan Center</title>
-      <link href="/blog/bobdylancenter"/>
-      <updated>2022-11-13T08:00:00.057Z</updated>
+      <link href="/case-studies/bobdylancenter"/>
+      <updated>2022-11-13T08:00:00.144Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
           <p class="more">
-            <a href="/blog/bobdylancenter">Read more</a>
+            <a href="/case-studies/bobdylancenter">Read more</a>
           </p>
         </div>
       </content>
       <author><name>Gregory Cowley</name></author>
     </entry>
     <entry>
-      <id>/blog/winchestermysteryhouse</id>
+      <id>/case-studies/winchestermysteryhouse</id>
       <title>Winchester Mystery House</title>
-      <link href="/blog/winchestermysteryhouse"/>
-      <updated>2022-11-13T08:00:00.057Z</updated>
+      <link href="/case-studies/winchestermysteryhouse"/>
+      <updated>2022-11-13T08:00:00.144Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
           <p class="more">
-            <a href="/blog/winchestermysteryhouse">Read more</a>
+            <a href="/case-studies/winchestermysteryhouse">Read more</a>
           </p>
         </div>
       </content>
       <author><name>Gregory Cowley</name></author>
     </entry>
     <entry>
-      <id>/blog/blurbbookify</id>
+      <id>/case-studies/blurbbookify</id>
       <title>Blurb Bookify</title>
-      <link href="/blog/blurbbookify"/>
-      <updated>2022-11-13T08:00:00.058Z</updated>
+      <link href="/case-studies/blurbbookify"/>
+      <updated>2022-11-13T08:00:00.144Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
           <p class="more">
-            <a href="/blog/blurbbookify">Read more</a>
+            <a href="/case-studies/blurbbookify">Read more</a>
           </p>
         </div>
       </content>
       <author><name>Gregory Cowley</name></author>
     </entry>
     <entry>
-      <id>/blog/nikeskateboarding</id>
+      <id>/case-studies/nikeskateboarding</id>
       <title>Nike Skateboarding</title>
-      <link href="/blog/nikeskateboarding"/>
-      <updated>2022-11-13T08:00:00.058Z</updated>
+      <link href="/case-studies/nikeskateboarding"/>
+      <updated>2022-11-13T08:00:00.144Z</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
           
           <p class="more">
-            <a href="/blog/nikeskateboarding">Read more</a>
+            <a href="/case-studies/nikeskateboarding">Read more</a>
           </p>
         </div>
       </content>
