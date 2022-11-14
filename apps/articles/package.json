@@ -1,0 +1,31 @@
+{
+  "name": "articles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build",
+    "lint": "next lint"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.1.0",
+    "nextra": "^1.1.0",
+    "nextra-theme-docs": "^1.2.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "eslint": "^8.27.0",
+    "eslint-config-next": "^13.0.3",
+    "eslint-config-turbo": "latest"
+  },
+  "resolutions": {},
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  }
+}

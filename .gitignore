@@ -3,6 +3,7 @@
 # Developement reference directories
 _notes/
 utility/
+_reference/
 
 # Logs
 logs
@@ -51,3 +52,7 @@ dist
 .pnp.*
 
 .vercel
+build/**
+dist/**
+.next/**
+.turbo
