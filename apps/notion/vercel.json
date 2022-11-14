@@ -15,7 +15,7 @@
     },
     {
       "source": "/(.*)",
-      "destination": "/"
+      "destination": "https://gregorycowley-com-portfolio.vercel.app/"
     }
   ]
 }
