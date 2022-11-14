@@ -7,7 +7,11 @@
       ],
       "outputs": [],
       "env": [
-        "WEBPACK_SERVE"
+        "WEBPACK_SERVE",
+        "NODE_ENV",
+        "USE_CACHE",
+        "NOTION_TOKEN",
+        "BLOG_INDEX_ID"
       ]
     },
     "test": {
