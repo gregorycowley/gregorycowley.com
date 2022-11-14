@@ -3974,7 +3974,7 @@ eslint-config-next@^13.0.3:
     eslint-plugin-react "^7.31.7"
     eslint-plugin-react-hooks "^4.5.0"
 
-eslint-config-turbo@latest:
+eslint-config-turbo@^0.0.4, eslint-config-turbo@latest:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/eslint-config-turbo/-/eslint-config-turbo-0.0.4.tgz#4850255f8c858131843aa38854d4aed0ff09bb6e"
   integrity sha512-HErPS/wfWkSdV9Yd2dDkhZt3W2B78Ih/aWPFfaHmCMjzPalh+5KxRRGTf8MOBQLCebcWJX0lP1Zvc1rZIHlXGg==
