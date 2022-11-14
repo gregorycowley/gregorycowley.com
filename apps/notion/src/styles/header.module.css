@@ -4,6 +4,7 @@
   padding: 2em 0;
   text-align: center;
   letter-spacing: -0.02em;
+  font-family: var(--font-heading);
 }
 
 .header ul {

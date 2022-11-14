@@ -50,7 +50,7 @@ export async function getStaticProps({ preview }) {
 const Index = ({ posts = [], preview }) => {
   return (
     <>
-      <Header titlePre="Blog" />
+      <Header titlePre="Case Studies" />
       {preview && (
         <div className={blogStyles.previewAlertContainer}>
           <div className={blogStyles.previewAlert}>
@@ -63,7 +63,7 @@ const Index = ({ posts = [], preview }) => {
         </div>
       )}
       <div className={`${sharedStyles.layout} ${blogStyles.blogIndex}`}>
-        <h1>My Notion Blog</h1>
+        <h1>Gregory Cowley Case Studies</h1>
         {posts.length === 0 && (
           <p className={blogStyles.noPosts}>There are no posts yet</p>
         )}
@@ -75,7 +75,7 @@ const Index = ({ posts = [], preview }) => {
                   {!post.Published && (
                     <span className={blogStyles.draftBadge}>Draft</span>
                   )}
-                  <Link href="/blog/[slug]" as={getBlogLink(post.Slug)}>
+                  <Link href="/case-studies/[slug]" as={getBlogLink(post.Slug)}>
                     <a>{post.Page}</a>
                   </Link>
                 </span>

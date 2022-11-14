@@ -3,6 +3,7 @@
 }
 
 .blogIndex h1 {
+
   margin-bottom: 50px;
 }
 
@@ -36,6 +37,7 @@
   border-radius: 5px;
   transition: all 0.2s ease 0s;
 }
+
 .escapePreview:hover {
   background-color: white;
   color: black;
@@ -48,12 +50,13 @@
   align-items: center;
   justify-content: flex-start;
 }
+
 .draftBadge {
   border-radius: 16px;
   background-color: black;
   color: white;
   font-size: 14px;
-  font-weight: 200;
+  font-weight: 300;
   padding: 2px 7px;
   margin-right: 6px;
 }
