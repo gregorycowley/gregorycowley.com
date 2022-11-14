@@ -2,14 +2,6 @@
   "outputDirectory": "build",
   "rewrites": [
     {
-      "source": "/articles",
-      "destination": "https://gregorycowley-com-articles.vercel.app/articles"
-    },
-    {
-      "source": "/articles/:path*",
-      "destination": "https://gregorycowley-com-articles.vercel.app/articles/:path*"
-    },
-    {
       "source": "/case-studies",
       "destination": "https://gregorycowley-com-notion.vercel.app/case-studies"
     },

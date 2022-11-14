@@ -12,7 +12,8 @@
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
     "start": "turbo run start",
-    "clean": "turbo run clean"
+    "clean": "turbo run clean",
+    "reset": "rm -fr node_modules && rm -fr apps/portfolio/node_modules && rm -fr apps/portfolio/.next && rm -fr apps/portfolio/.turbo && rm -fr /apps/notion/node_modules && rm -fr apps/notion/.next && rm -fr apps/notion/.turbo && rm -fr apps/articles/node_modules && rm -fr apps/articles/.next && rm -fr apps/articles/.turbo"
   },
   "devDependencies": {
     "debug": "^4.3.4",

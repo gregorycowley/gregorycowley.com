@@ -13,8 +13,9 @@ gregorycowley-com
 
     output directory: . <-- Produces a clean build, but in the wrong directory
 
+`vc --cwd build`
 
+`"outputDirectory": "apps/portfolio/.next",` points the server to the build directory
 
-
-
+"outputDirectory" can be set in `vercel.json`
 
