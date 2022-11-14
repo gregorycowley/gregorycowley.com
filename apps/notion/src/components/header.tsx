@@ -6,7 +6,7 @@ import styles from '../styles/header.module.css'
 
 const navItems: { label: string; page?: string; link?: string }[] = [
   { label: '&larr; Exit To Main Site', page: '/' },
-  { label: 'Case Studies', page: '/blog' },
+  { label: 'Case Studies', page: '/case-studies' },
 ]
 
 const ogImageUrl = 'https://notion-blog.now.sh/og-image.png'
