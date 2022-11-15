@@ -23,3 +23,14 @@ Run before build
 
 
 `svc --cwd build`
+
+`vercel project --debug`
+`vercel project ls`
+`vercel build --local-config ./vercel.json`
+`vercel pull --debug`
+`vercel pull --environment=production`
+
+`vercel env pull`
+`vercel build -d`
+`vercel project --cwd`
+`vercel --cwd ~/path-to/project`

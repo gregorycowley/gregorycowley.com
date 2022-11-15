@@ -9,8 +9,12 @@
       "destination": "https://gregorycowley-com-articles.vercel.app/articles/:path*"
     },
     {
-      "source": "/(.*)",
-      "destination": "/"
+      "source": "/case-studies",
+      "destination": "https://gregorycowley-com-notion.vercel.app/case-studies"
+    },
+    {
+      "source": "/cca-application",
+      "destination": "https://gregorycowley-com-notion.vercel.app/case-studies"
     }
   ]
 }

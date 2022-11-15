@@ -17,6 +17,6 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   }
 
   res.setPreviewData({})
-  res.writeHead(307, { Location: `/case-studies` })
+  res.writeHead(307, { Location: `/list` })
   res.end()
 }

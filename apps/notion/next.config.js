@@ -20,15 +20,15 @@ const warnOrError =
   process.env.NODE_ENV !== 'production'
     ? console.warn
     : (msg) => {
-        throw new Error(msg)
-      }
+      throw new Error(msg)
+    }
 
 if (!NOTION_TOKEN) {
   // We aren't able to build or serve images from Notion without the
   // NOTION_TOKEN being populated
   warnOrError(
     `\nNOTION_TOKEN is missing from env, this will result in an error\n` +
-      `Make sure to provide one before starting Next.js`
+    `Make sure to provide one before starting Next.js`
   )
 }
 
@@ -37,11 +37,12 @@ if (!BLOG_INDEX_ID) {
   // NOTION_TOKEN being populated
   warnOrError(
     `\nBLOG_INDEX_ID is missing from env, this will result in an error\n` +
-      `Make sure to provide one before starting Next.js`
+    `Make sure to provide one before starting Next.js`
   )
 }
 
 module.exports = {
+  basePath: '/case-studies',
   webpack(cfg, { dev, isServer }) {
     // only compile build-rss in production server build
     if (dev || !isServer) return cfg

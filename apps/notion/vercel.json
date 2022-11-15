@@ -7,14 +7,6 @@
     {
       "source": "/cca-application",
       "destination": "https://gregorycowley-com-notion.vercel.app/case-studies"
-    },
-    {
-      "source": "/case-studies/:path*",
-      "destination": "https://gregorycowley-com-notion.vercel.app/case-studies/:path*"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "https://gregorycowley-com-portfolio.vercel.app/"
     }
   ]
 }
