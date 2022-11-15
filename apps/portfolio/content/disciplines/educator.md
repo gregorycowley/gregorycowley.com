@@ -14,9 +14,9 @@ category: educator
 discipline: ''
 type: ''
 hero_image: disciplines/educator/CCA-top-161_ulsybv
-client: undefined
-firm: undefined
-project_type: undefined
+client: null
+firm: null
+project_type: null
 ---
 As an educator, I have taught at the California College of the Arts (CCA), Academy of Art, and workshops and online courses.
 I am currently teaching Interaction Design at CCA.

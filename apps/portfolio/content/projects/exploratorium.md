@@ -13,7 +13,7 @@ description: >-
   near City Hall in front of the San Francisco Public Library.
 discipline: Discipline
 firm: Exploratorium
-hero_image: projects/Exploratorium/Exploratorium-top-105
+hero_image: projects/Exploratorium/MiddleGround_DSC03033_nawvgv
 image_path: /projects/Exploratorium
 image_source_dir_name: Exploratorium
 left_images:

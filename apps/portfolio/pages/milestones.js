@@ -2,7 +2,7 @@ import React from "react";
 import matter from "gray-matter";
 import { DisciplinePage } from "../components/";
 
-class Educator extends React.Component {
+class Milestones extends React.Component {
   constructor(props) {
     super(props);
     this.props = props;
@@ -10,24 +10,32 @@ class Educator extends React.Component {
 
   render() {
     return (
-      <DisciplinePage 
+      <DisciplinePage
         title={this.props.data.data.title}
         subtitle={this.props.data.data.subtitle}
         description={this.props.data.data.description}
-        projects={this.props.projects} />   
+        projects={this.props.projects} />
     );
   }
 }
 
-export default Educator;
+export default Milestones;
 
-Educator.getInitialProps = async function() {
+Milestones.getInitialProps = async function () {
   const metadata = await import(`../data/config.json`);
   let projects = [];
 
-  projects.push(await import("../content/projects/cca.md"));
+  projects.push(await import("../content/projects/zephyros.md"));
+  projects.push(await import("../content/projects/spcontrols.md"));
+  projects.push(await import("../content/projects/quicktime.md"));
+  projects.push(await import("../content/projects/macromedia.md"));
+  projects.push(await import("../content/projects/doceri.md"));
+  projects.push(await import("../content/projects/branding.md"));
+  projects.push(await import("../content/projects/transcinema.md"));
+  projects.push(await import("../content/projects/drtingleton.md"));
+  projects.push(await import("../content/projects/3mps.md"));
 
-  const content = await import("../content/disciplines/educator.md");
+  const content = await import("../content/disciplines/milestones.md");
   const data = matter(content.default);
 
   return {

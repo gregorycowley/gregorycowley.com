@@ -22,9 +22,9 @@ category: entrepreneur
 discipline: ''
 type: ''
 hero_image: placehoders/GeoHex-bg07_vtenlp
-client: undefined
-firm: undefined
-project_type: undefined
+client: null
+firm: null
+project_type: null
 ---
 As an entrepreneur, I've created six companies. The first was a motion graphics and design house. The second was an art and technology venue and wine bar. The third was a professional photography studio that worked with commercial clients and private commissions.
 

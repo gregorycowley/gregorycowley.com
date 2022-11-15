@@ -15,9 +15,9 @@ category: photographer
 discipline: ''
 projecttype: ''
 hero_image: disciplines/photographer/022_inprint_ptc4ce
-client: undefined
-firm: undefined
-project_type: undefined
+client: null
+firm: null
+project_type: null
 ---
 International commercial photographer who's worked in over 35 countries.
 

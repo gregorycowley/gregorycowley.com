@@ -16,9 +16,9 @@ category: designer
 discipline: ''
 type: ''
 hero_image: disciplines/designer/spcontrols_com_ishurs
-client: undefined
-firm: undefined
-project_type: undefined
+client: null
+firm: null
+project_type: null
 ---
 Traditional graphic design with a focus on interaction and experience design.
 
