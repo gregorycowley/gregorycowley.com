@@ -7,7 +7,8 @@
     "dev": "next -p 3002",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint ./"
+    "lint": "eslint ./",
+    "export": "next export"
   },
   "author": "Gregory Cowley",
   "license": "ISC",

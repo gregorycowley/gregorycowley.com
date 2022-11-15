@@ -55,7 +55,6 @@ module.exports = withCSS({
       '/resume': { page: '/resume' },
       '/skills': { page: '/skills' },
       '/tools': { page: '/tools' },
-      '/sitemap': { page: '/sitemap' },
     }
     return routes
   }

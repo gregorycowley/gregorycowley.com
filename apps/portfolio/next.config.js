@@ -55,7 +55,17 @@ module.exports = withCSS({
       '/resume': { page: '/resume' },
       '/skills': { page: '/skills' },
       '/tools': { page: '/tools' },
-      '/sitemap': { page: '/sitemap' },
+      '/artist': { page: '/artist' },
+      '/clients': { page: '/clients' },
+      '/designer': { page: '/designer' },
+      '/educator': { page: '/educator' },
+      '/engineer': { page: '/engineer' },
+      '/entrepreneur': { page: '/entrepreneur' },
+      '/photographer': { page: '/photographer' },
+      '/projects-all': { page: '/projects-all' },
+      '/showcase': { page: '/showcase' },
+      '/milestones': { page: '/milestones' },
+      '/cca-application': { page: '/cca-application' }
     }
     return routes
   }

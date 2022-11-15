@@ -20,7 +20,7 @@
   "redirects": [
     {
       "source": "/cca-application(.*)",
-      "destination": "/case-studies/list$1"
+      "destination": "/milestones$1"
     }
   ]
 }
