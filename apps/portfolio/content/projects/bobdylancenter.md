@@ -27,4 +27,7 @@ subtitle: Heads-Up Immersive Audio Experience.
 title: Bob Dylan Center
 type: Component
 ---
-Bob Dylan Center Content
+
+While working as a Creative Technogist at Art Processors I had the privilege of launching the Bob Dylan Center in Tulsa, OK.
+
+
