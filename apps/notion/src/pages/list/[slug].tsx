@@ -144,7 +144,7 @@ const RenderPost = ({ post, redirect, preview }) => {
           <div className={blogStyles.previewAlert}>
             <b>Note:</b>
             {` `}Viewing in preview mode{' '}
-            <Link href={`/api/clear-preview?slug=${post.Slug}`}>
+            <Link href={`/case-studies/api/clear-preview?slug=${post.Slug}`}>
               <button className={blogStyles.escapePreview}>Exit Preview</button>
             </Link>
           </div>
@@ -345,7 +345,7 @@ const RenderPost = ({ post, redirect, preview }) => {
                 child = (
                   <Comp
                     key={!useWrapper ? id : undefined}
-                    src={`/api/asset?assetUrl=${encodeURIComponent(
+                    src={`/case-studies/api/asset?assetUrl=${encodeURIComponent(
                       display_source as any
                     )}&blockId=${id}`}
                     controls={!isImage}
