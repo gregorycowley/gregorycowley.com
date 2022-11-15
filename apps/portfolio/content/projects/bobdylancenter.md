@@ -15,6 +15,12 @@ left_images:
 project_type: Project Type
 projecttype: Project Type
 right_images:
+  - src: projects/BobDylanCenter/BobDylanCenter_19_zyzgko
+  - src: projects/BobDylanCenter/BobDylanCenter_13_v2hbne
+  - src: projects/BobDylanCenter/BDC_115_x4ona7
+  - src: projects/BobDylanCenter/1396016280_mzl3ty
+  - src: projects/BobDylanCenter/IMG_2258_ybwmcj
+  - src: projects/BobDylanCenter/IMG_2153_ge7ldn
 slug: bobdylancenter
 status: active
 subtitle: Heads-Up Immersive Audio Experience.
