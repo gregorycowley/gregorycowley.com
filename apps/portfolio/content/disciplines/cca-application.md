@@ -1,6 +1,6 @@
 ---
 slug: cca-application
-title: Ranked Professor Application
+title: Assistant Professor, Ranked Renewable, Part-time
 subtitle: Select Interaction Design Projects
 description: >
   CCA Application Description
@@ -10,7 +10,7 @@ status: draft
 category: designer
 discipline: ''
 type: ''
-hero_image: disciplines/educator/CCA-top-161_ulsybv
+hero_image: projects/BobDylanCenter/BobDylanCenter_13_v2hbne
 client: null
 firm: null
 project_type: null

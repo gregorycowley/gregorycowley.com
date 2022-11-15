@@ -8,11 +8,5 @@
       "source": "/case-studies/:path*",
       "destination": "https://gregorycowley-com-notion.vercel.app/case-studies/:path*"
     }
-  ],
-  "redirects": [
-    {
-      "source": "/cca-application(.*)",
-      "destination": "/case-studies$1"
-    }
   ]
 }
