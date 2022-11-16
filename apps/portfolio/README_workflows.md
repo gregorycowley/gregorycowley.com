@@ -19,3 +19,10 @@ gregorycowley-com
 
 "outputDirectory" can be set in `vercel.json`
 
+
+
+`Why am I getting RangeError: Maximum call stack size exceeded?`
+
+`nvm use 16`
+
+Vercel has overwritten `next.config.js`. Restore the custom contents.
